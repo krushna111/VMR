@@ -35,7 +35,7 @@
 .wpostahs-slick-slider button.slick-next,
 .wpostahs-slick-slider button.slick-next:hover,
 .wpostahs-slick-slider button.slick-next:focus {
-    background: url(../../../../../../../../plugins/timeline-and-history-slider/assets/css/arrow-right.png) center center no-repeat !important;
+    background: url(../images/arrow-right.png) center center no-repeat !important;
     background-size: 10px 17px !important;
     outline: none !important
 }
@@ -43,7 +43,7 @@
 .wpostahs-slick-slider button.slick-prev,
 .wpostahs-slick-slider button.slick-prev:hover,
 .wpostahs-slick-slider button.slick-prev:focus {
-    background: url(../../../../../../../../plugins/timeline-and-history-slider/assets/css/arrow-left.png) center center no-repeat !important;
+    background: url(../images/arrow-left.png) center center no-repeat !important;
     background-size: 10px 17px !important;
     outline: none !important
 }
