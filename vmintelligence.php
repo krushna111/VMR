@@ -11,6 +11,8 @@
     background-color: #eee;
 }
 </style>
+
+
  <section id="sec_text_with_image_1" style="" class="content-area w-100 sec_text_with_image mt-4 mb-4">
     <div class="container">
         <div class="row">
