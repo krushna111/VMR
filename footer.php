@@ -18,20 +18,20 @@
                                             <ul id="menu-footer-1" class="menu">
                                                 <li id="menu-item-159454"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159454">
-                                                    <a href="<?= HOST?>/about-us/">Who we
+                                                    <a href="<?= HOST?>about-us/">Who we
                                                         are</a></li>
                                                 <li id="menu-item-122946"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122946">
-                                                    <a href="<?= HOST?>/report-store/">Industries
+                                                    <a href="<?= HOST?>report-store/">Industries
                                                         We Cover</a></li>
                                                 <li id="menu-item-76590"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76590">
                                                     <a
-                                                        href="<?= HOST?>/career-page/">Careers</a>
+                                                        href="<?= HOST?>career-page/">Careers</a>
                                                 </li>
                                                 <li id="menu-item-121396"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121396">
-                                                    <a href="<?= HOST?>/blog/">Blog</a></li>
+                                                    <a href="<?= HOST?>blog/">Blog</a></li>
                                             </ul>
                                         </div>
                                     </section>
@@ -43,31 +43,31 @@
                                             <ul id="menu-footer-2" class="menu">
                                                 <li id="menu-item-121417"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121417">
-                                                    <a href="<?= HOST?>/vmintelligence/">VM
+                                                    <a href="<?= HOST?>vmintelligence/">VM
                                                         Intelligence</a></li>
                                                 <li id="menu-item-326735"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326735">
                                                     <a
-                                                        href="<?= HOST?>/reports/">Reports</a>
+                                                        href="<?= HOST?>reports/">Reports</a>
                                                 </li>
                                                 <li id="menu-item-175424"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175424">
                                                     <a
-                                                        href="<?= HOST?>/consultingchnaged/">Consulting</a>
+                                                        href="<?= HOST?>consultingchnaged/">Consulting</a>
                                                 </li>
                                                 <li id="menu-item-76606"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76606">
                                                     <a
-                                                        href="<?= HOST?>/report-infographics/">Infographics</a>
+                                                        href="<?= HOST?>report-infographics/">Infographics</a>
                                                 </li>
                                                 <li id="menu-item-76607"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76607">
-                                                    <a href="<?= HOST?>/become-a-reseller/">Become
+                                                    <a href="<?= HOST?>become-a-reseller/">Become
                                                         a Reseller</a></li>
                                                 <li id="menu-item-177639"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177639">
                                                     <a
-                                                        href="<?= HOST?>/research-methodology/">Research
+                                                        href="<?= HOST?>research-methodology/">Research
                                                         Methodology</a></li>
                                             </ul>
                                         </div>
@@ -81,29 +81,29 @@
                                                 <li id="menu-item-121178"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-121178">
                                                     <a rel="privacy-policy"
-                                                        href="<?= HOST?>/privacy-policy/">Privacy
+                                                        href="<?= HOST?>privacy-policy/">Privacy
                                                         Policy</a></li>
                                                 <li id="menu-item-121179"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121179">
-                                                    <a href="<?= HOST?>/cookie-policy/">Cookie
+                                                    <a href="<?= HOST?>cookie-policy/">Cookie
                                                         Policy</a></li>
                                                 <li id="menu-item-121180"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121180">
                                                     <a
-                                                        href="<?= HOST?>/return-and-refund-policy/">Returns
+                                                        href="<?= HOST?>return-and-refund-policy/">Returns
                                                         &#038; Refund Policy</a></li>
                                                 <li id="menu-item-150007"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150007">
                                                     <a
-                                                        href="<?= HOST?>/terms-and-conditions/">Terms
+                                                        href="<?= HOST?>terms-and-conditions/">Terms
                                                         and Conditions</a></li>
                                                 <li id="menu-item-132237"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132237">
-                                                    <a href="<?= HOST?>/customer-service/">Customer
+                                                    <a href="<?= HOST?>customer-service/">Customer
                                                         Help</a></li>
                                                 <li id="menu-item-132238"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132238">
-                                                    <a href="<?= HOST?>/customer/">FAQs</a>
+                                                    <a href="<?= HOST?>customer/">FAQs</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -117,13 +117,13 @@
                                                 <li
                                                     class="menu-item menu-item-type-post_type menu-item-object-page nav-item">
                                                     <a rel="noreferer, ,noopener"
-                                                        href="<?= HOST?>/privacy-policy/"
+                                                        href="<?= HOST?>privacy-policy/"
                                                         class="nav-link">Privacy Policy</a>
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-post_type menu-item-object-page nav-item">
                                                     <a rel="noreferer, ,noopener"
-                                                        href="<?= HOST?>/terms-and-conditions/"
+                                                        href="<?= HOST?>terms-and-conditions/"
                                                         class="nav-link">Terms and Conditions</a>
                                                 </li>
 
@@ -138,8 +138,8 @@
                                 <div class="logo-inner-div">
                                     <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20206%2045'%3E%3C/svg%3E"
                                         alt="" width="206" height="45"
-                                        data-lazy-src="images/Verified_Market_Research_logo.png"><noscript><img
-                                            src="https://www.verifiedmarketresearch.com/wp-content/uploads/2021/06/Verified_Market_Research_logo.png"
+                                        data-lazy-src="<?=HOST?>images/Verified_Market_Research_logo.png"><noscript><img
+                                            src="<?=HOST?>images/Verified_Market_Research_logo.png"
                                             alt="" width="206" height="45"></noscript>
                                     <div class="footer-contact-links">
                                         <a rel="noreferer, ,noopener"
@@ -162,9 +162,9 @@
                                         target="_blank"><img width="206" height="64"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20206%2064'%3E%3C/svg%3E"
                                             alt="ESOMAR Corporate Membership Information" border="0" class="esomar-logo"
-                                            data-lazy-src="https://www.verifiedmarketresearch.com/wp-content/uploads/esomar_corporate.png"><noscript><img
+                                            data-lazy-src="<?=HOST?>images/esomar_corporate.png"><noscript><img
                                                 width="206" height="64"
-                                                src="images/esomar_corporate.png"
+                                                src="<?=HOST?>images/esomar_corporate.png"
                                                 alt="ESOMAR Corporate Membership Information" border="0"
                                                 class="esomar-logo"></noscript></a>
 
@@ -196,9 +196,9 @@
                             <span>All Rights Reserved &copy; 2025&nbsp; <a rel="noreferer, ,noopener"
                                     href="<?= HOST?>"><?= HOST?></a>.</span>
                             <span class="sitemap-link"><a rel="noreferer, ,noopener"
-                                    href="<?= HOST?>/sitemap/">Sitemap</a></span>&nbsp;<span
+                                    href="<?= HOST?>sitemap/">Sitemap</a></span>&nbsp;<span
                                 class="sitemap-link"><a rel="noreferer, ,noopener"
-                                    href="<?= HOST?>/sitemap_index.xml" target="_blank">XML
+                                    href="<?= HOST?>sitemap_index.xml" target="_blank">XML
                                     Sitemap</a></span>
                         </div>
                         <div class="col-md-3 col-xl-3 col-sm-12 social-col">
@@ -221,15 +221,7 @@
                 </div>
             </div>
 
-            <!-- <div class="row footer_social">
-                         <div class="col-6 col-md-3"><section id="block-2" class="widget widget_block"><p><iframe loading="lazy" id="TL_iFrame_id_7257_2058_1632136975" src="about:blank" frameborder="0" vspace="0" hspace="0" scrolling="no" style="width: -webkit-fill-available;" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://app.trustlock.co/iframe/7257/my-badge/2058"></iframe><noscript><iframe id="TL_iFrame_id_7257_2058_1632136975" src="https://app.trustlock.co/iframe/7257/my-badge/2058" frameborder="0" vspace="0" hspace="0" scrolling="no" style="width: -webkit-fill-available;"></iframe></noscript></p>
-<p><img width="88" height="75" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%2075'%3E%3C/svg%3E" style="
-float: left;" data-lazy-src="/wp-content/uploads/2021/11/verified-seal.jpg"><noscript><img width="88" height="75" decoding="async" src="/wp-content/uploads/2021/11/verified-seal.jpg" style="
-float: left;"></noscript></p>
-<h4 class="dun_bradstreet">VMR is Dun &amp; Bradstreet Verified.</h4>
-<p></p></section></div>
- 
-</div> -->
+
         </div>
     </div>
 </footer>
@@ -323,13 +315,7 @@ float: left;"></noscript></p>
         });
     });
 </script>
-<script type="text/javascript">
-    (function () {
-        var c = document.body.className;
-        c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-        document.body.className = c;
-    })();
-</script>
+
 <script type="text/javascript">
     function revslider_showDoubleJqueryError(sliderID) {
         var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
@@ -346,9 +332,9 @@ float: left;"></noscript></p>
     var sticky_anything_engage = { "element": ".single-product .old-research-sidebar > .widget-area, .single-product .new-research-sidebar > .widget-area, .single-infographics .new-research-sidebar > .widget-area", "topspace": "60", "minscreenwidth": "750", "maxscreenwidth": "999999", "zindex": "19", "legacymode": "", "dynamicmode": "", "debugmode": "", "pushup": "#Footer", "adminbar": "1" };
     /* ]]> */
 </script>
-<script type="text/javascript" src="js/owl.carousel.js" id="sws-owl-carousel-js-js"></script>
+<script type="text/javascript" src="<?=HOST?>js/owl.carousel.js" id="sws-owl-carousel-js-js"></script>
 
-<script type="text/javascript" src="js/jquery.blockUI.min.js" id="jquery-blockui-js"></script>
+<script type="text/javascript" src="<?=HOST?>js/jquery.blockUI.min.js" id="jquery-blockui-js"></script>
 <script type="text/javascript" id="rocket-browser-checker-js-after">
     /* <![CDATA[ */
     "use strict"; var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || !1, descriptor.configurable = !0, "value" in descriptor && (descriptor.writable = !0), Object.defineProperty(target, descriptor.key, descriptor) } } return function (Constructor, protoProps, staticProps) { return protoProps && defineProperties(Constructor.prototype, protoProps), staticProps && defineProperties(Constructor, staticProps), Constructor } }(); function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) throw new TypeError("Cannot call a class as a function") } var RocketBrowserCompatibilityChecker = function () { function RocketBrowserCompatibilityChecker(options) { _classCallCheck(this, RocketBrowserCompatibilityChecker), this.passiveSupported = !1, this._checkPassiveOption(this), this.options = !!this.passiveSupported && options } return _createClass(RocketBrowserCompatibilityChecker, [{ key: "_checkPassiveOption", value: function (self) { try { var options = { get passive() { return !(self.passiveSupported = !0) } }; window.addEventListener("test", null, options), window.removeEventListener("test", null, options) } catch (err) { self.passiveSupported = !1 } } }, { key: "initRequestIdleCallback", value: function () { !1 in window && (window.requestIdleCallback = function (cb) { var start = Date.now(); return setTimeout(function () { cb({ didTimeout: !1, timeRemaining: function () { return Math.max(0, 50 - (Date.now() - start)) } }) }, 1) }), !1 in window && (window.cancelIdleCallback = function (id) { return clearTimeout(id) }) } }, { key: "isDataSaverModeOn", value: function () { return "connection" in navigator && !0 === navigator.connection.saveData } }, { key: "supportsLinkPrefetch", value: function () { var elem = document.createElement("link"); return elem.relList && elem.relList.supports && elem.relList.supports("prefetch") && window.IntersectionObserver && "isIntersecting" in IntersectionObserverEntry.prototype } }, { key: "isSlowConnection", value: function () { return "connection" in navigator && "effectiveType" in navigator.connection && ("2g" === navigator.connection.effectiveType || "slow-2g" === navigator.connection.effectiveType) } }]), RocketBrowserCompatibilityChecker }();
@@ -364,20 +350,21 @@ float: left;"></noscript></p>
 </script>
 
 
-<script type="text/javascript" src="js/popper.min.js"></script>
+<script type="text/javascript" src="<?=HOST?>js/popper.min.js"></script>
 
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="<?=HOST?>js/bootstrap.min.js"></script>
 
-<script type="text/javascript" src="js/theme-script.min.js"></script>
+<script type="text/javascript" src="<?=HOST?>js/theme-script.min.js"></script>
 
-<script type="text/javascript" src="js/slick.min.js"></script>
+<script type="text/javascript" src="<?=HOST?>js/slick.min.js"></script>
 
-<script type="text/javascript" src="js/slick-functions.js"></script>
+<script type="text/javascript" src="<?=HOST?>js/slick-functions.js"></script>
+
 
 <div id="catapult-cookie-bar" class="">
     <div class="ctcc-inner vmr-cookie"><span class="ctcc-left-side">We use cookies to enhance your experience. By
             continuing to visit this site you agree to our use of cookies: <a class="ctcc-more-info-link" tabindex=0
-                target="_blank" href="https://www.verifiedmarketresearch.com/cookie-policy/">Find out
+                target="_blank" href="<?=HOST?>cookie-policy/">Find out
                 more.</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex=0
                 onclick="catapultAcceptCookies();">Accept</button></span></div><!-- custom wrapper class -->
 </div><!-- #catapult-cookie-bar -->
@@ -396,7 +383,7 @@ float: left;"></noscript></p>
         }
     }, !1)</script>
 <script data-no-minify="1" async
-    src="js/lazyload.min.js"></script>
+    src="<?=HOST?>js/lazyload.min.js"></script>
 <script>
     jQuery(window).scroll(function (e) {
         if (jQuery(this).scrollTop() > 380) {
@@ -528,7 +515,7 @@ float: left;"></noscript></p>
                 jQuery(".HomeSearchSpinner").css("display", "block");
                 var filterRequest = jQuery.ajax({
                     method: 'POST',
-                    url: "https://www.verifiedmarketresearch.com/wp-admin/admin-ajax.php",
+                    url: "<?=HOST?>wp-admin/admin-ajax.php",
                     data: {
                         action: 'vmr_home_searching',
                         searching_value: searching_value,
@@ -651,7 +638,7 @@ float: left;"></noscript></p>
 
     function vmr_add_search_form() {
         var site_url = "https://www.verifiedmarketresearch.com";
-        var theme_url = "https://www.verifiedmarketresearch.com/wp-content/themes/vmr-theme";
+        var theme_url = "<?=HOST?>wp-content/themes/vmr-theme";
         var search_placeholder = "Search Report, Market or Industry&#8203;";
         var header_search = '<form method="get" id="vmr-header-search-form" action="' + site_url + '/reports/"><div class="row"><div class="col-md-2 SearchText pl-0 text-left"><p class="pt-1 m-0 vmr-font20 vmr-color-white">Search Markets</p></div><div class="col-md-9 position-relative"><input name="key" class="form-control" type="text" placeholder="' + search_placeholder + '" id="searchbox" onkeyup="vmr_home_searching_function(this);" autocomplete="off"><input type="submit" class="submit" value="<i class=\'icon-search-fine\'></i>" style="display:none;"><button style="display:none;" class="submit home-srch-btn" type="submit"><i class="icon-search-fine"></i></button><button style="" class="submit home-srch-btn" type="submit"><img class="fa-flip-horizontal" src="' + theme_url + '/inc/assets/images/search-icon1.png"></button><div class="loader fliter_loader HomeSearchSpinner" style="display: none;"></div></div><div class="col-md-1"> <a rel="noreferer, ,noopener" href="#" class="icon_close"><i class="fa fa-times"></i></a> </div></div><div class="row"><div class="offset-md-2 col-md-9"><div class="AutoSearch rounded-bottom"></div></div></div></form>';
         jQuery('#vmr-header-search-wrap').html(header_search).toggle();
@@ -735,7 +722,7 @@ float: left;"></noscript></p>
 </script>
 
 
-<script type="text/javascript" src="js/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="<?=HOST?>js/jquery.waypoints.min.js"></script>
 <script>
     jQuery('.thevideoimg').on('click', function (e) {
         let Self = jQuery(this);

@@ -10,12 +10,12 @@
             <ul> <!-- SLIDE  -->
                 <li data-index="rs-63" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                     data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                    data-thumb="images/home-banner-1.jpg" data-rotate="0"
+                    data-thumb="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" data-rotate="0"
                     data-saveperformance="off" data-title="Ask powerful questions" data-param1="" data-param2=""
                     data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                     data-param9="" data-param10="" data-description="VMR Advantage">
                     <!-- MAIN IMAGE -->
-                    <img src="images/home-banner-1.jpg" alt=""
+                    <img src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
                         title="home-banner-1" width="1920" height="1080" data-bgposition="center center"
                         data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
@@ -93,12 +93,12 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-64" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                     data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                    data-thumb="images/home-banner-1.jpg" data-rotate="0"
+                    data-thumb="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" data-rotate="0"
                     data-saveperformance="off" data-title="Access unique markets" data-param1="" data-param2=""
                     data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                     data-param9="" data-param10="" data-description="Our Report store">
                     <!-- MAIN IMAGE -->
-                    <img src="images/home-banner-1.jpg" alt=""
+                    <img src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
                         title="home-banner-1" width="1920" height="1080" data-bgposition="center center"
                         data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
@@ -138,12 +138,12 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-65" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                     data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                    data-thumb="images/home-banner-1.jpg" data-rotate="0"
+                    data-thumb="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" data-rotate="0"
                     data-saveperformance="off" data-title="Explore new dimensions" data-param1="" data-param2=""
                     data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                     data-param9="" data-param10="" data-description="VM Intelligence">
                     <!-- MAIN IMAGE -->
-                    <img src="images/home-banner-1.jpg" alt=""
+                    <img src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
                         title="home-banner-1" width="1920" height="1080" data-bgposition="center center"
                         data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
@@ -182,12 +182,12 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-66" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                     data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                    data-thumb="images/home-banner-1.jpg" data-rotate="0"
+                    data-thumb="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" data-rotate="0"
                     data-saveperformance="off" data-title="Always delivering quality" data-param1="" data-param2=""
                     data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                     data-param9="" data-param10="" data-description="VMR Consulting">
                     <!-- MAIN IMAGE -->
-                    <img src="images/home-banner-1.jpg" alt=""
+                    <img src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
                         title="home-banner-1" width="1920" height="1080" data-bgposition="center center"
                         data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
@@ -439,7 +439,7 @@
     <div class="container-fluid home-video-section" id="vmr-1">
         <div class="home-video-section-bg">
             <a href="javascript:void(0);" class="thevideoimg">
-                <div data-bg="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/market-research-background.png"
+                <div data-bg="https://images.verifiedmarketresearch.com/assets/market-research-background.png"
                     class="video-container rocket-lazyload" style="">
                     <div class="row" style="width:100%">
                         <div class="col-md-6 col-12">
@@ -497,7 +497,7 @@
                                     <span>Consulting Partnerships</span></a>
                             </div>
                         </div>
-                        <div data-bg="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/research-background.jpg"
+                        <div data-bg="https://images.verifiedmarketresearch.com/assets/research-background.jpg"
                             class="col-md-6 research-right-col rocket-lazyload" style="">
                             <!-- Tabs content -->
                             <div class="tab-content" id="v-pills-tabContent">
@@ -559,44 +559,44 @@
                 <div class="slider-col brand-carousel-item"><img width="250" height="250"
                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E"
                         alt="1 slide"
-                        data-lazy-src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/amazon-logo-resized.png"><noscript><img
+                        data-lazy-src="https://images.verifiedmarketresearch.com/assets/amazon-logo-resized.png"><noscript><img
                             width="250" height="250"
-                            src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/amazon-logo-resized.png"
+                            src="https://images.verifiedmarketresearch.com/assets/amazon-logo-resized.png"
                             alt="1 slide"></noscript></div>
                 <div class="slider-col brand-carousel-item"><img width="250" height="250"
                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E"
                         alt="2 slide"
-                        data-lazy-src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/schneider-logo.png"><noscript><img
+                        data-lazy-src="https://images.verifiedmarketresearch.com/assets/schneider-logo.png"><noscript><img
                             width="250" height="250"
-                            src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/schneider-logo.png"
+                            src="https://images.verifiedmarketresearch.com/assets/schneider-logo.png"
                             alt="2 slide"></noscript></div>
                 <div class="slider-col brand-carousel-item"><img width="250" height="250"
                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E"
                         alt="3 slide"
-                        data-lazy-src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/siemens-logo.png"><noscript><img
+                        data-lazy-src="https://images.verifiedmarketresearch.com/assets/siemens-logo.png"><noscript><img
                             width="250" height="250"
-                            src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/siemens-logo.png"
+                            src="https://images.verifiedmarketresearch.com/assets/siemens-logo.png"
                             alt="3 slide"></noscript></div>
                 <div class="slider-col brand-carousel-item"><img width="250" height="250"
                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E"
                         alt="4 slide"
-                        data-lazy-src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/forco-logo.png"><noscript><img
+                        data-lazy-src="https://images.verifiedmarketresearch.com/assets/forco-logo.png"><noscript><img
                             width="250" height="250"
-                            src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/forco-logo.png"
+                            src="https://images.verifiedmarketresearch.com/assets/forco-logo.png"
                             alt="4 slide"></noscript></div>
                 <div class="slider-col brand-carousel-item"><img width="250" height="250"
                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E"
                         alt="5 slide"
-                        data-lazy-src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/intel-logo.png"><noscript><img
+                        data-lazy-src="https://images.verifiedmarketresearch.com/assets/intel-logo.png"><noscript><img
                             width="250" height="250"
-                            src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/intel-logo.png"
+                            src="https://images.verifiedmarketresearch.com/assets/intel-logo.png"
                             alt="5 slide"></noscript></div>
                 <div class="slider-col brand-carousel-item"><img width="250" height="250"
                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E"
                         alt="6 slide"
-                        data-lazy-src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/lonza-logo.png"><noscript><img
+                        data-lazy-src="https://images.verifiedmarketresearch.com/assets/lonza-logo.png"><noscript><img
                             width="250" height="250"
-                            src="https://www.verifiedmarketresearch.com/wp-content/uploads/2022/08/lonza-logo.png"
+                            src="https://images.verifiedmarketresearch.com/assets/lonza-logo.png"
                             alt="6 slide"></noscript></div>
 
             </div>
@@ -776,13 +776,13 @@
                             all sizes and geographies.
                         </div>
                         <div class="view-reports-sec"> <span class="circle">&nbsp;</span> <a
-                                href="https://www.verifiedmarketresearch.com/reports/" class="view-report-link ch">View
+                                href="<?=HOST?>reports/" class="view-report-link ch">View
                                 all Reports</a></div>
                     </div>
                     <div class="col-md-8 col-sm-12">
                         <div class="  report-items">
                             <div class="report-item  ">
-                                <a href="https://www.verifiedmarketresearch.com/rcategory/accounting-services">
+                                <a href="<?=HOST?>rcategory/accounting-services">
                                     <img width="150" height="195"
                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20195'%3E%3C/svg%3E"
                                         class="aligncenter report-img img-fluid w-100 wp-post-image"
@@ -797,7 +797,7 @@
 
                             </div>
                             <div class="report-item  ">
-                                <a href="https://www.verifiedmarketresearch.com/rcategory/adhesives-sealants">
+                                <a href="<?=HOST?>rcategory/adhesives-sealants">
                                     <img width="150" height="195"
                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20195'%3E%3C/svg%3E"
                                         class="aligncenter report-img img-fluid w-100 wp-post-image"
@@ -812,7 +812,7 @@
 
                             </div>
                             <div class="report-item  ">
-                                <a href="https://www.verifiedmarketresearch.com/rcategory/advanced-materials">
+                                <a href="<?=HOST?>rcategory/advanced-materials">
                                     <img width="150" height="195"
                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20195'%3E%3C/svg%3E"
                                         class="aligncenter report-img img-fluid w-100 wp-post-image"
@@ -828,7 +828,7 @@
                             </div>
                             <div class="report-item  ">
                                 <a
-                                    href="https://www.verifiedmarketresearch.com/rcategory/advanced-materials-manufacturing">
+                                    href="<?=HOST?>rcategory/advanced-materials-manufacturing">
                                     <img width="150" height="195"
                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20195'%3E%3C/svg%3E"
                                         class="aligncenter report-img img-fluid w-100 wp-post-image"
@@ -844,7 +844,7 @@
                             </div>
                             <div class="report-item  ">
                                 <a
-                                    href="https://www.verifiedmarketresearch.com/rcategory/advanced-materials-electronics-semiconductor">
+                                    href="<?=HOST?>rcategory/advanced-materials-electronics-semiconductor">
                                     <img width="150" height="195"
                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20195'%3E%3C/svg%3E"
                                         class="aligncenter report-img img-fluid w-100 wp-post-image"
@@ -861,7 +861,7 @@
                             </div>
                             <div class="report-item  ">
                                 <a
-                                    href="https://www.verifiedmarketresearch.com/rcategory/advanced-materials-mining-minerals-and-metals">
+                                    href="<?=HOST?>rcategory/advanced-materials-mining-minerals-and-metals">
                                     <img width="150" height="195"
                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20195'%3E%3C/svg%3E"
                                         class="aligncenter report-img img-fluid w-100 wp-post-image"
@@ -877,7 +877,7 @@
 
                             </div>
                             <div class="report-item  ">
-                                <a href="https://www.verifiedmarketresearch.com/rcategory/aerospace-defence">
+                                <a href="<?=HOST?>rcategory/aerospace-defence">
                                     <img width="150" height="195"
                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20195'%3E%3C/svg%3E"
                                         class="aligncenter report-img img-fluid w-100 wp-post-image"
@@ -990,7 +990,7 @@
                                                         added to the report upon request in several rounds. The staff
                                                         was very friendly and responsive.</p>
                                                     <span class="circle">&nbsp;</span><a
-                                                        href="https://www.verifiedmarketresearch.com/customer-testimonials/"
+                                                        href="<?=HOST?>customer-testimonials/"
                                                         class="view-link c">View all</a>
                                                 </div>
                                             </div>
@@ -1033,7 +1033,7 @@
                                                         rounds. The staff were very friendly and accommodating.
                                                         I can and will recommend the company to others.</p>
                                                     <span class="circle">&nbsp;</span><a
-                                                        href="https://www.verifiedmarketresearch.com/customer-testimonials/"
+                                                        href="<?=HOST?>customer-testimonials/"
                                                         class="view-link c">View all</a>
                                                 </div>
                                             </div>
@@ -1068,7 +1068,7 @@
                                                         Our ordered report was delivered on time for a reasonable cost.
                                                         I recommend good work for market research.</p>
                                                     <span class="circle">&nbsp;</span><a
-                                                        href="https://www.verifiedmarketresearch.com/customer-testimonials/"
+                                                        href="<?=HOST?>customer-testimonials/"
                                                         class="view-link c">View all</a>
                                                 </div>
                                             </div>
@@ -1104,7 +1104,7 @@
                                                     <p>Working with VMR was a breeze and their team got me the report in
                                                         a faster time that I originally anticipated.</p>
                                                     <span class="circle">&nbsp;</span><a
-                                                        href="https://www.verifiedmarketresearch.com/customer-testimonials/"
+                                                        href="<?=HOST?>customer-testimonials/"
                                                         class="view-link c">View all</a>
                                                 </div>
                                             </div>
@@ -1139,7 +1139,7 @@
                                                     <p>Second time working with VMR, always responsive and supportive.
                                                         Great report structure and content...</p>
                                                     <span class="circle">&nbsp;</span><a
-                                                        href="https://www.verifiedmarketresearch.com/customer-testimonials/"
+                                                        href="<?=HOST?>customer-testimonials/"
                                                         class="view-link c">View all</a>
                                                 </div>
                                             </div>
@@ -1176,7 +1176,7 @@
                                                         was commendable, this led the client to take the decision on
                                                         their portfolio expansion strategy.</p>
                                                     <span class="circle">&nbsp;</span><a
-                                                        href="https://www.verifiedmarketresearch.com/customer-testimonials/"
+                                                        href="<?=HOST?>customer-testimonials/"
                                                         class="view-link c">View all</a>
                                                 </div>
                                             </div>
@@ -1215,7 +1215,7 @@
                                                         for helping answer our queries in time. Will look forward to
                                                         collaborating with them in the future too</p>
                                                     <span class="circle">&nbsp;</span><a
-                                                        href="https://www.verifiedmarketresearch.com/customer-testimonials/"
+                                                        href="<?=HOST?>customer-testimonials/"
                                                         class="view-link c">View all</a>
                                                 </div>
                                             </div>
@@ -1253,7 +1253,7 @@
                                                         however is nicely structured and gives a clear picture on the
                                                         important parts. Thanks for your service!</p>
                                                     <span class="circle">&nbsp;</span><a
-                                                        href="https://www.verifiedmarketresearch.com/customer-testimonials/"
+                                                        href="<?=HOST?>customer-testimonials/"
                                                         class="view-link c">View all</a>
                                                 </div>
                                             </div>
@@ -1280,11 +1280,11 @@
         <div class="row">
             <div class="col-md-8 col-sm-12 post-item">
                 <div class="inner-wrapper">
-                    <a href="https://www.verifiedmarketresearch.com/blog/top-enterprise-antivirus-software"
+                    <a href="<?=HOST?>blog/top-enterprise-antivirus-software"
                         target="_self">
                         <div data-bg="https://images.verifiedmarketresearch.com/assets/Top-7-enterprise-antivirus-software-1741332701.webp"
                             class="image-wrapper text-center blog-left-img rocket-lazyload"
-                            onclick="location.href='https://www.verifiedmarketresearch.com/blog/top-enterprise-antivirus-software'"
+                            onclick="location.href='<?=HOST?>blog/top-enterprise-antivirus-software'"
                             style="" class=""></div>
                         <div class="blog-left-img-bg"></div>
                         <div class="blog-left-img-overlaly">
@@ -1307,7 +1307,7 @@
                     <div class="col-sm-12">
                         <div class="inner-wrapper">
                             <div class="image-wrapper">
-                                <a href="https://www.verifiedmarketresearch.com/blog/top-medical-injection-molding-companies"
+                                <a href="<?=HOST?>blog/top-medical-injection-molding-companies"
                                     target="_self">
                                     <img width="1000" height="1000"
                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E"
@@ -1327,7 +1327,7 @@
                             </div>
                             <div class="content blog-content">
                                 <h5 class="text-center mb-2">Pharma &amp; Healthcare</h5>
-                                <a href="https://www.verifiedmarketresearch.com/blog/top-medical-injection-molding-companies"
+                                <a href="<?=HOST?>blog/top-medical-injection-molding-companies"
                                     target="_self" class="block-linktext">
                                     Top 7 medical injection molding companie.. </a>
                                 <div class="blog-read-view">
@@ -1342,13 +1342,13 @@
                     <div class="col-sm-12">
                         <div class="inner-wrapper">
                             <div class="image-wrapper">
-                                <a href="https://www.verifiedmarketresearch.com/blog/privacy-policy-of-verified-market-research"
+                                <a href="<?=HOST?>blog/privacy-policy-of-verified-market-research"
                                     target="_self">
                                 </a>
                             </div>
                             <div class="content blog-content">
                                 <h5 class="text-center mb-2">Uncategorized</h5>
-                                <a href="https://www.verifiedmarketresearch.com/blog/privacy-policy-of-verified-market-research"
+                                <a href="<?=HOST?>blog/privacy-policy-of-verified-market-research"
                                     target="_self" class="block-linktext">
                                     Verified Market Research Privacy Policy:.. </a>
                                 <div class="blog-read-view">
@@ -1376,7 +1376,7 @@
         <div class="row blog-items">
             <div class="col-md-4 blog-item">
                 <div class="image-wrapper popular-img">
-                    <a href="https://www.verifiedmarketresearch.com/blog/top-enterprise-antivirus-software"
+                    <a href="<?=HOST?>blog/top-enterprise-antivirus-software"
                         target="_self"><img width="1000" height="1000"
                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E"
                             class="aligncenter img-fluid wp-post-image" alt="Top 7 enterprise antivirus software"
@@ -1393,13 +1393,13 @@
                 </div>
                 <div class="content popular-blogs">
                     <h5 class="green-bg yellow-bg">Software &amp; Services</h5>
-                    <a href="https://www.verifiedmarketresearch.com/blog/top-enterprise-antivirus-software"
+                    <a href="<?=HOST?>blog/top-enterprise-antivirus-software"
                         target="_self">Top 7 enterprise antivirus software help..</a>
                 </div>
             </div>
             <div class="col-md-4 blog-item">
                 <div class="image-wrapper popular-img">
-                    <a href="https://www.verifiedmarketresearch.com/blog/top-medical-injection-molding-companies"
+                    <a href="<?=HOST?>blog/top-medical-injection-molding-companies"
                         target="_self"><img width="1000" height="1000"
                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E"
                             class="aligncenter img-fluid wp-post-image" alt="Top 7 medical injection molding companies"
@@ -1416,24 +1416,24 @@
                 </div>
                 <div class="content popular-blogs">
                     <h5 class="green-bg yellow-bg">Pharma &amp; Healthcare</h5>
-                    <a href="https://www.verifiedmarketresearch.com/blog/top-medical-injection-molding-companies"
+                    <a href="<?=HOST?>blog/top-medical-injection-molding-companies"
                         target="_self">Top 7 medical injection molding companie..</a>
                 </div>
             </div>
             <div class="col-md-4 blog-item">
                 <div class="image-wrapper popular-img">
-                    <a href="https://www.verifiedmarketresearch.com/blog/privacy-policy-of-verified-market-research"
+                    <a href="<?=HOST?>blog/privacy-policy-of-verified-market-research"
                         target="_self"></a>
                 </div>
                 <div class="content popular-blogs">
                     <h5 class="green-bg blue-bg">Uncategorized</h5>
-                    <a href="https://www.verifiedmarketresearch.com/blog/privacy-policy-of-verified-market-research"
+                    <a href="<?=HOST?>blog/privacy-policy-of-verified-market-research"
                         target="_self">Verified Market Research Privacy Policy:..</a>
                 </div>
             </div>
             <div class="col-md-4 blog-item">
                 <div class="image-wrapper popular-img">
-                    <a href="https://www.verifiedmarketresearch.com/blog/top-dimethylformamide-companies"
+                    <a href="<?=HOST?>blog/top-dimethylformamide-companies"
                         target="_self"><img width="1000" height="1000"
                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E"
                             class="aligncenter img-fluid wp-post-image" alt="Top 7 dimethylformamide companies"
@@ -1450,29 +1450,29 @@
                 </div>
                 <div class="content popular-blogs">
                     <h5 class="green-bg yellow-bg">Chemical &amp; Material</h5>
-                    <a href="https://www.verifiedmarketresearch.com/blog/top-dimethylformamide-companies"
+                    <a href="<?=HOST?>blog/top-dimethylformamide-companies"
                         target="_self">Top 7 dimethylformamide companies making..</a>
                 </div>
             </div>
             <div class="col-md-4 blog-item">
                 <div class="image-wrapper popular-img">
-                    <a href="https://www.verifiedmarketresearch.com/blog/research-methodology-of-verified-market-research"
+                    <a href="<?=HOST?>blog/research-methodology-of-verified-market-research"
                         target="_self"></a>
                 </div>
                 <div class="content popular-blogs">
                     <h5 class="green-bg ">Uncategorized</h5>
-                    <a href="https://www.verifiedmarketresearch.com/blog/research-methodology-of-verified-market-research"
+                    <a href="<?=HOST?>blog/research-methodology-of-verified-market-research"
                         target="_self">Verified Market Research: A Proven &amp;..</a>
                 </div>
             </div>
             <div class="col-md-4 blog-item">
                 <div class="image-wrapper popular-img">
-                    <a href="https://www.verifiedmarketresearch.com/blog/is-verified-market-research-legit"
+                    <a href="<?=HOST?>blog/is-verified-market-research-legit"
                         target="_self"></a>
                 </div>
                 <div class="content popular-blogs">
                     <h5 class="green-bg yellow-bg">Uncategorized</h5>
-                    <a href="https://www.verifiedmarketresearch.com/blog/is-verified-market-research-legit"
+                    <a href="<?=HOST?>blog/is-verified-market-research-legit"
                         target="_self">Verified Market Research: A Globally Tru..</a>
                 </div>
             </div>

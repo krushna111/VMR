@@ -1,31 +1,110 @@
 <?php include'header1.php';?>
+
         <div id="content" class="site-content">
                         <style>
-    body{font-family: 'Work Sans' !important;}
-.vmr_font34 {font-size: 34px;}
-.vmr_font30 {font-size: 30px;}
-.vmr_font24 {font-size: 24px;}
-.vmr_font18 {font-size: 18px;}
-.vmr_font16 {font-size: 16px;}
-.bg_color_req_btn {background-color: #04b1c0;}
-.vmr_font_weight300 {font-weight:300;}
-.vmr_font_weight500{font-weight:500;}
-.vmr_font_weight700{font-weight:700;}
-#list-indicators p .fa-check-square:before {color: #03acba !important;}
-.bg_color_req_btn:hover {color: #fff;background-color: #10d0d9 !important;}
-.request_text{font-size: 16px !important;letter-spacing: 0px;line-height: 23px;color: #211f21 !important;
-        font-weight: 300 !important;}
-.single_image img{max-height: 100px;}
-.request_demo_even_sec {background-color: #f7f6f6 !important;}
-.post_box_shadow {box-shadow: 0 0 8px 0 rgba(0,0,0,.19) !important;}
+body {
+    font-family: 'Work Sans' !important;
+}
+
+.vmr_font34 {
+    font-size: 34px;
+}
+
+.vmr_font30 {
+    font-size: 30px;
+}
+
+.vmr_font24 {
+    font-size: 24px;
+}
+
+.vmr_font18 {
+    font-size: 18px;
+}
+
+.vmr_font16 {
+    font-size: 16px;
+}
+
+.bg_color_req_btn {
+    background-color: #04b1c0;
+}
+
+.vmr_font_weight300 {
+    font-weight: 300;
+}
+
+.vmr_font_weight500 {
+    font-weight: 500;
+}
+
+.vmr_font_weight700 {
+    font-weight: 700;
+}
+
+#list-indicators p .fa-check-square:before {
+    color: #03acba !important;
+}
+
+.bg_color_req_btn:hover {
+    color: #fff;
+    background-color: #10d0d9 !important;
+}
+
+.request_text {
+    font-size: 16px !important;
+    letter-spacing: 0px;
+    line-height: 23px;
+    color: #211f21 !important;
+    font-weight: 300 !important;
+}
+
+.single_image img {
+    max-height: 100px;
+}
+
+.request_demo_even_sec {
+    background-color: #f7f6f6 !important;
+}
+
+.post_box_shadow {
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, .19) !important;
+}
+
 @media screen and (max-width: 767px) {
-.post_box_shadow img {width: 100%;}
-} 
-.page-id-70249 .get-in-touch .custom-col-md-4 {width: 29% !important;float: left;}
-.col-md-9 {float: right;}  
+    .post_box_shadow img {
+        width: 100%;
+    }
+}
+
+.page-id-70249 .get-in-touch .custom-col-md-4 {
+    width: 29% !important;
+    float: left;
+}
+
+.col-md-9 {
+    float: right;
+}
+
 .col-lg-7.col-md-7.col-sm-5.col-xs-12.vcenter {
-    display: inline-block;vertical-align: middle; float: none;text-align: center;top: 50px;}
-#people_saying p {font-size: 14px;font-weight: 300;line-height: 20px;color: #666;margin: 0;border-left: 9px solid #99CBE8;padding-left: 8px;margin-bottom: 21px;} 
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    text-align: center;
+    top: 50px;
+}
+
+#people_saying p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    color: #666;
+    margin: 0;
+    border-left: 9px solid #99CBE8;
+    padding-left: 8px;
+    margin-bottom: 21px;
+}
+
 .askingblock .icon {
     float: left;
     width: 21.39px;
@@ -42,41 +121,130 @@
     -ms-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);
     transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);
 }
-.askingblock .head {cursor: pointer;font-size: 20px;color: #707070;line-height: 24px;font-weight: 200;}
-.collapsed .icon {-ms-transform: rotate(-90deg);-webkit-transform: rotate(-90deg);transform: rotate(-90deg
-);}
-.title {min-height: 28px;float: left; width: 100%;margin-left: 0px;}
+
+.askingblock .head {
+    cursor: pointer;
+    font-size: 20px;
+    color: #707070;
+    line-height: 24px;
+    font-weight: 200;
+}
+
+.collapsed .icon {
+    -ms-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+
+.title {
+    min-height: 28px;
+    float: left;
+    width: 100%;
+    margin-left: 0px;
+}
+
 /*.collapse {float: left;width: 97%;margin-left: 32px;color:#666;}*/
-.head span {font-size: 18px;font-weight: 500;line-height: 24px;color: #3B4ACC;}
-section#vmr-industries-section {display: none;}
-div#vmi-tagline h2 {text-align: center;display: grid;width: 1024px;color: #fff;max-width: 1920px;}
-p {margin-bottom: 1em;font-weight: 400;}
-section#vmr-indus-section {display: none !important;}
-ul.narra-list li {list-style: disc;}
-.row.get-in-touch {width: 95%;margin: 30px auto;}
-.testimonial_slider_content p{color: #211f21;
+.head span {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #3B4ACC;
+}
+
+section#vmr-industries-section {
+    display: none;
+}
+
+div#vmi-tagline h2 {
+    text-align: center;
+    display: grid;
+    width: 1024px;
+    color: #fff;
+    max-width: 1920px;
+}
+
+p {
+    margin-bottom: 1em;
+    font-weight: 400;
+}
+
+section#vmr-indus-section {
+    display: none !important;
+}
+
+ul.narra-list li {
+    list-style: disc;
+}
+
+.row.get-in-touch {
+    width: 95%;
+    margin: 30px auto;
+}
+
+.testimonial_slider_content p {
+    color: #211f21;
     font-weight: 300 !important;
     letter-spacing: 0.15px;
-    opacity: 0.8;}
-.designation {color: #211f21;font-weight: 300 !important;letter-spacing: 0.15px; opacity: 0.8;}
-.testimonial_slider_content div {color: #212121;font-weight: 300;}
-.vmr-testiminial-author-wrap{max-width: 75px;margin: 0 auto;}
-.testimonial_slider_content{
+    opacity: 0.8;
+}
+
+.designation {
+    color: #211f21;
+    font-weight: 300 !important;
+    letter-spacing: 0.15px;
+    opacity: 0.8;
+}
+
+.testimonial_slider_content div {
+    color: #212121;
+    font-weight: 300;
+}
+
+.vmr-testiminial-author-wrap {
+    max-width: 75px;
+    margin: 0 auto;
+}
+
+.testimonial_slider_content {
     border-radius: 2px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
     padding: 28px 23px 15px;
 }
-.vmr-testiminial-author-image{width: 100%;border-radius: 100%;}
-.owl-carousel .owl-stage-outer {/*overflow: inherit !important; */}
-.section--companyvalue .company-value-tab {background: #3b4acc;padding: 23px 0rem 65px;border-radius: 5px;}
-.tab-content {padding: 34px 50px 10px 50px;}
-.section--companyvalue .company-value-tab .nav-tabs {border: 0;padding-top: 1rem;padding-bottom: 1rem;text-align: center !important;margin-left: 55px;}
+
+.vmr-testiminial-author-image {
+    width: 100%;
+    border-radius: 100%;
+}
+
+.owl-carousel .owl-stage-outer {
+    /*overflow: inherit !important; */
+}
+
+.section--companyvalue .company-value-tab {
+    background: #3b4acc;
+    padding: 23px 0rem 65px;
+    border-radius: 5px;
+}
+
+.tab-content {
+    padding: 34px 50px 10px 50px;
+}
+
+.section--companyvalue .company-value-tab .nav-tabs {
+    border: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center !important;
+    margin-left: 55px;
+}
+
 .section--companyvalue .company-value-tab .tab-content .tab-pane.show {
     opacity: 1;
     -webkit-transition: opacity 1s linear;
     transition: opacity 1s linear;
 }
+
 .section--companyvalue .company-value-tab .nav-tabs a {
     -webkit-transition: all .2s ease-out;
     transition: all .2s ease-out;
@@ -87,105 +255,251 @@ ul.narra-list li {list-style: disc;}
     color: #fff;
     opacity: .6;
 }
+
 .section--companyvalue .company-value-tab .nav-tabs a.active {
     opacity: 1;
-    display: inline-block;    
+    display: inline-block;
     color: #ffffff !important;
     background-color: transparent !important;
     padding: 0.5rem 1.3rem;
     border-color: transparent !important;
 }
-.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {border-color: transparent !important;color: #fff !important;opacity: 1 !important;}
-.tab-content p {color: #fff;}
+
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+    border-color: transparent !important;
+    color: #fff !important;
+    opacity: 1 !important;
+}
+
+.tab-content p {
+    color: #fff;
+}
+
 h1.vmr-color-blue-dark {
     text-align: center;
     margin-bottom: 30px;
     text-transform: uppercase;
 }
-section#vmr-research-section .col-12.text-center.col-md-4:first-child {top: 70px;}
-section#vmr-research-section .col-
-12.text-center.col-md-4:nth-child(3) {top: 70px;}
-#aboutCarouselSlider .item {align-items: center;background: YellowGreen;display: flex;min-height: 190px;justify-content: center;padding: 0 110px !important;}
+
+section#vmr-research-section .col-12.text-center.col-md-4:first-child {
+    top: 70px;
+}
+
+section#vmr-research-section .col- 12.text-center.col-md-4:nth-child(3) {
+    top: 70px;
+}
+
+#aboutCarouselSlider .item {
+    align-items: center;
+    background: YellowGreen;
+    display: flex;
+    min-height: 190px;
+    justify-content: center;
+    padding: 0 110px !important;
+}
 
 /** Counter css ****/
-.col_half { width: 49%; }
-.col_third { width: 32%; }
-.col_fourth { width: 10.5%; }
-.col_fifth { width: 18.4%; }
-.col_sixth { width: 15%; }
-.col_three_fourth { width: 74.5%;}
-.col_twothird{ width: 66%;}
-.col_half,.col_third,.col_twothird,.col_fourth,.col_three_fourth,.col_fifth{position: relative;display: inline-block;float: left;margin-right: 9%;margin-bottom: 20px;margin-top: -30px;}
-.end { margin-right: 0 !important; }
+.col_half {
+    width: 49%;
+}
+
+.col_third {
+    width: 32%;
+}
+
+.col_fourth {
+    width: 10.5%;
+}
+
+.col_fifth {
+    width: 18.4%;
+}
+
+.col_sixth {
+    width: 15%;
+}
+
+.col_three_fourth {
+    width: 74.5%;
+}
+
+.col_twothird {
+    width: 66%;
+}
+
+.col_half,
+.col_third,
+.col_twothird,
+.col_fourth,
+.col_three_fourth,
+.col_fifth {
+    position: relative;
+    display: inline-block;
+    float: left;
+    margin-right: 9%;
+    margin-bottom: 20px;
+    margin-top: -30px;
+}
+
+.end {
+    margin-right: 0 !important;
+}
+
 /* Column Grids End */
-.counter { padding: 20px 0; border-radius: 5px;}
-.count-title {font-size: 59px;
-   font-weight: normal;
+.counter {
+    padding: 20px 0;
+    border-radius: 5px;
+}
+
+.count-title {
+    font-size: 59px;
+    font-weight: normal;
     margin-top: 23px;
     margin-bottom: -20px;
     text-align: left;
     font-weight: 500;
-    color: #fff;font-family: 'Work Sans' !important;}
-.count-text {font-size: 17px;font-weight: normal;margin-top: 10px;margin-bottom: 0;text-align: left;
-    color: #fff;width:194px;}
-p.count-text1 {float: left;margin: -46px 108px;font-size: 32px;color: #fff;}
-p.count-text2 {float: left;margin: -47px 132px;font-size: 32px;color: #fff;}
-p.count-text3 {float: left;margin: -47px 166px;font-size: 32px;color: #fff;}
-p.count-text4 {float: left;margin: -48px 104px;font-size: 32px;color: #fff;}
-.fa-2x { margin: 0 auto; float: none; display: table; color: #4ad1e5; }
+    color: #fff;
+    font-family: 'Work Sans' !important;
+}
+
+.count-text {
+    font-size: 17px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: left;
+    color: #fff;
+    width: 194px;
+}
+
+p.count-text1 {
+    float: left;
+    margin: -46px 108px;
+    font-size: 32px;
+    color: #fff;
+}
+
+p.count-text2 {
+    float: left;
+    margin: -47px 132px;
+    font-size: 32px;
+    color: #fff;
+}
+
+p.count-text3 {
+    float: left;
+    margin: -47px 166px;
+    font-size: 32px;
+    color: #fff;
+}
+
+p.count-text4 {
+    float: left;
+    margin: -48px 104px;
+    font-size: 32px;
+    color: #fff;
+}
+
+.fa-2x {
+    margin: 0 auto;
+    float: none;
+    display: table;
+    color: #4ad1e5;
+}
 
 .counter.col_fourth:nth-child(2) {
     left: -5%;
 }
+
 .counter.col_fourth:nth-child(3) {
     left: -6%;
 }
+
 .counter.col_fourth:nth-child(4) {
     left: -5%;
 }
+
 .counter.col_fourth:nth-child(5) {
     left: -3%;
 }
-.carousel-inner .active,.carousel-inner .active + .carousel-item,.carousel-inner .active + .carousel-item + .carousel-item,.carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {display: block;}
+
+.carousel-inner .active,
+.carousel-inner .active+.carousel-item,
+.carousel-inner .active+.carousel-item+.carousel-item,
+.carousel-inner .active+.carousel-item+.carousel-item+.carousel-item {
+    display: block;
+}
+
 .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
-.carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item,
-.carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item,
-  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item + .carousel-item {transition: none;}
+.carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)+.carousel-item,
+.carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)+.carousel-item+.carousel-item,
+.carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)+.carousel-item+.carousel-item+.carousel-item {
+    transition: none;
+}
 
-  .carousel-inner .carousel-item-next,
-  .carousel-inner .carousel-item-prev {position: relative;transform: translate3d(0, 0, 0);}
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    position: relative;
+    transform: translate3d(0, 0, 0);
+}
 
-  .carousel-inner .active.carousel-item + .carousel-item + .carousel-item + .carousel-item + .carousel-item {position: absolute;top: 0;right: -25%;z-index: -1; display: block;visibility: visible;}
+.carousel-inner .active.carousel-item+.carousel-item+.carousel-item+.carousel-item+.carousel-item {
+    position: absolute;
+    top: 0;
+    right: -25%;
+    z-index: -1;
+    display: block;
+    visibility: visible;
+}
 
-  /* left or forward direction */
-  .active.carousel-item-left + .carousel-item-next.carousel-item-left,
-  .carousel-item-next.carousel-item-left + .carousel-item,
-  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item,
-  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item,
-  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item + .carousel-item {position: relative;transform: translate3d(-100%, 0, 0);visibility: visible;  }
+/* left or forward direction */
+.active.carousel-item-left+.carousel-item-next.carousel-item-left,
+.carousel-item-next.carousel-item-left+.carousel-item,
+.carousel-item-next.carousel-item-left+.carousel-item+.carousel-item,
+.carousel-item-next.carousel-item-left+.carousel-item+.carousel-item+.carousel-item,
+.carousel-item-next.carousel-item-left+.carousel-item+.carousel-item+.carousel-item+.carousel-item {
+    position: relative;
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+}
 
-  /* farthest right hidden item must be absolue position for animations */
-  .carousel-inner .carousel-item-prev.carousel-item-right {
-    position: absolute;top: 0;left: 0;z-index: -1;display: block;visibility: visible;}
+/* farthest right hidden item must be absolue position for animations */
+.carousel-inner .carousel-item-prev.carousel-item-right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
+    visibility: visible;
+}
 
-  /* right or prev direction */
-  .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
-  .carousel-item-prev.carousel-item-right + .carousel-item,
-  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item,
-  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item,
-  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+/* right or prev direction */
+.active.carousel-item-right+.carousel-item-prev.carousel-item-right,
+.carousel-item-prev.carousel-item-right+.carousel-item,
+.carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item,
+.carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item+.carousel-item,
+.carousel-item-prev.carousel-item-right+.carousel-item+.carousel-item+.carousel-item+.carousel-item {
     position: relative;
     transform: translate3d(100%, 0, 0);
     visibility: visible;
     display: block;
     visibility: visible;
-  }
-  .carousel-item{margin-right: 0% !important;}
-  .carousel-item.col-md-3 {
+}
+
+.carousel-item {
+    margin-right: 0% !important;
+}
+
+.carousel-item.col-md-3 {
     flex: 0 0 81% !important;
     max-width: 25% !important;
 }
-.tab-pane p {font-size: 18px;}
+
+.tab-pane p {
+    font-size: 18px;
+}
+
 p {
     margin-bottom: 1em;
     line-height: 26px;
@@ -195,35 +509,41 @@ p {
     font-weight: 300 !important;
     letter-spacing: 0.15px;
 }
+
 i.fas.fa-angle-left {
     color: #3b4acc;
     font-size: 70px;
 }
+
 i.fas.fa-angle-right {
     color: #3b4acc;
     font-size: 70px;
 }
+
 .owl-carousel .owl-item img {
-     display: initial !important; 
+    display: initial !important;
     width: 16% !important;
     text-align: center !important;
-    }
-h3{
-        line-height: 30px !important;
+}
+
+h3 {
+    line-height: 30px !important;
 }
 
 /*Sentence*/
-.sentence{
-     color: #222;
-     font-size: 30px;
-     text-align: left;   
-     margin-bottom: -60px !important;
+.sentence {
+    color: #222;
+    font-size: 30px;
+    text-align: left;
+    margin-bottom: -60px !important;
 }
+
 /*Vertical Sliding*/
-.slidingVertical{
+.slidingVertical {
     display: inline;
 }
-.slidingVertical span{
+
+.slidingVertical span {
     animation: topToBottom 17.5s linear infinite 0s;
     -ms-animation: topToBottom 17.5s linear infinite 0s;
     -webkit-animation: topToBottom 17.5s linear infinite 0s;
@@ -231,35 +551,41 @@ h3{
     opacity: 0;
     overflow: hidden;
     position: absolute;
-    top:0;
+    top: 0;
     font-size: 46px;
     font-weight: 400;
 }
-.slidingVertical span:nth-child(1){
+
+.slidingVertical span:nth-child(1) {
     animation-delay: 2.5s;
     -ms-animation-delay: 2.5s;
     -webkit-animation-delay: 2.5s;
 }
-.slidingVertical span:nth-child(2){
+
+.slidingVertical span:nth-child(2) {
     animation-delay: 5s;
     -ms-animation-delay: 5s;
     -webkit-animation-delay: 5s;
 }
-.slidingVertical span:nth-child(3){
+
+.slidingVertical span:nth-child(3) {
     animation-delay: 7.5s;
     -ms-animation-delay: 7.5s;
     -webkit-animation-delay: 7.5s;
 }
-.slidingVertical span:nth-child(4){
+
+.slidingVertical span:nth-child(4) {
     animation-delay: 13.5s;
     -ms-animation-delay: 13.5s;
     -webkit-animation-delay: 13.5s;
 }
-.slidingVertical span:nth-child(5){
+
+.slidingVertical span:nth-child(5) {
     animation-delay: 11.5s;
     -ms-animation-delay: 11.5s;
     -webkit-animation-delay: 11.5s;
 }
+
 .slidingVertical span:nth-child(7) {
     animation-delay: 15.5s;
     -ms-animation-delay: 20.5s;
@@ -267,41 +593,120 @@ h3{
 }
 
 /*topToBottom Animation*/
-@-moz-keyframes topToBottom{
-    0% { opacity: 0; }
-    5% { opacity: 0; -moz-transform: translateY(-50px); }
-    10% { opacity: 1; -moz-transform: translateY(0px); }
-    25% { opacity: 1; -moz-transform: translateY(0px); }
-    30% { opacity: 0; -moz-transform: translateY(50px); }
-    80% { opacity: 0; }
-    100% { opacity: 0; }
-}
-@-webkit-keyframes topToBottom{
-    0% { opacity: 0; }
-    5% { opacity: 0; -webkit-transform: translateY(-50px); }
-    10% { opacity: 1; -webkit-transform: translateY(0px); }
-    25% { opacity: 1; -webkit-transform: translateY(0px); }
-    30% { opacity: 0; -webkit-transform: translateY(50px); }
-    80% { opacity: 0; }
-    100% { opacity: 0; }
-}
-@-ms-keyframes topToBottom{
-    0% { opacity: 0; }
-    5% { opacity: 0; -ms-transform: translateY(-50px); }
-    10% { opacity: 1; -ms-transform: translateY(0px); }
-    25% { opacity: 1; -ms-transform: translateY(0px); }
-    30% { opacity: 0; -ms-transform: translateY(50px); }
-    80% { opacity: 0; }
-    100% { opacity: 0; }
+@-moz-keyframes topToBottom {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 0;
+        -moz-transform: translateY(-50px);
+    }
+
+    10% {
+        opacity: 1;
+        -moz-transform: translateY(0px);
+    }
+
+    25% {
+        opacity: 1;
+        -moz-transform: translateY(0px);
+    }
+
+    30% {
+        opacity: 0;
+        -moz-transform: translateY(50px);
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
 }
 
+@-webkit-keyframes topToBottom {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 0;
+        -webkit-transform: translateY(-50px);
+    }
+
+    10% {
+        opacity: 1;
+        -webkit-transform: translateY(0px);
+    }
+
+    25% {
+        opacity: 1;
+        -webkit-transform: translateY(0px);
+    }
+
+    30% {
+        opacity: 0;
+        -webkit-transform: translateY(50px);
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@-ms-keyframes topToBottom {
+    0% {
+        opacity: 0;
+    }
+
+    5% {
+        opacity: 0;
+        -ms-transform: translateY(-50px);
+    }
+
+    10% {
+        opacity: 1;
+        -ms-transform: translateY(0px);
+    }
+
+    25% {
+        opacity: 1;
+        -ms-transform: translateY(0px);
+    }
+
+    30% {
+        opacity: 0;
+        -ms-transform: translateY(50px);
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.fa-chevron-left:before,
+.fa-chevron-right:before {
+    color: white;
+}
 
 /*Footer*/
-h3{
+h3 {
     font-size: 24px;
     margin-top: 20px;
-    color:#ffffff;
+    color: #ffffff;
 }
+
 .bdp-post-short-content {
     line-height: 26px;
     color: #211f21 !important;
@@ -309,19 +714,28 @@ h3{
     font-size: 16px !important;
 
 }
-.bdp-post-carousel.bdp-design-2 .bdp-post-margin-content{height:216px !important;}
-.mb-3, .my-3 {
-    margin-bottom: 1rem!important;
+
+.bdp-post-carousel.bdp-design-2 .bdp-post-margin-content {
+    height: 216px !important;
+}
+
+.mb-3,
+.my-3 {
+    margin-bottom: 1rem !important;
     /* font-weight: 300; */
     color: #211f21 !important;
     font-weight: 300 !important;
     font-size: 16px !important;
     line-height: 26px;
-/*    min-height: 260px;*/
+    /*    min-height: 260px;*/
     padding-left: 15px;
     padding-right: 15px;
 }
-.bdp-post-carousel-wrp{padding-bottom: 63px !important;}
+
+.bdp-post-carousel-wrp {
+    padding-bottom: 63px !important;
+}
+
 button.slick-prev.slick-arrow {
     line-height: 40px;
     background-color: #0dafbf !important;
@@ -334,8 +748,9 @@ button.slick-prev.slick-arrow {
     margin-right: 480px !important;
     top: 198px;
 }
+
 button.slick-next.slick-arrow {
-   line-height: 40px;
+    line-height: 40px;
     background-color: #0dafbf !important;
     width: 40px;
     height: 40px;
@@ -348,7 +763,7 @@ button.slick-next.slick-arrow {
 }
 
 
-.bdp-post-carousel.bdp-design-2 .bdp-no-thumb-image .bdp-post-margin-content{
+.bdp-post-carousel.bdp-design-2 .bdp-no-thumb-image .bdp-post-margin-content {
     border-radius: 7px !important;
     background: #eaeaea;
     text-align: left;
@@ -357,10 +772,17 @@ button.slick-next.slick-arrow {
 ul.slick-dots {
     display: none !important;
 }
-.bdp-post-slider button.slick-prev:hover, .bdp-post-slider button.slick-prev:focus, .bdp-post-carousel button.slick-prev:hover, .bdp-post-carousel button.slick-prev:focus, .bdp-post-gridbox-slider button.slick-prev:hover, .bdp-post-gridbox-slider button.slick-prev:focus{
-        background-color: #0dafbf !important;
+
+.bdp-post-slider button.slick-prev:hover,
+.bdp-post-slider button.slick-prev:focus,
+.bdp-post-carousel button.slick-prev:hover,
+.bdp-post-carousel button.slick-prev:focus,
+.bdp-post-gridbox-slider button.slick-prev:hover,
+.bdp-post-gridbox-slider button.slick-prev:focus {
+    background-color: #0dafbf !important;
     outline: none !important;
 }
+
 section#vmr-research-section .col-12.text-center.col-md-4:nth-child(3) {
     margin-top: 70px;
     /* padding-bottom: 10px; */
@@ -368,88 +790,97 @@ section#vmr-research-section .col-12.text-center.col-md-4:nth-child(3) {
 
 
 /*/ start timeline slider /*/
-.timeline{
-  position:relative;
-  margin:50px auto;
-  padding:40px 0;
-  width:1000px;
-  box-sizing:border-box;
+.timeline {
+    position: relative;
+    margin: 50px auto;
+    padding: 40px 0;
+    width: 1000px;
+    box-sizing: border-box;
 }
-.timeline:before{
-  content:'';
-  position:absolute;
-  left:50%;
-  width:2px;
-  height:100%;
-  background:#c5c5c5;
+
+.timeline:before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    width: 2px;
+    height: 100%;
+    background: #c5c5c5;
 }
-.timeline ul{
-  padding:0;
-  margin:0;
+
+.timeline ul {
+    padding: 0;
+    margin: 0;
 }
-.timeline ul li{
-  list-style:none;
-  position:relative;
-  width:50%;
-  padding:20px 40px;
-  box-sizing:border-box;
+
+.timeline ul li {
+    list-style: none;
+    position: relative;
+    width: 50%;
+    padding: 20px 40px;
+    box-sizing: border-box;
 }
-.timeline ul li:nth-child(odd){
-  float:left;
-  text-align:right;
-  clear:both;
+
+.timeline ul li:nth-child(odd) {
+    float: left;
+    text-align: right;
+    clear: both;
 }
-.timeline ul li:nth-child(even){
-  float:right;
-  text-align:left;
-  clear:both;
+
+.timeline ul li:nth-child(even) {
+    float: right;
+    text-align: left;
+    clear: both;
 }
-.content{
-  padding-bottom:20px;
+
+.content {
+    padding-bottom: 20px;
 }
-.timeline ul li:nth-child(odd):before
-{
-  content:'';
-  position:absolute;
-  width:10px;
-  height:10px;
-  top:24px;
-  right:-6px;
-  background:rgb(13 175 191);
-  border-radius:50%;
-  box-shadow:0 0 0 3px rgba(233,33,99,0.2);
+
+.timeline ul li:nth-child(odd):before {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 24px;
+    right: -6px;
+    background: rgb(13 175 191);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px rgba(233, 33, 99, 0.2);
 }
-.timeline ul li:nth-child(even):before
-{
-  content:'';
-  position:absolute;
-  width:10px;
-  height:10px;
-  top:24px;
-  left:-4px;
-  background:rgb(13 175 191);
-  border-radius:50%;
-  box-shadow:0 0 0 3px rgba(233,33,99,0.2);
+
+.timeline ul li:nth-child(even):before {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 24px;
+    left: -4px;
+    background: rgb(13 175 191);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px rgba(233, 33, 99, 0.2);
 }
-.timeline ul li h3{
-  padding:0;
-  margin:0;
- color: rgb(59 74 204);
-  font-weight:500;
-  font-size:18px;
+
+.timeline ul li h3 {
+    padding: 0;
+    margin: 0;
+    color: rgb(59 74 204);
+    font-weight: 500;
+    font-size: 18px;
 }
-.timeline ul li p{
-  margin:10px 0 0;
-  padding:0;
+
+.timeline ul li p {
+    margin: 10px 0 0;
+    padding: 0;
 }
-.timeline ul li .time h4{
-  margin:0;
-  padding:0;
-  font-size:14px;
+
+.timeline ul li .time h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
 }
-.timeline ul li:nth-child(odd) .time
-{
-  position: absolute;
+
+.timeline ul li:nth-child(odd) .time {
+    position: absolute;
     top: 7px;
     right: -147px;
     margin: 0;
@@ -458,56 +889,60 @@ section#vmr-research-section .col-12.text-center.col-md-4:nth-child(3) {
     color: #fff;
     border-radius: 6px;
 }
-.timeline ul li:nth-child(even) .time
-{
-  position:absolute;
-  top:4px;
-  left:-137px;
-  margin:0;
-  padding:7px 30px;
+
+.timeline ul li:nth-child(even) .time {
+    position: absolute;
+    top: 4px;
+    left: -137px;
+    margin: 0;
+    padding: 7px 30px;
     background: rgb(59 74 204);
-  color:#fff;
-  border-radius:6px;
+    color: #fff;
+    border-radius: 6px;
 }
-@media(max-width:1000px)
-{
-  .timeline{
-    width:100%;
-  }
+
+@media(max-width:1000px) {
+    .timeline {
+        width: 100%;
+    }
 }
-@media(max-width:767px){
-  .timeline{
-    width:100%;
-    padding-bottom:0;
-  }
-  h1{
-    font-size:40px;
-    text-align:center;
-  }
-  .timeline:before{
-    left:20px;
-    height:100%;
-  }
-  .timeline ul li:nth-child(odd),
-  .timeline ul li:nth-child(even)
-  {
-    width:100%;
-    text-align:left;
-    padding-left:50px;
-    padding-bottom:50px;
-  }
-  .timeline ul li:nth-child(odd):before,
-  .timeline ul li:nth-child(even):before
-  {
-    top:-18px;
-    left:16px;
-  }
-  .timeline ul li:nth-child(odd) .time,
-  .timeline ul li:nth-child(even) .time{
-    top:-30px;
-    left:50px;
-    right:inherit;
-  }
+
+@media(max-width:767px) {
+    .timeline {
+        width: 100%;
+        padding-bottom: 0;
+    }
+
+    h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .timeline:before {
+        left: 20px;
+        height: 100%;
+    }
+
+    .timeline ul li:nth-child(odd),
+    .timeline ul li:nth-child(even) {
+        width: 100%;
+        text-align: left;
+        padding-left: 50px;
+        padding-bottom: 50px;
+    }
+
+    .timeline ul li:nth-child(odd):before,
+    .timeline ul li:nth-child(even):before {
+        top: -18px;
+        left: 16px;
+    }
+
+    .timeline ul li:nth-child(odd) .time,
+    .timeline ul li:nth-child(even) .time {
+        top: -30px;
+        left: 50px;
+        right: inherit;
+    }
 }
 
 .timeline .content h3 {
@@ -527,6 +962,7 @@ a.dashtime:hover {
     border-radius: 5px;
     overflow: hidden;
 }
+
 #aboutCarouselSlider .menu_tab li {
     display: inline-block;
 }
@@ -543,86 +979,103 @@ a.dashtime:hover {
     text-decoration: none;
 
 }
+
 #aboutCarouselSlider li a:hover {
-    border-color: transparent!important;
-    color: #fff!important;
-    opacity: 1!important;
+    border-color: transparent !important;
+    color: #fff !important;
+    opacity: 1 !important;
     text-decoration: none;
 }
+
 #aboutCarouselSlider ul.menu_tab li.active a {
     opacity: 1 !important;
     color: #fff;
 }
+
 #aboutCarouselSlider .columns {
     max-width: 100%;
     padding-top: 40px !important;
 }
+
 #aboutCarouselSlider .aboutCarouselTabSlider .owl-nav.disabled {
     display: none;
 }
+
 /*#aboutCarouselSlider .owl-stage {
     padding-top: 50px !important;
 }*/
-#aboutCarouselSlider .item h3 , #aboutCarouselSlider .item p{
-  color: #fff;  
+#aboutCarouselSlider .item h3,
+#aboutCarouselSlider .item p {
+    color: #fff;
 }
+
 #aboutCarouselSlider .item h3 {
     font-size: 24px !important;
     margin-top: 0px !important;
 }
+
 #aboutCarouselSlider .item p {
     font-size: 18px !important;
 }
-#aboutCarouselSlider  .item {
-    padding:0px 20px;
+
+#aboutCarouselSlider .item {
+    padding: 0px 20px;
     background-color: #3b4acc !important;
     overflow: hidden;
 }
-#aboutCarouselSlider .columns a{
+
+#aboutCarouselSlider .columns a {
     text-decoration: none;
 }
-#aboutCarouselSlider .columns a.button.active{
-    opacity:1;
-}
-@media(max-width: 991px){
 
- #aboutCarouselSlider ul.menu_tab li {
-    margin-bottom: 10px;
-}
- #aboutCarouselSlider ul.menu_tab li a{
-    display:inline-block;
-}
+#aboutCarouselSlider .columns a.button.active {
+    opacity: 1;
 }
 
-@media(max-width: 767px){
-#aboutCarouselSlider {
-    padding: 40px 20px 20px;
-}
-#aboutCarouselSlider ul.menu_tab li {
-    display: block !important;
-    border: 1px solid #fff;
-    padding: 6px;
-    border-radius: 6px;
-}
-#aboutCarouselSlider ul.menu_tab li.active{
-     background: #fff;
-}
-#aboutCarouselSlider ul.menu_tab li.active a{
-    font-weight:500;
-    color:#3B4ACC !important;
-}
-#aboutCarouselSlider .item {
-    padding: 0px 0px;
-}
-#aboutCarouselSlider .owl-stage {
-    padding-top: 20px !important;
-}
-#aboutCarouselSlider .item p {
-    margin-bottom: 0px;
-}
+@media(max-width: 991px) {
+
+    #aboutCarouselSlider ul.menu_tab li {
+        margin-bottom: 10px;
+    }
+
+    #aboutCarouselSlider ul.menu_tab li a {
+        display: inline-block;
+    }
 }
 
+@media(max-width: 767px) {
+    #aboutCarouselSlider {
+        padding: 40px 20px 20px;
+    }
 
+    #aboutCarouselSlider ul.menu_tab li {
+        display: block !important;
+        border: 1px solid #fff;
+        padding: 6px;
+        border-radius: 6px;
+    }
+
+    #aboutCarouselSlider ul.menu_tab li.active {
+        background: #fff;
+    }
+
+    #aboutCarouselSlider ul.menu_tab li.active a {
+        font-weight: 500;
+        color: #3B4ACC !important;
+    }
+
+    #aboutCarouselSlider .item {
+        padding: 0px 0px;
+    }
+
+    #aboutCarouselSlider .owl-stage {
+        padding-top: 20px !important;
+    }
+
+    #aboutCarouselSlider .item p {
+        margin-bottom: 0px;
+    }
+}
 </style>
 <section id="vmr-features-section" class="content-area mt-4 mb-5" style="background: #3b4acc;background: #3b4acc;padding-top: 40px;padding-bottom: 10px;margin-top: -2px !important;">
     <div class="container">
@@ -715,12 +1168,6 @@ a.dashtime:hover {
    </div>
        <div class="owl-carousel owl-theme aboutCarouselTabSlider owl-loaded">
                    
-                    
-                    
-                    
-                    
-                    
-            
        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-4200px, 0px, 0px); transition: all; width: 12600px;"><div class="owl-item cloned" style="width: 1040px; margin-right: 10px;"><div class="item" data_slide_menu="4">
              <div class="text-center">
                 <h3>Committed in heart and mind</h3>
@@ -781,8 +1228,10 @@ a.dashtime:hover {
                 <h3>If it is to be, it’s up to us</h3>
                 <p>We combine bold thinking with a practical approach that focuses on designing the in-depth market research reports. We are always dedicated to turn decisions into actions.                </p>
              </div>
-          </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"></div></div>
-  </div>
+          </div></div></div></div>
+          <div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"></div>
+      </div>
+</div>
  </div>
             
         </div>
@@ -882,17 +1331,17 @@ a.dashtime:hover {
 <div class="wmd">
 <div class="row">
 <div class="col-md-4">
-<p><img decoding="async" src="images/VMR-Platform.png" data-lazy-src="images/VMR-Platform.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="images/VMR-Platform.png" /></noscript></p>
+<p><img decoding="async" src="https://images.verifiedmarketresearch.com/assets/VMR-Platform.png" data-lazy-src="https://images.verifiedmarketresearch.com/assets/VMR-Platform.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="https://images.verifiedmarketresearch.com/assets/VMR-Platform.png" /></noscript></p>
 <h3 class="vmr-color-blue-dark">Platform</h3>
 <p>BI-enabled dashboard helps in comprehensive coverage of data that suits the needs and requirements of every client. We dedicate hours of research to enhance competitive capability of our clientbase present across globe.</p>
 </div>
 <div class="col-md-4">
-<p><img decoding="async" data-lazy-src="images/VMR-Insight.png" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img decoding="async" src="images/VMR-Insight.png" /></noscript></p>
+<p><img decoding="async" data-lazy-src="https://images.verifiedmarketresearch.com/assets/VMR-Insight.png" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img decoding="async" src="https://images.verifiedmarketresearch.com/assets/VMR-Insight.png" /></noscript></p>
 <h3 class="vmr-color-blue-dark">Insights</h3>
 <p>We offer value in every project we undertake. All insights are exclusive to VMR. We continuously evaluate the market to keep ourselves updated about the latest trends. We have the best research team in the industry.</p>
 </div>
 <div class="col-md-4">
-<p><img decoding="async" data-lazy-src="images/VMR-Analysis.png" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img decoding="async" src="images/VMR-Analysis.png" /></noscript></p>
+<p><img decoding="async" data-lazy-src="https://images.verifiedmarketresearch.com/assets/VMR-Analysis.png" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img decoding="async" src="https://images.verifiedmarketresearch.com/assets/VMR-Analysis.png" /></noscript></p>
 <h3 class="vmr-color-blue-dark">Analysis</h3>
 <p>Our result-oriented approach includes transparent communication of methodologies in addition to consulting facilities. We combine years of analysts’ experience with research tools to help you in overcoming business challenges.</p>
 </div>
@@ -914,7 +1363,7 @@ a.dashtime:hover {
 <div class="where_find_us">
 <div class="row text-center">
 <div class="col-md-4">
-<p><img decoding="async" data-lazy-src="images/VMR-India.png" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img decoding="async" src="images/VMR-India.png" /></noscript></p>
+<p><img decoding="async" data-lazy-src="https://images.verifiedmarketresearch.com/assets/VMR-India.png" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img decoding="async" src="https://images.verifiedmarketresearch.com/assets/VMR-India.png" /></noscript></p>
 <h3 class="vmr-color-blue-dark">Asia Pacific</h3>
 <p>Pune – India<br>
 Office no : 8th floor, AP81, N Main Rd,<br>
@@ -922,7 +1371,7 @@ near Hard Rock Cafe, Mundhwa, Pune – 411036</p>
 <p>Tel : <a href="tel:+61 485 860 968">+61 485 860 968</a></p>
 </div>
 <div class="col-md-4">
-<p><img decoding="async" data-lazy-src="images/VMR-US.png" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img decoding="async" src="images/VMR-US.png" /></noscript></p>
+<p><img decoding="async" data-lazy-src="https://images.verifiedmarketresearch.com/assets/VMR-US.png" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img decoding="async" src="https://images.verifiedmarketresearch.com/assets/VMR-US.png" /></noscript></p>
 <h3 class="vmr-color-blue-dark">North America</h3>
 <p>United States of America<br>
 1015 15th Street NW #600<br>
@@ -930,7 +1379,7 @@ Washington DC&nbsp; 20005</p>
 <p>USA Tel : <a href="tel:+1 650 781 4080">+1 650 781 4080</a></p>
 </div>
 <div class="col-md-4">
-<p><img decoding="async" style="width: 120px; height: 97px;" src="images/DubaiMap.png" data-lazy-src="images/DubaiMap.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" style="width: 120px; height: 97px;" src="images/DubaiMap.png" /></noscript></p>
+<p><img decoding="async" style="width: 120px; height: 97px;" src="https://images.verifiedmarketresearch.com/assets/DubaiMap.png" data-lazy-src="https://images.verifiedmarketresearch.com/assets/DubaiMap.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" style="width: 120px; height: 97px;" src="https://images.verifiedmarketresearch.com/assets/DubaiMap.png" /></noscript></p>
 <h3 class="vmr-color-blue-dark">Middle East</h3>
 <p>United Arab Emirates<br>
 Office-1812, Burjuman Business Tower<br>
@@ -958,7 +1407,7 @@ Al-Mankhool, Dubai</p>
                                          
                      <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2028px, 0px, 0px); transition: all; width: 7098px;"><div class="owl-item cloned" style="width: 994px; margin-right: 20px;"><div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 offset-2 offset-2 col-sm-offset-2 text-center">
                     <div class="testimonial_slider_content">
-                        <div><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">The experience was good</h2>
+                        <div class="mb-5"><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">The experience was good</h2>
 <p class="typography_body-l__KUYFJ typography_appearance-default__AAY17 typography_color-black__5LYEn" data-service-review-text-typography="true">The experience was good, got additional support</p>
 </div>
                         
@@ -967,7 +1416,7 @@ Al-Mankhool, Dubai</p>
                     </div>
                 </div></div><div class="owl-item cloned" style="width: 994px; margin-right: 20px;"><div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 offset-2 offset-2 col-sm-offset-2 text-center">
                     <div class="testimonial_slider_content">
-                        <div><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">Specific Market Analysis Report</h2>
+                        <div class="mb-5"><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">Specific Market Analysis Report</h2>
 <p class="typography_body-l__KUYFJ typography_appearance-default__AAY17 typography_color-black__5LYEn" data-service-review-text-typography="true">The market analysis report highlighted many areas that were beneficial in both products and applications as well as manufacturers. After reviewing the initial report, I responded to VMR that some of the information (units &amp; dollars) did not “balance” from table to table. They responded and corrected the errors. There were some other minor corrects made too. Overall, the market analysis report confirmed what I thought. Therefore, it was an excellent evaluation and very helpful to my decision process.</p>
 </div>
                         
@@ -976,7 +1425,7 @@ Al-Mankhool, Dubai</p>
                     </div>
                 </div></div><div class="owl-item active" style="width: 994px; margin-right: 20px;"><div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 offset-2 offset-2 col-sm-offset-2 text-center">
                     <div class="testimonial_slider_content">
-                        <div><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">Great Market Insights and Outstanding Support</h2>
+                        <div class="mb-5"><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">Great Market Insights and Outstanding Support</h2>
 <p class="typography_body-l__KUYFJ typography_appearance-default__AAY17 typography_color-black__5LYEn" data-service-review-text-typography="true">We recently engaged Verified Market Research to help us gain a deeper understanding of our market, including market size, trends, and competitors.</p>
 <p>Verified Market Research provided comprehensive insights into our core markets, which were instrumental in shaping our strategic decisions. Their reports were highly customizable, allowing us to tailor the data to our specific needs. We particularly appreciated the report visualizer, which enabled us to filter and analyze the data in a unique and highly effective manner.</p>
 <p>The team at Verified Market Research was incredibly responsive and supportive throughout the process. They continued to offer valuable insights and answer our questions even after delivering the report. Their dedication to customer satisfaction and their expertise in market research truly set them apart.</p>
@@ -988,7 +1437,7 @@ Al-Mankhool, Dubai</p>
                     </div>
                 </div></div><div class="owl-item" style="width: 994px; margin-right: 20px;"><div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 offset-2 offset-2 col-sm-offset-2 text-center">
                     <div class="testimonial_slider_content">
-                        <div><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">The experience was good</h2>
+                        <div class="mb-5"><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">The experience was good</h2>
 <p class="typography_body-l__KUYFJ typography_appearance-default__AAY17 typography_color-black__5LYEn" data-service-review-text-typography="true">The experience was good, got additional support</p>
 </div>
                         
@@ -997,7 +1446,7 @@ Al-Mankhool, Dubai</p>
                     </div>
                 </div></div><div class="owl-item" style="width: 994px; margin-right: 20px;"><div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 offset-2 offset-2 col-sm-offset-2 text-center">
                     <div class="testimonial_slider_content">
-                        <div><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">Specific Market Analysis Report</h2>
+                        <div class="mb-5"><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">Specific Market Analysis Report</h2>
 <p class="typography_body-l__KUYFJ typography_appearance-default__AAY17 typography_color-black__5LYEn" data-service-review-text-typography="true">The market analysis report highlighted many areas that were beneficial in both products and applications as well as manufacturers. After reviewing the initial report, I responded to VMR that some of the information (units &amp; dollars) did not “balance” from table to table. They responded and corrected the errors. There were some other minor corrects made too. Overall, the market analysis report confirmed what I thought. Therefore, it was an excellent evaluation and very helpful to my decision process.</p>
 </div>
                         
@@ -1006,7 +1455,7 @@ Al-Mankhool, Dubai</p>
                     </div>
                 </div></div><div class="owl-item cloned" style="width: 994px; margin-right: 20px;"><div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 offset-2 offset-2 col-sm-offset-2 text-center">
                     <div class="testimonial_slider_content">
-                        <div><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">Great Market Insights and Outstanding Support</h2>
+                        <div class="mb-5"><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">Great Market Insights and Outstanding Support</h2>
 <p class="typography_body-l__KUYFJ typography_appearance-default__AAY17 typography_color-black__5LYEn" data-service-review-text-typography="true">We recently engaged Verified Market Research to help us gain a deeper understanding of our market, including market size, trends, and competitors.</p>
 <p>Verified Market Research provided comprehensive insights into our core markets, which were instrumental in shaping our strategic decisions. Their reports were highly customizable, allowing us to tailor the data to our specific needs. We particularly appreciated the report visualizer, which enabled us to filter and analyze the data in a unique and highly effective manner.</p>
 <p>The team at Verified Market Research was incredibly responsive and supportive throughout the process. They continued to offer valuable insights and answer our questions even after delivering the report. Their dedication to customer satisfaction and their expertise in market research truly set them apart.</p>
@@ -1018,7 +1467,7 @@ Al-Mankhool, Dubai</p>
                     </div>
                 </div></div><div class="owl-item cloned" style="width: 994px; margin-right: 20px;"><div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 offset-2 offset-2 col-sm-offset-2 text-center">
                     <div class="testimonial_slider_content">
-                        <div><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">The experience was good</h2>
+                        <div class="mb-5"><h2 class="typography_heading-s__f7029 typography_appearance-default__AAY17" data-service-review-title-typography="true">The experience was good</h2>
 <p class="typography_body-l__KUYFJ typography_appearance-default__AAY17 typography_color-black__5LYEn" data-service-review-text-typography="true">The experience was good, got additional support</p>
 </div>
                         
@@ -1069,12 +1518,12 @@ Al-Mankhool, Dubai</p>
         </div>
                 <div class="row">
             <div class="col-12 col-md-12 text-center mb-5 mt-5 text-center">
-                <img src="images/client-logo.jpg" alt="VMR Clients" data-lazy-src="images/client-logo.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="images/client-logo.jpg" alt="VMR Clients"></noscript>
+                <img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/client-logo.jpg" alt="VMR Clients" data-lazy-src="https://images.verifiedmarketresearch.com/assets/client-logo.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/client-logo.jpg" alt="VMR Clients"></noscript>
             </div>
         </div>
             </div>
 </section>
-<section id="vmr-research-section" class="content-area mt-4 mb-5">
+<section id="vmr-research-section" class="content-area mt-4 mb-5 pb-5">
     <div class="container">
                 <div class="row">
             <div class="col-12 col-md-12">
@@ -1084,12 +1533,12 @@ Al-Mankhool, Dubai</p>
         <div class="row">
                         <div class="col-12 text-center col-md-4">
                 <div>
-                    <img src="images/vmr-box-3-1.jpg" alt="Consulting Partnerships" data-lazy-src="images/vmr-box-3-1.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="images/vmr-box-3-1.jpg" alt="Consulting Partnerships"></noscript>
+                    <img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/vmr-box-3-1.jpg" alt="Consulting Partnerships" data-lazy-src="https://images.verifiedmarketresearch.com/assets/vmr-box-3-1.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/vmr-box-3-1.jpg" alt="Consulting Partnerships"></noscript>
                     <div class="mt-3 mb-3">Beyond providing market research reports, VMR engages in consulting partnerships, acting as an extension of our clients' research and strategy teams. This service is particularly valuable for addressing larger-scale issues that require an in-depth investigation of the market and its components.
 Through these partnerships, we collaborate closely with clients to define project objectives and milestones, committing ourselves to their success over engagements that typically span more than a quarter.
 This approach ensures that our clients not only receive data but also benefit from strategic insights tailored to their specific needs.</div>
                                         <div class="vmr-store-btn vmr-inline-block mt-4 mb-4">
-                        <a href="https://www.verifiedmarketresearch.com/consulting/" class="vmr-btn-blue">Know More</a>
+                        <a href="<?=HOST?>consulting/" class="vmr-btn-blue">Know More</a>
                     </div>
                                         <div class="vmr-call-btn vmr-inline-block mt-4 mb-4">
                         <a href="tel" target="_blank" class="vmr-btn-blue"><i class="fa fa-phone" aria-hidden="true"></i></a>
@@ -1098,23 +1547,23 @@ This approach ensures that our clients not only receive data but also benefit fr
             </div>
                          <div class="col-12 text-center col-md-4">
                 <div>
-                    <img src="images/VMR-Insights-small.png" alt="Industry Dashboards" data-lazy-src="images/VMR-Insights-small.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="images/VMR-Insights-small.png" alt="Industry Dashboards"></noscript>
+                    <img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/VMR-Insights-small.png" alt="Industry Dashboards" data-lazy-src="https://images.verifiedmarketresearch.com/assets/VMR-Insights-small.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/VMR-Insights-small.png" alt="Industry Dashboards"></noscript>
                     <div class="mt-3 mb-3">Our proprietary tool, Verified Market Intelligence (VMI), offers clients a centralized platform for accessing research insights across any market, globally. This innovative dashboard facilitates quick access to crucial market data, featuring interactive charts and graphs that detail the quantitative aspects of our research.
 
 VMI is designed to simplify the analysis process, allowing clients to make informed decisions swiftly and efficiently.</div>
                                         <div class="vmr-store-btn vmr-inline-block mt-4 mb-4">
-                        <a href="https://www.verifiedmarketresearch.com/vmintelligence/" class="vmr-btn-blue">Visualize Your Market</a>
+                        <a href="<?=HOST?>vmintelligence/" class="vmr-btn-blue">Visualize Your Market</a>
                     </div>
                                     </div>
             </div>
                          <div class="col-12 text-center col-md-4">
                 <div>
-                    <img src="images/vmr-box-1.jpg" alt="Market Research Reports" data-lazy-src="images/vmr-box-1.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="images/vmr-box-1.jpg" alt="Market Research Reports"></noscript>
+                    <img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/vmr-box-1.jpg" alt="Market Research Reports" data-lazy-src="https://images.verifiedmarketresearch.com/assets/vmr-box-1.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/vmr-box-1.jpg" alt="Market Research Reports"></noscript>
                     <div class="mt-3 mb-3">At the heart of our offerings is a comprehensive library of over 400,000 market research reports, covering 14 parent industries and more than 3,000 sub-categories. This extensive collection is a testament to our commitment to niche and emerging markets—sectors often overlooked by larger firms focused on broader topics.
 
 Through this focused approach, we provide our clients with insights into specific areas of interest, enabling them to uncover opportunities in less saturated markets.</div>
                                         <div class="vmr-store-btn vmr-inline-block mt-4 mb-4">
-                        <a href="https://www.verifiedmarketresearch.com/report-store/" class="vmr-btn-blue">View Report Store</a>
+                        <a href="<?=HOST?>report-store/" class="vmr-btn-blue">View Report Store</a>
                     </div>
                                         <div class="vmr-call-btn vmr-inline-block mt-4 mb-4">
                         <a href="tel" target="_blank" class="vmr-btn-blue"><i class="fa fa-phone" aria-hidden="true"></i></a>
@@ -1206,13 +1655,28 @@ Through this focused approach, we provide our clients with insights into specifi
     }
 }(jQuery));
 
-jQuery(function ($) {
-  // custom formatting example
-  $('.count-number').data('countToOptions', {
-    formatter: function (value, options) {
-      return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, '');
+document.addEventListener("DOMContentLoaded", function () {
+    function animateCount(element, start, end, duration) {
+        let startTime = null;
+
+        function updateCount(currentTime) {
+            if (!startTime) startTime = currentTime;
+            let progress = Math.min((currentTime - startTime) / duration, 1);
+            element.textContent = Math.floor(progress * (end - start) + start);
+
+            if (progress < 1) {
+                requestAnimationFrame(updateCount);
+            }
+        }
+        requestAnimationFrame(updateCount);
     }
-  });
+
+    document.querySelectorAll(".count-number").forEach((counter) => {
+        let endValue = parseInt(counter.dataset.to);
+        animateCount(counter, 0, endValue, 2000);
+    });
+});
+
   
   // start all the timers
   $('.timer').each(count);  
@@ -1222,61 +1686,59 @@ jQuery(function ($) {
     options = $.extend({}, options || {}, $this.data('countToOptions') || {});
     $this.countTo(options);
   }
-});
-</script>
 
-<script>
-     jQuery(document).ready(function() {
-              var owl = jQuery('.aboutCarouselTabSlider');
-              owl.owlCarousel({
-                margin: 10,
-                nav: false,
-                dots: false,
-                loop: true,
-                animateOut: 'fadeOut',
-                smartSpeed: 5000,
-                autoplay: true,
-                mouseDrag: false,
-                autoplaySpeed: 5000,
-                /*autoplayTimeout:5000,*/
-                responsive: {
-                  0: {
-                    items: 1
-                  }
-                  
-                }
-              })
-    owl.on('change.owl.carousel', function(event) {
-        // number of items on screen updates on responsive
-        var shown = event.page.size;
-
-        // total number of slides
-        var total = event.relatedTarget.items().length - 1;
-
-        // current slide index
-        var current = parseInt(event.item.index) - 2;
-
-        // how many slides to go?
-        var remain = total - (shown + current);
-
-        jQuery('.owl_tab_menu li').removeClass("active");
-        //var y = jQuery(item).children().attr('data_slide_menu');
-        //console.log(y);
-        jQuery(document).find('.owl_tab_menu [data_tab="' + current + '"]').addClass("active");
-    });
-            });  
-  jQuery(document).ready(function(){
-jQuery('.menu_tab li').on('click',function(){
-    var x =   jQuery(this).attr('data_tab');
-    //console.log(x);
-    jQuery('.owl_tab_menu li').removeClass('active');
-    jQuery(this).addClass('active');
-    jQuery('.owl-carousel').trigger('to.owl.carousel', x);
-  });
-});
 </script>
 
   </div><!-- #content -->
     <div class="SearchOveryLay"></div>
    
 <?php include 'footer.php'; ?>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const owl = $(".aboutCarouselTabSlider").owlCarousel({
+        margin: 10,
+        nav: false,
+        dots: false,
+        loop: true,
+        animateOut: 'fadeOut',
+        smartSpeed: 5000,
+        autoplay: true,
+        mouseDrag: false,
+        autoplaySpeed: 5000,
+        responsive: { 0: { items: 1 } }
+    });
+
+    owl.on("translated.owl.carousel", function (event) {
+        let currentSlide = $(event.target).find(".owl-item").eq(event.item.index);
+        let slideMenu = currentSlide.find(".item").attr("data_slide_menu");
+
+        $(".owl_tab_menu li").removeClass("active");
+        $(".owl_tab_menu [data_tab='" + slideMenu + "']").addClass("active");
+    });
+
+    $(".menu_tab li").on("click", function () {
+        let index = $(this).attr("data_tab");
+        $(".menu_tab li").removeClass("active");
+        $(this).addClass("active");
+        owl.trigger("to.owl.carousel", index);
+    });
+
+    $(".vmr-testiminials-slider").owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: true,
+        dots: false,
+        autoplay: true,
+        autoplayTimeout: 5000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: { items: 1 },
+            768: { items: 1 },
+            1024: { items: 1 }
+        },
+        navText: ["<i class='fa fa-chevron-left'></i>", "<i class='fa fa-chevron-right'></i>"]
+    });
+});
+
+
+</script>

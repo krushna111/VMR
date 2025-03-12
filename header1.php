@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en-US">
 <?php define('HOST', 'http://localhost/vmr/');?>
 <head>
@@ -29,39 +30,47 @@
 <link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
 
 <meta name="cdp-version" content="1.4.6">
-    <link rel='stylesheet' href='css/slick/slick.css' type='text/css' />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel='stylesheet'href='<?=HOST?>css/cust-settings.css'  type='text/css' />
 
-<link rel='stylesheet'href='css/cust-settings.css'  type='text/css' />
+<!-- <link rel='stylesheet' href='<?=HOST?>css/owl/owl.carousel.css' type='text/css' /> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
 
-<link rel='stylesheet' href='css/owl/owl.carousel.css' type='text/css' />
+<!-- <link rel='stylesheet' href='<?=HOST?>css/owl/owl.theme.default.css' type='text/css' /> -->
 
-<link rel='stylesheet' href='css/owl/owl.theme.default.css' type='text/css' />
+<link rel='stylesheet' href='<?=HOST?>css/style.css' type='text/css' />
 
-<link rel='stylesheet' href='css/style.css' type='text/css' />
+<link rel='stylesheet' href='<?=HOST?>css/slick/slick.css' type='text/css' />
 
-<link rel='stylesheet' href='css/slick/slick.css' type='text/css' />
+<link rel='stylesheet' href='<?=HOST?>css/slick/slick-slider-style.css' type='text/css' />
 
-<link rel='stylesheet' href='css/slick/slick-slider-style.css' type='text/css' />
+<link rel='stylesheet' href='<?=HOST?>css/bootstrap/bootstrap.min.css' type='text/css' />
 
-<link rel='stylesheet' href='css/bootstrap/bootstrap.min.css' type='text/css' />
+<link rel='stylesheet' href='<?=HOST?>css/fontawesome.min.css' type='text/css' />
 
-<link rel='stylesheet' href='css/fontawesome.min.css' type='text/css' />
+<link rel='stylesheet' href='<?=HOST?>css/theme-style.css' type='text/css' />
 
-<link rel='stylesheet' href='css/theme-style.css' type='text/css' />
+<link rel='stylesheet' href='<?=HOST?>css/slick/slick.min.css' type='text/css' />
 
-<link rel='stylesheet' href='css/slick/slick.min.css' type='text/css' />
+<link rel='stylesheet' href='<?=HOST?>css/slick/slick-theme.min.css' type='text/css' />
+<!-- <script type="text/javascript" src="<?=HOST?>js/owl.carousel.js" id="sws-owl-carousel-js-js"></script> -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-<link rel='stylesheet' href='css/slick/slick-theme.min.css' type='text/css' />
+<!-- Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- <script type="text/javascript" src="<?=HOST?>js/jquery.min.js"></script> -->
 
-<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="<?=HOST?>js/jquery-migrate.min.js"></script>
 
-<script type="text/javascript" src="js/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="<?=HOST?>js/revslider/jquery.themepunch.tools.min.js"></script>
 
-<script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
-
-<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
-<script data-minify="1" type="text/javascript" src="js/instantsearch.min.js" id="vmr-instantsearch-js"></script>
-<script data-minify="1" type="text/javascript" src="js/progressively.min.js" id="vmr-progressive-script-js"></script>
+<script type="text/javascript" src="<?=HOST?>js/revslider/jquery.themepunch.revolution.min.js"></script>
+<script src="<?= HOST?>js/revslider/extensions/revolution.extension.carousel.min.js"></script>
+<script src="<?= HOST?>js/revslider/extensions/revolution.extension.navigation.min.js"></script>
+<script src="<?= HOST?>js/revslider/extensions/revolution.extension.parallax.min.js"></script>
+<script data-minify="1" type="text/javascript" src="<?=HOST?>js/instantsearch.min.js" id="vmr-instantsearch-js"></script>
+<script data-minify="1" type="text/javascript" src="<?=HOST?>js/progressively.min.js" id="vmr-progressive-script-js"></script>
 <style id="ctcc-css" type="text/css" media="screen">
 				#catapult-cookie-bar {
 					box-sizing: border-box;
@@ -132,7 +141,7 @@
             "@type": "ListItem",
             "position": 1,
             "item": {
-                "@id": "https://www.verifiedmarketresearch.com",
+                "@id": "<?=HOST?>",
                 "name": "Home"
             }
         },
@@ -148,9 +157,9 @@
 }</script>
 
 <meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
-    <link rel="icon" href="images/favicon-2.ico" sizes="32x32" />
-    <link rel="icon" href="images/favicon-2.ico" sizes="192x192" />
-    <link rel="apple-touch-icon" href="images/favicon-2.ico" />
+    <link rel="icon" href="https://images.verifiedmarketresearch.com/assets/favicon-2.ico" sizes="32x32" />
+    <link rel="icon" href="https://images.verifiedmarketresearch.com/assets/favicon-2.ico" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://images.verifiedmarketresearch.com/assets/favicon-2.ico" />
     <meta name="msapplication-TileImage" content="images/favicon-2.ico" />
 <script type="text/javascript">function setREVStartSize(e){									
 						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
@@ -178,13 +187,13 @@
   </a>
 <header id="masthead" class="sticky-top site-header navbar-static-top navbar-light" role="banner">
        <section id="SearchBar"><div class="container"><div data-load="no" class="search_wrapper text-right HeaderSearch" id="vmr-header-search-wrap" style="display: none">
-        <form method="get" id="vmr-header-search-form" action="<?=HOST?>reports/"><div class="row"><div class="col-md-2 SearchText pl-0 text-left"><p class="pt-1 m-0 vmr-font20 vmr-color-white">Search Markets</p></div><div class="col-md-9 position-relative"><div class="ais-search-box"><input name="key" class="form-control ais-search-box--input" type="text" placeholder="Search Report" id="searchbox" autocomplete="off" autocapitalize="off" autocorrect="off" role="textbox" spellcheck="false" value=""></div><div class="search-dropdown" id="hits-container"></div><input type="submit" class="submit" value="<i class=\'icon-search-fine\'></i>" style="display:none;"><button style="display:none;" class="submit home-srch-btn" type="submit"><i class="icon-search-fine"></i></button><button style="" class="submit home-srch-btn" type="submit"><img width="30" height="30" class="fa-flip-horizontal" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E" data-lazy-src="<?=HOST?>images/search-icon1.png"><noscript><img width="30" height="30" class="fa-flip-horizontal" src="<?=HOST?>images/search-icon1.png"></noscript></button><div class="loader fliter_loader HomeSearchSpinner" style="display: none;"></div></div><div class="col-md-1"> <a href="#" class="icon_close"><i class="fa fa-times"></i></a> </div></div><div class="row"><div class="offset-md-2 col-md-9"><div class="AutoSearch rounded-bottom"></div></div></div></form>
+        <form method="get" id="vmr-header-search-form" action="<?=HOST?>reports/"><div class="row"><div class="col-md-2 SearchText pl-0 text-left"><p class="pt-1 m-0 vmr-font20 vmr-color-white">Search Markets</p></div><div class="col-md-9 position-relative"><div class="ais-search-box"><input name="key" class="form-control ais-search-box--input" type="text" placeholder="Search Report" id="searchbox" autocomplete="off" autocapitalize="off" autocorrect="off" role="textbox" spellcheck="false" value=""></div><div class="search-dropdown" id="hits-container"></div><input type="submit" class="submit" value="<i class=\'icon-search-fine\'></i>" style="display:none;"><button style="display:none;" class="submit home-srch-btn" type="submit"><i class="icon-search-fine"></i></button><button style="" class="submit home-srch-btn" type="submit"><img width="30" height="30" class="fa-flip-horizontal" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E" data-lazy-src="https://images.verifiedmarketresearch.com/assets/search-icon1.png"><noscript><img width="30" height="30" class="fa-flip-horizontal" src="https://images.verifiedmarketresearch.com/assets/search-icon1.png"></noscript></button><div class="loader fliter_loader HomeSearchSpinner" style="display: none;"></div></div><div class="col-md-1"> <a href="#" class="icon_close"><i class="fa fa-times"></i></a> </div></div><div class="row"><div class="offset-md-2 col-md-9"><div class="AutoSearch rounded-bottom"></div></div></div></form>
        </div></div></section>
         <div class="container">
             <nav class="navbar navbar-expand-lg p-0">
                 <div class="navbar-brand">
                                             <a href="<?=HOST?>">
-                                                    <img class="vmr-site-logo entered lazyloaded" src="<?=HOST?>images/vmr-logo-desktop.png" alt="Verified Market Research" width="206" height="70" data-lazy-src="<?=HOST?>images/vmr-logo-desktop.png" data-ll-status="loaded"><noscript><img class="vmr-site-logo" src="<?=HOST?>images/vmr-logo-desktop.png" alt="Verified Market Research" width="206" height="70"></noscript>
+                                                    <img class="vmr-site-logo entered lazyloaded" src="https://images.verifiedmarketresearch.com/assets/vmr-logo-desktop.png" alt="Verified Market Research" width="206" height="70" data-lazy-src="https://images.verifiedmarketresearch.com/assets/vmr-logo-desktop.png" data-ll-status="loaded"><noscript><img class="vmr-site-logo" src="https://images.verifiedmarketresearch.com/assets/vmr-logo-desktop.png" alt="Verified Market Research" width="206" height="70"></noscript>
                                                 </a>
                     
                 </div>
@@ -239,7 +248,7 @@
 </ul></div>            </nav>
             <div class="animated fadeIn mega-menu mega-drop-down vmr-bg-white" id="mega-menu" style="display: none;">
       <div class="mega-menu-wrap close_btn_parrent">
-         <img class="close_header" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2017%2017'%3E%3C/svg%3E" width="17" height="17" style="filter: invert(97%) sepia(3%) saturate(0%) hue-rotate(334deg) brightness(201%) contrast(103%);" data-lazy-src="<?=HOST?>images/CloseCopy.png"><noscript><img class="close_header" src="<?=HOST?>images/CloseCopy.png" width="17" height="17" style="filter: invert(97%) sepia(3%) saturate(0%) hue-rotate(334deg) brightness(201%) contrast(103%);"></noscript>
+         <img class="close_header" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2017%2017'%3E%3C/svg%3E" width="17" height="17" style="filter: invert(97%) sepia(3%) saturate(0%) hue-rotate(334deg) brightness(201%) contrast(103%);" data-lazy-src="https://images.verifiedmarketresearch.com/assets/CloseCopy.png"><noscript><img class="close_header" src="https://images.verifiedmarketresearch.com/assets/CloseCopy.png" width="17" height="17" style="filter: invert(97%) sepia(3%) saturate(0%) hue-rotate(334deg) brightness(201%) contrast(103%);"></noscript>
          <div class="row">
             <!-- first row -->
             <div class="col-md-4 p-0">
@@ -281,7 +290,7 @@
                        <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/banking-financial-services-insurance-2/" onmouseover="opentab(event, 'tab_id3','tab_content3')">
                           <div>
-                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="<?=HOST?>images/star.png"><noscript><img src="<?=HOST?>images/star.png" class="" width="20" height="20"></noscript> 
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
                           </div>
                             Banking, Financial Services &amp; Insurance Research                          
                         </a>
@@ -290,7 +299,7 @@
                        <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/business-services/" onmouseover="opentab(event, 'tab_id4','tab_content4')">
                           <div>
-                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="<?=HOST?>images/star.png"><noscript><img src="<?=HOST?>images/star.png" class="" width="20" height="20"></noscript> 
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
                           </div>
                             Business Services Research                          
                         </a>
@@ -308,7 +317,7 @@
                        <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/construction-engineering/" onmouseover="opentab(event, 'tab_id6','tab_content6')">
                           <div>
-                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="<?=HOST?>images/star.png"><noscript><img src="<?=HOST?>images/star.png" class="" width="20" height="20"></noscript> 
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
                           </div>
                             Construction &amp; Engineering Research                          
                         </a>
@@ -326,7 +335,7 @@
                        <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/education/" onmouseover="opentab(event, 'tab_id8','tab_content8')">
                           <div>
-                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="<?=HOST?>images/star.png"><noscript><img src="<?=HOST?>images/star.png" class="" width="20" height="20"></noscript> 
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
                           </div>
                             Education Research                          
                         </a>
@@ -362,7 +371,7 @@
                        <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/internet-communication-technology/" onmouseover="opentab(event, 'tab_id12','tab_content12')">
                           <div>
-                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="<?=HOST?>images/star.png"><noscript><img src="<?=HOST?>images/star.png" class="" width="20" height="20"></noscript> 
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
                           </div>
                             Internet, Communication &amp; Technology Research                          
                         </a>
@@ -371,7 +380,7 @@
                        <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/manufacturing/" onmouseover="opentab(event, 'tab_id13','tab_content13')">
                           <div>
-                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="<?=HOST?>images/star.png"><noscript><img src="<?=HOST?>images/star.png" class="" width="20" height="20"></noscript> 
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
                           </div>
                             Manufacturing Research                          
                         </a>
@@ -380,7 +389,7 @@
                        <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/mining-minerals-and-metals/" onmouseover="opentab(event, 'tab_id14','tab_content14')">
                           <div>
-                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="<?=HOST?>images/star.png"><noscript><img src="<?=HOST?>images/star.png" class="" width="20" height="20"></noscript> 
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
                           </div>
                             Mining, Minerals, and Metals Research                          
                         </a>
@@ -398,7 +407,7 @@
                        <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/retail/" onmouseover="opentab(event, 'tab_id16','tab_content16')">
                           <div>
-                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="<?=HOST?>images/star.png"><noscript><img src="<?=HOST?>images/star.png" class="" width="20" height="20"></noscript> 
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
                           </div>
                             Retail Research                          
                         </a>

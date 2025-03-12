@@ -53,10 +53,10 @@
 <section id="vmr-contact-section" class="content-area mt-4 mb-4">
     <div class="container">
         <div class="row max1024">
-            <div class="col-12 col-md-12 mb-5 mt-5">
+            <div class="col-12 col-md-12 mb-5 mt-4">
               <div class="row">
                <div class="col-12 col-md-4">
-                <h1 class="text-left mt-0 vmr_font_weight700 vmr-color-blue-dark">GET IN TOUCH!</h1>
+                <h1 class="text-left mt-4 vmr_font_weight700 vmr-color-blue-dark">GET IN TOUCH!</h1>
 <p class="vmr-color-blue-dark">If you have any questions for us, please contact our customer service team by filling up the form below. Our representatives will get in touch with you within 24 hours to resolve your concerns.
 <a style="font-weight: 500;" href="mailto:enquiries@verifiedmarketresearch.com">enquiries@verifiedmarketresearch.com</a></p>
 
@@ -109,7 +109,7 @@
     <div class="col-md-6 text-left">
         <p><input class="vmr-form-control has-spinner vmr-submit btn-lg m-0 btn btn-primary" type="submit" value="Send Contact Request"><span class="vmr-spinner"></span>
         </p>
-        <h2 class="text-left m-0 p-0 vmr_font_weight700 vmr-color-blue-dark">OR JUST CALL
+        <h2 class="text-left m-0 p-0 vmr_font_weight700 vmr-color-blue-dark pt-2 mt-5">OR JUST CALL
         </h2>
         <p class="text-left m-0 p-0 vmr_font_weight700 vmr-color-blue-dark"><a href="tel:+18007821768">Global : +1 800 7821 768</a>
         </p>
