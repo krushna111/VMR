@@ -74,7 +74,14 @@
             outline: none !important;
             border: none !important;
         }
-
+        
+        .understand_research_slider .item {
+            display: block;
+            opacity: 1;
+            }
+.owl-prev, .owl-next {
+    display: none;
+}
         @media (max-width: 767px) {
 
             .vmr_advantage img {
@@ -106,12 +113,7 @@
             p.tag_author {
                 text-align: center;
             }
-
-            /*h2#vmr-heading-dark {
-        width: 100%;
-        line-height: 13px !important;
-}*/
-            .understand_research_slider .owl-item .item img {
+  .understand_research_slider .owl-item .item img {
                 width: 100% !important;
                 max-width: 180px;
                 margin: 0 auto;
@@ -201,70 +203,76 @@
         </div>
     </section>
 
-    <section id="vmr-data-section" class="content-area mt-4 mb-4" style="">
-        <div class="container vmr-bg-blue-light"
-            style="box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;">
-            <div class="row">
-                <div class="col-12 col-md-12">
-                    <div>
-                        <div class="">
-                            <div class="owl-carousel owl-theme understand_research_slider owl-loaded">
-                                                  
-                       
-                        
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage" style="transform: translate3d(-1120px, 0px, 0px); transition: all; width: 7840px;">
-                        <div class="owl-item" style="width: 1110px; margin-right: 10px;"><div class="item">
-                             <div class="row p-4">            
-                                 <div class="col-12 col-md-2">
-                                 <img src="https://images.verifiedmarketresearch.com/assets/img2-2.png" data-lazy-src="https://images.verifiedmarketresearch.com/assets/img2-2.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://images.verifiedmarketresearch.com/assets/img2-2.png" loading="lazy" alt="Images"></noscript> 
-                                 </div>
-                                 <div class="col-12 col-md-10"> 
-                                     <div class="d-table h-100">
-                                     <div class="d-table-cell align-top">
-                                    <h2 class="vmr-color-white" id="vmr-heading-dark"><p>VMR’s unified approach to market research delivery — integrating market <br class="d-none d-md-block">research activities, BI-enabled dashboard and custom consulting services.</p>
-</h2>
+<section id="vmr-data-section" class="content-area mt-4 mb-4">
+    <div class="container vmr-bg-blue-light"
+        style="box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;">
+        <div class="row">
+            <div class="col-12 col-md-12">
+                <div class="understand_research_slider owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="row p-4">
+                            <div class="col-12 col-md-2">
+                                <img src="https://images.verifiedmarketresearch.com/assets/img2-2.png" alt="Image 3">
+                            </div>
+                            <div class="col-12 col-md-10">
+                                <div class="d-table h-100">
+                                    <div class="d-table-cell align-top">
+                                        <h2 class="vmr-color-white" id="vmr-heading-dark">
+                                            <p>VMR’s unified approach to market research delivery — integrating market research activities, BI-enabled dashboard and custom consulting services.</p>
+                                        </h2>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="row p-4">
+                            <div class="col-12 col-md-2">
+                                <img src="https://images.verifiedmarketresearch.com/assets/img1-2.png" alt="Image 4">
+                            </div>
+                            <div class="col-12 col-md-10">
+                                <div class="d-table h-100">
+                                    <div class="d-table-cell align-top">
+                                        <h2 class="vmr-color-white" id="vmr-heading-dark">
+                                            <p>VMR’s unified approach to market research delivery — integrating market research activities, BI-enabled dashboard and custom consulting services.</p>
+                                        </h2>
                                     </div>
-                                 </div>
-                             </div>
-                        </div></div>
-                        <div class="owl-item" style="width: 1110px; margin-right: 10px;"><div class="item">
-                             <div class="row p-4">            
-                                 <div class="col-12 col-md-2">
-                                 <img src="https://images.verifiedmarketresearch.com/assets/img1-2.png" data-lazy-src="https://images.verifiedmarketresearch.com/assets/img1-2.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://images.verifiedmarketresearch.com/assets/img1-2.png" loading="lazy" alt="Images"></noscript> 
-                                 </div>
-                                 <div class="col-12 col-md-10"> 
-                                     <div class="d-table h-100">
-                                     <div class="d-table-cell align-top">
-                                    <h2 class="vmr-color-white" id="vmr-heading-dark"><p>VMR’s unified approach to market research delivery — integrating market <br class="d-none d-md-block">research activities, BI-enabled dashboard and custom consulting services.</p>
-</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="row p-4">
+                            <div class="col-12 col-md-2">
+                                <img src="https://images.verifiedmarketresearch.com/assets/img3-3.png" alt="Image 5">
+                            </div>
+                            <div class="col-12 col-md-10">
+                                <div class="d-table h-100">
+                                    <div class="d-table-cell align-top">
+                                        <h2 class="vmr-color-white" id="vmr-heading-dark">
+                                            <p>Turning market insights into revenue. We’ve long-standing heritage in market forecasting, on a global level.</p>
+                                        </h2>
                                     </div>
-                                    </div>
-                                 </div>
-                             </div>
-                        </div></div>
-                        <div class="owl-item" style="width: 1110px; margin-right: 10px;"><div class="item">
-                             <div class="row p-4">            
-                                 <div class="col-12 col-md-2">
-                                 <img data-lazy-src="https://images.verifiedmarketresearch.com/assets/img3-3.png" class="entered lazyloaded" src="https://images.verifiedmarketresearch.com/assets/img3-3.png" data-ll-status="loaded"><noscript><img src="https://images.verifiedmarketresearch.com/assets/img3-3.png" loading="lazy" alt="Images"></noscript> 
-                                 </div>
-                                 <div class="col-12 col-md-10"> 
-                                     <div class="d-table h-100">
-                                     <div class="d-table-cell align-top">
-                                    <h2 class="vmr-color-white" id="vmr-heading-dark"><p>Turning market insights into revenue. We’ve long-standing heritage <br class="d-none d-md-block">in market forecasting, on a global level.</p>
-</h2>
-                                    </div>
-                                    </div>
-                                 </div>
-                             </div>
-                        </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+
+                <!-- Owl Navigation & Pagination -->
+                <div class="owl-nav">
+                    <div class="owl-prev">prev</div>
+                    <div class="owl-next">next</div>
+                </div>
+                <div class="owl-dots">
+                    <div class="owl-dot"><span></span></div>
+                    <div class="owl-dot"><span></span></div>
+                    <div class="owl-dot active"><span></span></div>
+                </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
     <style>
         .vmr-bg-light-grey {
@@ -274,11 +282,7 @@
     <section id="sec_text_only_1" style="" class="content-area w-100 sec_text_only pt-3 pb-2">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left pl-0">
                             <h3 class="vmr-color-blue-dark mt-4 mb-3 vmr-font24 text-uppercase">What is market research?
@@ -295,11 +299,11 @@
                             <p><a class="vmr-btn-blue vmr-btn-hover-teal"
                                     href="<?= HOST?>contact-us/">Know more</a></p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/What-is-market-research.jpg"
                                 src="https://images.verifiedmarketresearch.com/assets/What-is-market-research.jpg"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/What-is-market-research.jpg" /></noscript>
                         </div>
                     </div>
@@ -311,17 +315,13 @@
     <section id="sec_text_only_2" style="" class="content-area w-100 sec_text_only pt-2">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/How-to-build-a-successful-market-strategy.jpg"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/How-to-build-a-successful-market-strategy.jpg"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/How-to-build-a-successful-market-strategy.jpg" /></noscript>
                         </div>
                         <div class="col-md-8 float-left">
@@ -347,11 +347,7 @@
     <section id="sec_text_only_3" style="" class="content-area w-100 sec_text_only pt-2 pb-2">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left pl-0">
                             <h3 class="vmr-color-blue-dark mt-4 mb-3 vmr-font24 text-uppercase">How to build your own
@@ -374,11 +370,11 @@
                                     your business and advance it as you develop.</li>
                             </ul>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/how-to-build-your-own-brand.jpg"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/how-to-build-your-own-brand.jpg"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/how-to-build-your-own-brand.jpg" /></noscript>
                         </div>
                     </div>
@@ -390,11 +386,7 @@
     <section id="sec_text_only_4" style="" class="content-area w-100 sec_text_only pt-2 pb-2">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <p>Brand building looks easy but requires a lot of effort. From planning, testing and then
                             executing, you need to be sure as it also involves time and money. The meaning of brand
@@ -418,17 +410,13 @@
     <section id="sec_text_only_5" style="" class="content-area w-100 sec_text_only pt-2">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/market-expansion-strategy.jpg"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/market-expansion-strategy.jpg"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/market-expansion-strategy.jpg" /></noscript>
                         </div>
                         <div class="col-md-8 float-left">
@@ -448,11 +436,7 @@
     <section id="sec_text_only_6" style="" class="content-area w-100 sec_text_only pt-1 pb-2">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <p>By understanding your target audience’s needs, wants and desires. Once you are aware of these
                             pointers, you can make a proper business plan that fits your budget. According to Verified
@@ -487,11 +471,7 @@
     <section id="sec_text_only_7" style="" class="content-area w-100 sec_text_only pt-4 pb-2 vmr-bg-blue-dark">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left pl-0">
                             <h3 class="vmr-color-white mt-4 mb-3 vmr-font24 text-uppercase">How Verified Market Research
@@ -509,11 +489,11 @@
                                 interviews of industry experts and well-known entrepreneurs to give out market leading
                                 actionable recommendations to our clients.</p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/how-verified-market-research-help.png"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/how-verified-market-research-help.png"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/how-verified-market-research-help.png" /></noscript>
                         </div>
                     </div>
@@ -525,11 +505,7 @@
     <section id="sec_text_only_8" style="" class="content-area w-100 sec_text_only pb-4 vmr-bg-blue-dark">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <p class="text-justify vmr-color-white">Our statistical surveying consists of investigating
                             various market segments that will be useful to your business over the long haul. Our reports
@@ -551,11 +527,7 @@
     <section id="sec_text_only_9" style="" class="content-area w-100 sec_text_only pt-2 pb-2 vmr-bg-blue-dark">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left pl-0">
                             <h3 class="vmr-color-white mt-4 mb-3 vmr-font24 text-uppercase">Why us:</h3>
@@ -567,11 +539,11 @@
                                 scenario, buyers and advertising patterns can give you a decent comprehension of what is
                                 needed from your business to succeed.</p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/Question-Mark.png"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/Question-Mark.png"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/Question-Mark.png" /></noscript>
                         </div>
                     </div>
@@ -583,11 +555,7 @@
     <section id="sec_text_only_10" style="" class="content-area w-100 sec_text_only pt-2 pb-3 vmr-bg-blue-dark">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <p class="text-justify vmr-color-white">Our analysts will do all the work for you and prepare an
                             extensive market research report just for your business. Our statistical surveying, backed
@@ -622,17 +590,13 @@
     <section id="sec_text_only_11" style="" class="content-area w-100 sec_text_only pt-4 pb-2">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
-                        <div class="col-12 col-md-12 text-center"><img decoding="async" class="w-25 entered lazyloaded"
+                        <div class="col-12 col-md-12 text-center"><img loading="lazy" decoding="async" class="w-25 entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/VMR_Advantage.png"
                                 data-was-processed="true"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/VMR_Advantage.png"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="w-25 lazyloading"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="w-25 lazyloading"
                                     src="https://images.verifiedmarketresearch.com/assets/VMR_Advantage.png"
                                     data-was-processed="true" /></noscript></div>
                         <div class="col-md-8 float-left mt-3 pl-0">
@@ -646,11 +610,11 @@
                             <p><a class="vmr-btn-blue vmr-btn-hover-teal"
                                     href="<?= HOST?>report-store/">Know more</a></p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/categorization.png"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/categorization.png"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/categorization.png" /></noscript>
                         </div>
                     </div>
@@ -662,11 +626,7 @@
     <section id="sec_text_only_12" style="" class="content-area w-100 sec_text_only">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left pl-0">
                             <h3 class="vmr-color-blue-dark mt-4 mb-3 vmr-font24 text-uppercase">Research Methodology
@@ -680,11 +640,11 @@
                                 sources we discern the market penetration of various segments and get a better
                                 understanding of the potential and current competition in the market.</p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/research_methodology.jpg"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/research_methodology.jpg"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/research_methodology.jpg" /></noscript>
                         </div>
                     </div>
@@ -696,11 +656,7 @@
     <section id="sec_text_only_13" style="" class="content-area w-100 sec_text_only">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <p class="text-justify">The data we obtain is then provided in a multitude of ways, such as in
                             the form of tables, charts and graphs to offer dynamic visualization of the entire market
@@ -719,11 +675,7 @@
     <section id="sec_text_only_14" style="" class="content-area w-100 sec_text_only">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left pl-0">
                             <h3 class="vmr-color-blue-dark mt-4 mb-3 vmr-font24 text-uppercase">Analyst’s Role And Data
@@ -737,11 +689,11 @@
                             <p><a class="vmr-btn-blue vmr-btn-hover-teal"
                                     href="<?= HOST?>request-a-demo/">Know more</a></p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/analysts_role.jpg"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/analysts_role.jpg"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/analysts_role.jpg" /></noscript>
                         </div>
                     </div>
@@ -753,11 +705,7 @@
     <section id="sec_text_only_15" style="" class="content-area w-100 sec_text_only">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left p-0">
                             <h3 class="vmr-color-blue-dark mt-4 mb-3 vmr-font24 text-uppercase">Reports in PDF And EXCEL
@@ -770,11 +718,11 @@
                                 dashboard’s data page. This way, all the meeting attendees can look at the real-time
                                 information on their screens.</p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/Reports_in_PDF_and_Excel.jpg"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/Reports_in_PDF_and_Excel.jpg"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/Reports_in_PDF_and_Excel.jpg" /></noscript>
                         </div>
                     </div>
@@ -804,11 +752,7 @@
     <section id="sec_text_only_17" style="" class="content-area w-100 sec_text_only">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left p-0">
                             <h3 class="vmr-color-blue-dark mt-4 mb-3 vmr-font24 text-uppercase">PDF Presentations And
@@ -825,11 +769,11 @@
                             <p><a class="vmr-btn-blue vmr-btn-hover-teal"
                                     href="<?= HOST?>vmintelligence/">Know more</a></p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/Talking_about_the_presentation.jpg"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/Talking_about_the_presentation.jpg"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/Talking_about_the_presentation.jpg" /></noscript>
                         </div>
                     </div>
@@ -841,11 +785,7 @@
     <section id="sec_text_only_18" style="" class="content-area w-100 sec_text_only pt-4 pb-5 mt-3 vmr-bg-blue-dark">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-12">
+              <div class="col-md-12">
                     <div class="vmr-font-w300 text-secondary text-left">
                         <div class="col-md-8 float-left pl-0">
                             <h3 class="vmr-color-white mt-4 mb-3 vmr-font24 text-uppercase">How to start market research
@@ -861,11 +801,11 @@
                             <p><a class="vmr-btn-white vmr-font16 vmr-btn-medium vmr-btn-hover-teal"
                                     href="//www.verifiedmarketresearch.com/contact-us/">Know more</a></p>
                         </div>
-                        <div class="col-md-4 text-center float-left pt-5"><img decoding="async"
+                        <div class="col-md-4 text-center float-left pt-5"><img loading="lazy" decoding="async"
                                 class="img-responsive entered lazyloaded"
                                 src="https://images.verifiedmarketresearch.com/assets/how_to_start_market_reserach.png"
                                 data-lazy-src="https://images.verifiedmarketresearch.com/assets/how_to_start_market_reserach.png"
-                                data-ll-status="loaded"><noscript><img decoding="async" class="img-responsive"
+                                data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" class="img-responsive"
                                     src="https://images.verifiedmarketresearch.com/assets/how_to_start_market_reserach.png" /></noscript>
                         </div>
                     </div>
@@ -985,6 +925,10 @@
     </section>
 <?php include'revslider.php';?>
 <?php include'get_in_touch.php';?>
+
+
+</div>
+<?php include'footer.php';?>
     <script type="text/javascript">
        document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".count-number").forEach(el => {
@@ -1006,29 +950,17 @@
     </script>
 
     <script type="text/javascript">
-
-
-        jQuery(document).ready(function () {
-            jQuery('.understand_research_slider').owlCarousel({
-                loop: true,
-                margin: 10,
-                dots: true,
-                autoplay: false,
-                autoplaySpeed: 1500,
-                items: 1,
-                mouseDrag: false,
-                animateOut: 'fadeOut',
-                nav: false,
-
-                /* responsive:{
-                   767:{
-                       autoHeight: true,
-                   }
-               }*/
-            });
+    jQuery(document).ready(function () {
+        jQuery('.understand_research_slider').owlCarousel({
+            loop: true,
+            margin: 10,
+            dots: true,
+            autoplay: false,
+            autoplaySpeed: 1500,
+            items: 1,
+            mouseDrag: true,
+            animateOut: 'fadeOut',
+            nav: false
         });
-
+    });
     </script>
-
-</div>
-<?php include'footer.php';?>

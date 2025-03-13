@@ -1,4 +1,4 @@
-<?php include 'header1.php';?>
+<?php include'header1.php';?>
 <div id="content" class="site-content become-a-reseller">
 
     <style type="text/css">
@@ -77,6 +77,8 @@
     rotate: 274deg;
 }
     </style>
+
+
     <section id="bareseller" class="content-area mt-4 mb-5 bareseller" style="">
         <div class="container">
             <div class="row">

@@ -1,8 +1,46 @@
-<IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /
-RewriteRule ^index\.php$ - [L]
+RewriteBase /vmr/
+
+# Allow direct access to existing files and directories
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
+
+
+# Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^/.]+)$ $1.php [L]
+
+# Custom URL Rewriting Rules (Corrected Paths)
+
+RewriteRule ^about/?$ about-us.php [QSA,NC,L]
+RewriteRule ^author/gabriel-patrick/?$ gabriel_patrick.php [QSA,NC,L]
+RewriteRule ^press-release/pv-products-india-market/?$ pv-products-india-market.php [QSA,NC,L]
+RewriteRule ^marketresearchglossary/actionable-insights/?$ actionable-insights.php [QSA,NC,L]
+RewriteRule ^request-a-demo/?$ request-a-demo.php [QSA,NC,L]
+RewriteRule ^blog-details/?$ blog-details.php [QSA,NC,L]
+RewriteRule ^consulting/?$ consulting.php [QSA,NC,L]
+RewriteRule ^consulting-(.*)/?$ consulting.php [QSA,L]
+RewriteRule ^customer/?$ customer.php [QSA,NC,L]
+RewriteRule ^customer-service/?$ customer-service.php [QSA,NC,L]
+RewriteRule ^privacy-policy/?$ privacy-policy.php [QSA,NC,L]
+RewriteRule ^cookie-policy/?$ cookie-policy.php [QSA,NC,L]
+RewriteRule ^return-and-refund-policy/?$ return-and-refund-policy.php [QSA,NC,L]
+RewriteRule ^terms-and-conditions/?$ terms-and-conditions.php [QSA,NC,L]
+RewriteRule ^career-page/?$ career-page.php [QSA,NC,L]
+RewriteRule ^vmintelligence/?$ vmintelligence.php [QSA,NC,L]
+RewriteRule ^become-a-reseller/?$ become-a-reseller.php [QSA,NC,L]
+RewriteRule ^consultingchnaged/?$ consultingchnaged.php [QSA,NC,L]
+RewriteRule ^aerospace-defense-industry/?$ aerospace-defense-industry.php [QSA,NC,L]
+RewriteRule ^marketresearchglossary/?$ marketresearchglossary.php [QSA,NC,L]
+RewriteRule ^customer-testimonials/?$ customer-testimonials.php [QSA,NC,L]
+RewriteRule ^research-methodology/?$ research-methodology.php [QSA,NC,L]
+
+RewriteRule ^understand-research/?$ understand-research.php [QSA,NC,L]
+RewriteRule ^report-infographics/?$ report-infographics.php [QSA,NC,L]
+RewriteRule ^pressrelease/?$ pressrelease.php [QSA,NC,L]
+RewriteRule ^get-in-touch/?$ get_in_touch.php [QSA,NC,L]
+RewriteRule ^media-mentions/?$ media-mentions.php [QSA,NC,L]
+RewriteRule ^contact-us/?$ contact-us.php [QSA,NC,L]
+RewriteRule ^blog/?$ blogs.php [QSA,NC,L]
+

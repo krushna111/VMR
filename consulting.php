@@ -119,11 +119,7 @@
         data-ll-status="loaded">
         <div class="container">
             <div class="row">
-
-
-
-
-                <div class="col-md-8">
+             <div class="col-md-8">
                 </div>
 
                 <div class="col-md-4">
@@ -338,10 +334,6 @@
 
                     .tab {
                         float: left;
-                        /* border: 1px solid #ccc;
-                    background-color: #dfe8eb; 
-                    width: 25%;
-                    height: 400px;*/
                         border-radius: 10px 0 0 10px;
                     }
 
@@ -560,107 +552,92 @@
 <?php include'footer.php';?>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-function openTab(tabName, urlPath) {
-    console.log("Opening tab:", tabName); // Debugging log
+    function openTab(tabName, urlPath) {
+        console.log("Opening tab:", tabName); // Debugging log
 
-    document.querySelectorAll(".tabcontent").forEach(tab => {
-        tab.style.display = "none";
-    });
-
-    document.querySelectorAll(".tablinks").forEach(tab => {
-        tab.classList.remove("active");
-    });
-
-    let activeTab = document.getElementById(tabName);
-    if (activeTab) {
-        activeTab.style.display = "block";
-    } else {
-        console.error("Tab not found:", tabName);
-    }
-
-    let activeButton = document.querySelector(`[data-tab="${tabName}"]`);
-    if (activeButton) {
-        activeButton.classList.add("active");
-    }
-
-    history.pushState(null, null, urlPath);
-}
-
-
-    // Mapping of URLs to tab IDs
-    const tabMapping = {
-        "<?= HOST?>consulting-market-plan/": "marketplan",
-        "<?= HOST?>consulting-market-strategy/": "marketStrategy",
-        "<?= HOST?>consulting-vmr-business-benchmarking/": "vmrBusinessBenchmark",
-        "<?= HOST?>consulting-customer-insights/": "CustomerInsights",
-        "<?= HOST?>consulting-competitive-insights/": "CompetitiveInsights",
-        "<?= HOST?>consulting-vendor-management/": "VendorManagement"
-    };
-
-    // Handle clicks on dropdown menu links
-    document.querySelectorAll(".dropdown-menu a").forEach(link => {
-        link.addEventListener("click", function (event) {
-            event.preventDefault(); // Prevent normal navigation
-            let urlPath = this.getAttribute("href");
-            let tabName = tabMapping[urlPath] || "overview"; // Default to 'overview'
-            openTab(tabName, urlPath);
-        });
-    });
-
-    // Open correct tab based on URL on page load
-    let currentPath = window.location.pathname;
-    let initialTab = Object.values(tabMapping).find(tab => currentPath.includes(tab)) || "overview";
-    openTab(initialTab, currentPath);
-});
-document.addEventListener("DOMContentLoaded", function () {
-    function openTab(tabName) {
         // Hide all tab contents
         document.querySelectorAll(".tabcontent").forEach(tab => {
             tab.style.display = "none";
         });
 
         // Remove "active" class from all tab links
-        document.querySelectorAll(".tablinks").forEach(tabLink => {
-            tabLink.classList.remove("active");
+        document.querySelectorAll(".tablinks").forEach(tab => {
+            tab.classList.remove("active");
         });
 
-        // Show the current tab and add "active" class
-        document.getElementById(tabName).style.display = "block";
-        document.querySelector(`.tablinks[data-tab="${tabName}"]`).classList.add("active");
-    }
-
-    // Click event for tab buttons
-    document.querySelectorAll(".tablinks").forEach(button => {
-        button.addEventListener("click", function () {
-            const tabName = this.getAttribute("data-tab");
-            openTab(tabName);
-
-            // Change URL without reloading the page
-            const newUrl = this.getAttribute("data-url");
-            if (newUrl) {
-                history.pushState(null, null, newUrl);
-            }
-        });
-    });
-
-    // Handle page load and URL change to set the correct tab
-    function setActiveTabFromURL() {
-        const currentUrl = window.location.pathname;
-        const activeTab = [...document.querySelectorAll(".tablinks")].find(button => button.getAttribute("data-url") === currentUrl);
-
+        // Show the active tab
+        let activeTab = document.getElementById(tabName);
         if (activeTab) {
-            openTab(activeTab.getAttribute("data-tab"));
+            activeTab.style.display = "block";
         } else {
-            // Default to the first tab if no match
-            openTab("overview");
+            console.error("Tab not found:", tabName);
+            return; // Stop execution if tab is missing
+        }
+
+        // Highlight the active button
+        let activeButton = document.querySelector(`[data-tab="${tabName}"]`);
+        if (activeButton) {
+            activeButton.classList.add("active");
+        }
+
+        // Update the URL without reloading the page
+        if (urlPath) {
+            history.pushState(null, null, urlPath);
         }
     }
 
-    // Run when the page loads
+    // URL-to-tab mapping
+    const tabMapping = {
+        "<?=HOST?>consulting-market-plan/": "marketplan",
+        "<?=HOST?>consulting-market-strategy/": "marketStrategy",
+        "<?=HOST?>consulting-vmr-business-benchmarking/": "vmrBusinessBenchmark",
+        "<?=HOST?>consulting-customer-insights/": "CustomerInsights",
+        "<?=HOST?>consulting-competitive-insights/": "CompetitiveInsights",
+        "<?=HOST?>consulting-vendor-management/": "VendorManagement"
+    };
+
+    // Function to determine the active tab based on URL
+    function setActiveTabFromURL() {
+        let currentPath = window.location.pathname;
+        console.log("Current Path:", currentPath);
+
+        let tabName = tabMapping[currentPath] || "overview"; // Default to overview
+        console.log("Setting Active Tab:", tabName);
+
+        openTab(tabName, currentPath);
+    }
+
+    // Attach event listeners to menu items (dropdown links)
+    document.querySelectorAll(".dropdown-menu a").forEach(link => {
+        link.addEventListener("click", function (event) {
+            event.preventDefault();
+            let urlPath = this.getAttribute("href");
+
+            // Ensure URL is mapped to a tab
+            let tabName = tabMapping[urlPath] || "overview";
+            console.log("Clicked Menu Item - Tab:", tabName, "URL:", urlPath);
+
+            openTab(tabName, urlPath);
+        });
+    });
+
+    // Attach event listeners to tab buttons
+    document.querySelectorAll(".tablinks").forEach(button => {
+        button.addEventListener("click", function () {
+            const tabName = this.getAttribute("data-tab");
+            const newUrl = this.getAttribute("data-url");
+
+            console.log("Clicked Tab - Tab:", tabName, "URL:", newUrl);
+            openTab(tabName, newUrl);
+        });
+    });
+
+    // Set the correct tab on page load
     setActiveTabFromURL();
 
-    // Handle back/forward navigation
+    // Handle browser back/forward navigation
     window.addEventListener("popstate", setActiveTabFromURL);
 });
+
 
 </script>
