@@ -15,7 +15,7 @@
                     data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                     data-param9="" data-param10="" data-description="VMR Advantage">
                     <!-- MAIN IMAGE -->
-                    <img src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
+                    <img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
                         title="home-banner-1" width="1920" height="1080" data-bgposition="center center"
                         data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
@@ -98,7 +98,7 @@
                     data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                     data-param9="" data-param10="" data-description="Our Report store">
                     <!-- MAIN IMAGE -->
-                    <img src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
+                    <img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
                         title="home-banner-1" width="1920" height="1080" data-bgposition="center center"
                         data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
@@ -143,7 +143,7 @@
                     data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                     data-param9="" data-param10="" data-description="VM Intelligence">
                     <!-- MAIN IMAGE -->
-                    <img src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
+                    <img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
                         title="home-banner-1" width="1920" height="1080" data-bgposition="center center"
                         data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
@@ -187,7 +187,7 @@
                     data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                     data-param9="" data-param10="" data-description="VMR Consulting">
                     <!-- MAIN IMAGE -->
-                    <img src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
+                    <img loading="lazy" src="https://images.verifiedmarketresearch.com/assets/home-banner-1.jpg" alt=""
                         title="home-banner-1" width="1920" height="1080" data-bgposition="center center"
                         data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
