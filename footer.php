@@ -168,19 +168,19 @@
                                                 alt="ESOMAR Corporate Membership Information" border="0"
                                                 class="esomar-logo"></noscript></a>
 
-                                    <!-- DigiCert Seal HTML -->
-                                    <!-- Place HTML on your site where the seal should appear -->
                                     <div style="float:right;" id="DigiCertClickID_ol79Mylj"></div>
 
-                                    <!-- DigiCert Seal Code -->
-                                    <!-- Place with DigiCert Seal HTML or with other scripts -->
-                                    <script type="text/javascript">
-                                        var __dcid = __dcid || [];
-                                        __dcid.push({ "cid": "DigiCertClickID_ol79Mylj", "tag": "ol79Mylj", "seal_format": "dynamic" });
-                                        (function () { var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js"; var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling); }());
+                                   <script type="text/javascript">
+                                        document.addEventListener("DOMContentLoaded", function () {
+                                            var __dcid = __dcid || [];
+                                            __dcid.push({ "cid": "DigiCertClickID_ol79Mylj", "tag": "ol79Mylj", "seal_format": "dynamic" });
+                                            var cid = document.createElement("script");
+                                            cid.async = true;
+                                            cid.src = "https://seal.digicert.com/seals/cascade/seal.min.js";
+                                            document.body.appendChild(cid);
+                                        });
                                     </script>
-
-                                </div>
+                                                            </div>
                             </div>
 
                         </div>
@@ -299,9 +299,6 @@
                 }
             });
         });
-
-
-
         jQuery('#your_country').change(function () {
             var bla = jQuery('#your_country').val();
             jQuery('#hidden_country').val(bla);
@@ -328,9 +325,9 @@
 </script>
 
 <script type="text/javascript" id="stickThis-js-extra">
-    /* <![CDATA[ */
+    
     var sticky_anything_engage = { "element": ".single-product .old-research-sidebar > .widget-area, .single-product .new-research-sidebar > .widget-area, .single-infographics .new-research-sidebar > .widget-area", "topspace": "60", "minscreenwidth": "750", "maxscreenwidth": "999999", "zindex": "19", "legacymode": "", "dynamicmode": "", "debugmode": "", "pushup": "#Footer", "adminbar": "1" };
-    /* ]]> */
+
 </script>
 <script type="text/javascript" src="<?=HOST?>js/owl.carousel.js" id="sws-owl-carousel-js-js"></script>
 
@@ -351,15 +348,10 @@
 
 
 <script type="text/javascript" src="<?=HOST?>js/popper.min.js"></script>
-
 <script type="text/javascript" src="<?=HOST?>js/bootstrap.min.js"></script>
-
 <script type="text/javascript" src="<?=HOST?>js/theme-script.min.js"></script>
-
 <script type="text/javascript" src="<?=HOST?>js/slick.min.js"></script>
-
 <script type="text/javascript" src="<?=HOST?>js/slick-functions.js"></script>
-
 
 <div id="catapult-cookie-bar" class="">
     <div class="ctcc-inner vmr-cookie"><span class="ctcc-left-side">We use cookies to enhance your experience. By
@@ -642,8 +634,7 @@
         var search_placeholder = "Search Report, Market or Industry&#8203;";
         var header_search = '<form method="get" id="vmr-header-search-form" action="' + site_url + '/reports/"><div class="row"><div class="col-md-2 SearchText pl-0 text-left"><p class="pt-1 m-0 vmr-font20 vmr-color-white">Search Markets</p></div><div class="col-md-9 position-relative"><input name="key" class="form-control" type="text" placeholder="' + search_placeholder + '" id="searchbox" onkeyup="vmr_home_searching_function(this);" autocomplete="off"><input type="submit" class="submit" value="<i class=\'icon-search-fine\'></i>" style="display:none;"><button style="display:none;" class="submit home-srch-btn" type="submit"><i class="icon-search-fine"></i></button><button style="" class="submit home-srch-btn" type="submit"><img class="fa-flip-horizontal" src="' + theme_url + '/inc/assets/images/search-icon1.png"></button><div class="loader fliter_loader HomeSearchSpinner" style="display: none;"></div></div><div class="col-md-1"> <a rel="noreferer, ,noopener" href="#" class="icon_close"><i class="fa fa-times"></i></a> </div></div><div class="row"><div class="offset-md-2 col-md-9"><div class="AutoSearch rounded-bottom"></div></div></div></form>';
         jQuery('#vmr-header-search-wrap').html(header_search).toggle();
-        // jQuery('#vmr-mobile-search .fa-search').toggleClass('hidden');
-        // jQuery('#vmr-mobile-search .fa-times').toggleClass('hidden');
+        
     }
     function elementOrParentIsFixed(element) {
         var $element = jQuery(element);
@@ -690,9 +681,6 @@
 
 </script>
 
-
-
-<script>
 
     var deviceAgent = navigator.userAgent.toLowerCase();
 
