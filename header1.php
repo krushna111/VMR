@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="profile" href="http://gmpg.org/xfn/11">
+
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 
@@ -169,10 +170,9 @@
 					};</script>
 		<style type="text/css">
 			.vmr-site-logo{
-	/*max-height: 50px;*/
-}
-.pdf_excel_icon img {
-    width: 24px;
+			}
+				.pdf_excel_icon img {
+   				 width: 24px;}
 		</style>
 		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><!-- Global site tag (gtag.js) - Google Analytics -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VYM0EPLXYN"></script>
@@ -269,8 +269,7 @@
                             Aerospace &amp; Defence Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/agriculture/" onmouseover="opentab(event, 'tab_id1','tab_content1')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/Agri-and-Food-1.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/Agri-and-Food-1.png" class="" width="20" height="20"></noscript> 
@@ -278,8 +277,7 @@
                             Agriculture Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/automobile-transportation/" onmouseover="opentab(event, 'tab_id2','tab_content2')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/Automobile.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/Automobile.png" class="" width="20" height="20"></noscript> 
@@ -287,8 +285,7 @@
                             Automobile &amp; Transportation Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/banking-financial-services-insurance-2/" onmouseover="opentab(event, 'tab_id3','tab_content3')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
@@ -296,8 +293,7 @@
                             Banking, Financial Services &amp; Insurance Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/business-services/" onmouseover="opentab(event, 'tab_id4','tab_content4')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
@@ -305,8 +301,7 @@
                             Business Services Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/chemical-material/" onmouseover="opentab(event, 'tab_id5','tab_content5')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/Chemicals-and-Materials-2.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/Chemicals-and-Materials-2.png" class="" width="20" height="20"></noscript> 
@@ -314,8 +309,7 @@
                             Chemical &amp; Material Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/construction-engineering/" onmouseover="opentab(event, 'tab_id6','tab_content6')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
@@ -323,8 +317,7 @@
                             Construction &amp; Engineering Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/consumer-goods/" onmouseover="opentab(event, 'tab_id7','tab_content7')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/Consumer-Goods-1.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/Consumer-Goods-1.png" class="" width="20" height="20"></noscript> 
@@ -332,8 +325,7 @@
                             Consumer Goods Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/education/" onmouseover="opentab(event, 'tab_id8','tab_content8')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
@@ -341,8 +333,7 @@
                             Education Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/electronics-semiconductor/" onmouseover="opentab(event, 'tab_id9','tab_content9')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/semiconductor-1.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/semiconductor-1.png" class="" width="20" height="20"></noscript> 
@@ -350,8 +341,7 @@
                             Electronics &amp; Semiconductor Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/energy-power/" onmouseover="opentab(event, 'tab_id10','tab_content10')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/Energy-1.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/Energy-1.png" class="" width="20" height="20"></noscript> 
@@ -359,8 +349,7 @@
                             Energy &amp; Power Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/food-beverages/" onmouseover="opentab(event, 'tab_id11','tab_content11')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/Food-and-Beverages-1.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/Food-and-Beverages-1.png" class="" width="20" height="20"></noscript> 
@@ -368,8 +357,7 @@
                             Food &amp; Beverages Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/internet-communication-technology/" onmouseover="opentab(event, 'tab_id12','tab_content12')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
@@ -377,8 +365,7 @@
                             Internet, Communication &amp; Technology Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/manufacturing/" onmouseover="opentab(event, 'tab_id13','tab_content13')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
@@ -386,8 +373,7 @@
                             Manufacturing Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/mining-minerals-and-metals/" onmouseover="opentab(event, 'tab_id14','tab_content14')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
@@ -395,8 +381,7 @@
                             Mining, Minerals, and Metals Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/pharma-healthcare/" onmouseover="opentab(event, 'tab_id15','tab_content15')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/healthacare-2.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/healthacare-2.png" class="" width="20" height="20"></noscript> 
@@ -404,8 +389,7 @@
                             Pharma &amp; Healthcare Research                          
                         </a>
                      </li>
-                   
-                       <li>
+                   	 <li>
                         <a class="tablinks tablinks_hover1 " href="<?=HOST?>rcategory/retail/" onmouseover="opentab(event, 'tab_id16','tab_content16')">
                           <div>
                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E" class="" width="20" height="20" data-lazy-src="https://images.verifiedmarketresearch.com/assets/star.png"><noscript><img src="https://images.verifiedmarketresearch.com/assets/star.png" class="" width="20" height="20"></noscript> 
@@ -427,70 +411,46 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/airport-systems/" class="vmr-color-white vmr_font14">Airport Systems Research</a>
+                          <a href="<?=HOST?>rcategory/airport-systems/" class="vmr-color-white vmr_font14">Airport Systems Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/aviation/" class="vmr-color-white vmr_font14">Aviation Research</a>
+                          <a href="<?=HOST?>rcategory/aviation/" class="vmr-color-white vmr_font14">Aviation Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/cns-systems/" class="vmr-color-white vmr_font14">CNS Systems Research</a>
+                          <a href="<?=HOST?>rcategory/cns-systems/" class="vmr-color-white vmr_font14">CNS Systems Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/components/" class="vmr-color-white vmr_font14">Components Research</a>
+                          <a href="<?=HOST?>rcategory/components/" class="vmr-color-white vmr_font14">Components Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/defence-platforms-systems/" class="vmr-color-white vmr_font14">Defence Platforms &amp; Systems Research</a>
+                          <a href="<?=HOST?>rcategory/defence-platforms-systems/" class="vmr-color-white vmr_font14">Defence Platforms &amp; Systems Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/electronic-warfare/" class="vmr-color-white vmr_font14">Electronic Warfare Research</a>
+                          <a href="<?=HOST?>rcategory/electronic-warfare/" class="vmr-color-white vmr_font14">Electronic Warfare Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/homeland-security/" class="vmr-color-white vmr_font14">Homeland Security Research</a>
+                          <a href="<?=HOST?>rcategory/homeland-security/" class="vmr-color-white vmr_font14">Homeland Security Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/maintenance-repair-and-overhaul-mro/" class="vmr-color-white vmr_font14">Maintenance, Repair, and Overhaul (MRO) Research</a>
+                          <a href="<?=HOST?>rcategory/maintenance-repair-and-overhaul-mro/" class="vmr-color-white vmr_font14">Maintenance, Repair, and Overhaul (MRO) Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/marine-others/" class="vmr-color-white vmr_font14">Marine/Others Research</a>
+                          <a href="<?=HOST?>rcategory/marine-others/" class="vmr-color-white vmr_font14">Marine/Others Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/security-aerospace-defence/" class="vmr-color-white vmr_font14">Security Research</a>
+                          <a href="<?=HOST?>rcategory/security-aerospace-defence/" class="vmr-color-white vmr_font14">Security Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/simulation-training/" class="vmr-color-white vmr_font14">Simulation &amp; Training Research</a>
+                          <a href="<?=HOST?>rcategory/simulation-training/" class="vmr-color-white vmr_font14">Simulation &amp; Training Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/space/" class="vmr-color-white vmr_font14">Space Research</a>
+                          <a href="<?=HOST?>rcategory/space/" class="vmr-color-white vmr_font14">Space Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/unmanned-systems/" class="vmr-color-white vmr_font14">Unmanned Systems Research</a>
+                          <a href="<?=HOST?>rcategory/unmanned-systems/" class="vmr-color-white vmr_font14">Unmanned Systems Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -506,48 +466,31 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/agricultural-biologicals/" class="vmr-color-white vmr_font14">Agricultural Biologicals Research</a>
+                          <a href="<?=HOST?>rcategory/agricultural-biologicals/" class="vmr-color-white vmr_font14">Agricultural Biologicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/agrochemicals-fertilizers-agriculture/" class="vmr-color-white vmr_font14">Agrochemicals &amp; Fertilizers Research</a>
+                          <a href="<?=HOST?>rcategory/agrochemicals-fertilizers-agriculture/" class="vmr-color-white vmr_font14">Agrochemicals &amp; Fertilizers Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/animal-feed-feed-additives-agriculture/" class="vmr-color-white vmr_font14">Animal Feed &amp; Feed Additives Research</a>
+                          <a href="<?=HOST?>rcategory/animal-feed-feed-additives-agriculture/" class="vmr-color-white vmr_font14">Animal Feed &amp; Feed Additives Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/farm-equipment-irrigations/" class="vmr-color-white vmr_font14">Farm Equipment &amp; Irrigations Research</a>
+                          <a href="<?=HOST?>rcategory/farm-equipment-irrigations/" class="vmr-color-white vmr_font14">Farm Equipment &amp; Irrigations Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/feed-animal-nutrition/" class="vmr-color-white vmr_font14">Feed &amp; Animal Nutrition Research</a>
+                          <a href="<?=HOST?>rcategory/feed-animal-nutrition/" class="vmr-color-white vmr_font14">Feed &amp; Animal Nutrition Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/life-sciences-agriculture/" class="vmr-color-white vmr_font14">Life Sciences Research</a>
+                          <a href="<?=HOST?>rcategory/life-sciences-agriculture/" class="vmr-color-white vmr_font14">Life Sciences Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/precision-agriculture/" class="vmr-color-white vmr_font14">Precision Agriculture Research</a>
+                          <a href="<?=HOST?>rcategory/precision-agriculture/" class="vmr-color-white vmr_font14">Precision Agriculture Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/seeds-others/" class="vmr-color-white vmr_font14">Seeds &amp; Others Research</a>
+                          <a href="<?=HOST?>rcategory/seeds-others/" class="vmr-color-white vmr_font14">Seeds &amp; Others Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/testing-services/" class="vmr-color-white vmr_font14">Testing &amp; Services Research</a>
+                          <a href="<?=HOST?>rcategory/testing-services/" class="vmr-color-white vmr_font14">Testing &amp; Services Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -563,95 +506,61 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/airport-systems-automobile-transportation/" class="vmr-color-white vmr_font14">Airport Systems Research</a>
+                          <a href="<?=HOST?>rcategory/airport-systems-automobile-transportation/" class="vmr-color-white vmr_font14">Airport Systems Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/automotive-components/" class="vmr-color-white vmr_font14">Automotive Components Research</a>
+                          <a href="<?=HOST?>rcategory/automotive-components/" class="vmr-color-white vmr_font14">Automotive Components Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/automotive-logistics/" class="vmr-color-white vmr_font14">Automotive Logistics Research</a>
+                          <a href="<?=HOST?>rcategory/automotive-logistics/" class="vmr-color-white vmr_font14">Automotive Logistics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/automotive-technology-services/" class="vmr-color-white vmr_font14">Automotive Technology &amp; Services Research</a>
+                          <a href="<?=HOST?>rcategory/automotive-technology-services/" class="vmr-color-white vmr_font14">Automotive Technology &amp; Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/autonomous-vehicles/" class="vmr-color-white vmr_font14">Autonomous Vehicles Research</a>
+                          <a href="<?=HOST?>rcategory/autonomous-vehicles/" class="vmr-color-white vmr_font14">Autonomous Vehicles Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/aviation-automobile-transportation/" class="vmr-color-white vmr_font14">Aviation Research</a>
+                          <a href="<?=HOST?>rcategory/aviation-automobile-transportation/" class="vmr-color-white vmr_font14">Aviation Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/bikes-and-motorcycles/" class="vmr-color-white vmr_font14">Bikes And Motorcycles Research</a>
+                          <a href="<?=HOST?>rcategory/bikes-and-motorcycles/" class="vmr-color-white vmr_font14">Bikes And Motorcycles Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/farm-equipment-irrigations-automobile-transportation/" class="vmr-color-white vmr_font14">Farm Equipment &amp; Irrigations Research</a>
+                          <a href="<?=HOST?>rcategory/farm-equipment-irrigations-automobile-transportation/" class="vmr-color-white vmr_font14">Farm Equipment &amp; Irrigations Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/ice-electric-hybrid-autonomous-vehicles/" class="vmr-color-white vmr_font14">ICE, Electric, Hybrid, Autonomous Vehicles Research</a>
+                          <a href="<?=HOST?>rcategory/ice-electric-hybrid-autonomous-vehicles/" class="vmr-color-white vmr_font14">ICE, Electric, Hybrid, Autonomous Vehicles Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/marine-others-automobile-transportation/" class="vmr-color-white vmr_font14">Marine/Others Research</a>
+                          <a href="<?=HOST?>rcategory/marine-others-automobile-transportation/" class="vmr-color-white vmr_font14">Marine/Others Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/off-road-vehicles-lcv-hcv/" class="vmr-color-white vmr_font14">Off Road Vehicles, LCV, HCV Research</a>
+                          <a href="<?=HOST?>rcategory/off-road-vehicles-lcv-hcv/" class="vmr-color-white vmr_font14">Off Road Vehicles, LCV, HCV Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/power-generation-transmission-distribution-automobile-transportation/" class="vmr-color-white vmr_font14">Power Generation, Transmission &amp; Distribution Research</a>
+                          <a href="<?=HOST?>rcategory/power-generation-transmission-distribution-automobile-transportation/" class="vmr-color-white vmr_font14">Power Generation, Transmission &amp; Distribution Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/railway/" class="vmr-color-white vmr_font14">Railway Research</a>
+                          <a href="<?=HOST?>rcategory/railway/" class="vmr-color-white vmr_font14">Railway Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/sensor-and-control-automobile-transportation/" class="vmr-color-white vmr_font14">Sensor And Control Research</a>
+                          <a href="<?=HOST?>rcategory/sensor-and-control-automobile-transportation/" class="vmr-color-white vmr_font14">Sensor And Control Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/telematics-infotainment/" class="vmr-color-white vmr_font14">Telematics &amp; Infotainment Research</a>
+                          <a href="<?=HOST?>rcategory/telematics-infotainment/" class="vmr-color-white vmr_font14">Telematics &amp; Infotainment Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/testing-inspection-certification-automobile-transportation/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
+                          <a href="<?=HOST?>rcategory/testing-inspection-certification-automobile-transportation/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/tires-wheels/" class="vmr-color-white vmr_font14">Tires &amp; Wheels Research</a>
+                          <a href="<?=HOST?>rcategory/tires-wheels/" class="vmr-color-white vmr_font14">Tires &amp; Wheels Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/unmanned-systems-automobile-transportation/" class="vmr-color-white vmr_font14">Unmanned Systems Research</a>
+                          <a href="<?=HOST?>rcategory/unmanned-systems-automobile-transportation/" class="vmr-color-white vmr_font14">Unmanned Systems Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -667,33 +576,22 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/banking-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">Banking Research</a>
+                          <a href="<?=HOST?>rcategory/banking-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">Banking Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/fintech-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">FinTech Research</a>
+                          <a href="<?=HOST?>rcategory/fintech-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">FinTech Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/insurance-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">Insurance Research</a>
+                          <a href="<?=HOST?>rcategory/insurance-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">Insurance Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/payments-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">Payments Research</a>
+                          <a href="<?=HOST?>rcategory/payments-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">Payments Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/security/" class="vmr-color-white vmr_font14">Security Research</a>
+                          <a href="<?=HOST?>rcategory/security/" class="vmr-color-white vmr_font14">Security Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/testing-inspection-certification-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
+                          <a href="<?=HOST?>rcategory/testing-inspection-certification-banking-financial-services-insurance-2/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -709,75 +607,49 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/accounting-services/" class="vmr-color-white vmr_font14">Accounting Services Research</a>
+                          <a href="<?=HOST?>rcategory/accounting-services/" class="vmr-color-white vmr_font14">Accounting Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/architectural-and-engineering-services/" class="vmr-color-white vmr_font14">Architectural and Engineering Services Research</a>
+                          <a href="<?=HOST?>rcategory/architectural-and-engineering-services/" class="vmr-color-white vmr_font14">Architectural and Engineering Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/commercial-cleaning-services/" class="vmr-color-white vmr_font14">Commercial Cleaning Services Research</a>
+                          <a href="<?=HOST?>rcategory/commercial-cleaning-services/" class="vmr-color-white vmr_font14">Commercial Cleaning Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/corporate-training-development/" class="vmr-color-white vmr_font14">Corporate Training &amp; Development Research</a>
+                          <a href="<?=HOST?>rcategory/corporate-training-development/" class="vmr-color-white vmr_font14">Corporate Training &amp; Development Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/environmental-services/" class="vmr-color-white vmr_font14">Environmental Services Research</a>
+                          <a href="<?=HOST?>rcategory/environmental-services/" class="vmr-color-white vmr_font14">Environmental Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/health-and-safety-services/" class="vmr-color-white vmr_font14">Health and Safety Services Research</a>
+                          <a href="<?=HOST?>rcategory/health-and-safety-services/" class="vmr-color-white vmr_font14">Health and Safety Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/human-resources-services/" class="vmr-color-white vmr_font14">Human Resources Services Research</a>
+                          <a href="<?=HOST?>rcategory/human-resources-services/" class="vmr-color-white vmr_font14">Human Resources Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/information-technology-services/" class="vmr-color-white vmr_font14">Information Technology Services Research</a>
+                          <a href="<?=HOST?>rcategory/information-technology-services/" class="vmr-color-white vmr_font14">Information Technology Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/management-consulting/" class="vmr-color-white vmr_font14">Management Consulting Research</a>
+                          <a href="<?=HOST?>rcategory/management-consulting/" class="vmr-color-white vmr_font14">Management Consulting Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/overhead-consumables-and-accessories/" class="vmr-color-white vmr_font14">Overhead, Consumables and Accessories Research</a>
+                          <a href="<?=HOST?>rcategory/overhead-consumables-and-accessories/" class="vmr-color-white vmr_font14">Overhead, Consumables and Accessories Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/professional-services-business-services/" class="vmr-color-white vmr_font14">Professional Services Research</a>
+                          <a href="<?=HOST?>rcategory/professional-services-business-services/" class="vmr-color-white vmr_font14">Professional Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/real-estate-services/" class="vmr-color-white vmr_font14">Real Estate Services Research</a>
+                          <a href="<?=HOST?>rcategory/real-estate-services/" class="vmr-color-white vmr_font14">Real Estate Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/security-services/" class="vmr-color-white vmr_font14">Security Services Research</a>
+                          <a href="<?=HOST?>rcategory/security-services/" class="vmr-color-white vmr_font14">Security Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/supply-chain-management-services/" class="vmr-color-white vmr_font14">Supply Chain Management Services Research</a>
+                          <a href="<?=HOST?>rcategory/supply-chain-management-services/" class="vmr-color-white vmr_font14">Supply Chain Management Services Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -793,102 +665,67 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/adhesives-sealants/" class="vmr-color-white vmr_font14">Adhesives &amp; Sealants Research</a>
+                          <a href="<?=HOST?>rcategory/adhesives-sealants/" class="vmr-color-white vmr_font14">Adhesives &amp; Sealants Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/advanced-materials/" class="vmr-color-white vmr_font14">Advanced Materials Research</a>
+                          <a href="<?=HOST?>rcategory/advanced-materials/" class="vmr-color-white vmr_font14">Advanced Materials Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/agrochemicals-fertilizers/" class="vmr-color-white vmr_font14">Agrochemicals &amp; Fertilizers Research</a>
+                          <a href="<?=HOST?>rcategory/agrochemicals-fertilizers/" class="vmr-color-white vmr_font14">Agrochemicals &amp; Fertilizers Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/basic-chemicals/" class="vmr-color-white vmr_font14">Basic Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/basic-chemicals/" class="vmr-color-white vmr_font14">Basic Chemicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/disinfectants-preservatives/" class="vmr-color-white vmr_font14">Disinfectants &amp; Preservatives Research</a>
+                          <a href="<?=HOST?>rcategory/disinfectants-preservatives/" class="vmr-color-white vmr_font14">Disinfectants &amp; Preservatives Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/feed-animal-nutrition-chemical-material/" class="vmr-color-white vmr_font14">Feed &amp; Animal Nutrition Research</a>
+                          <a href="<?=HOST?>rcategory/feed-animal-nutrition-chemical-material/" class="vmr-color-white vmr_font14">Feed &amp; Animal Nutrition Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/inorganic-chemicals/" class="vmr-color-white vmr_font14">Inorganic Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/inorganic-chemicals/" class="vmr-color-white vmr_font14">Inorganic Chemicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/metals-alloys/" class="vmr-color-white vmr_font14">Metals &amp; Alloys Research</a>
+                          <a href="<?=HOST?>rcategory/metals-alloys/" class="vmr-color-white vmr_font14">Metals &amp; Alloys Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/nano-technology/" class="vmr-color-white vmr_font14">Nano Technology Research</a>
+                          <a href="<?=HOST?>rcategory/nano-technology/" class="vmr-color-white vmr_font14">Nano Technology Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/organic-chemicals/" class="vmr-color-white vmr_font14">Organic Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/organic-chemicals/" class="vmr-color-white vmr_font14">Organic Chemicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/packaging-chemical-material/" class="vmr-color-white vmr_font14">Packaging Research</a>
+                          <a href="<?=HOST?>rcategory/packaging-chemical-material/" class="vmr-color-white vmr_font14">Packaging Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/petrochemicals/" class="vmr-color-white vmr_font14">Petrochemicals Research</a>
+                          <a href="<?=HOST?>rcategory/petrochemicals/" class="vmr-color-white vmr_font14">Petrochemicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/pharmaceutical-chemical-material/" class="vmr-color-white vmr_font14">Pharmaceutical Research</a>
+                          <a href="<?=HOST?>rcategory/pharmaceutical-chemical-material/" class="vmr-color-white vmr_font14">Pharmaceutical Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/plastics-polymers-resins/" class="vmr-color-white vmr_font14">Plastics, Polymers &amp; Resins Research</a>
+                          <a href="<?=HOST?>rcategory/plastics-polymers-resins/" class="vmr-color-white vmr_font14">Plastics, Polymers &amp; Resins Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/polymers-plastics/" class="vmr-color-white vmr_font14">Polymers &amp; Plastics Research</a>
+                          <a href="<?=HOST?>rcategory/polymers-plastics/" class="vmr-color-white vmr_font14">Polymers &amp; Plastics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/renewable-chemicals/" class="vmr-color-white vmr_font14">Renewable Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/renewable-chemicals/" class="vmr-color-white vmr_font14">Renewable Chemicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/specialty-chemicals/" class="vmr-color-white vmr_font14">Specialty Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/specialty-chemicals/" class="vmr-color-white vmr_font14">Specialty Chemicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/testing-inspection-certification-chemical-material/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
+                          <a href="<?=HOST?>rcategory/testing-inspection-certification-chemical-material/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/water-treatment-chemicals/" class="vmr-color-white vmr_font14">Water Treatment Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/water-treatment-chemicals/" class="vmr-color-white vmr_font14">Water Treatment Chemicals Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -904,60 +741,40 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/building-construction-construction-engineering/" class="vmr-color-white vmr_font14">Building Construction Research</a>
+                          <a href="<?=HOST?>rcategory/building-construction-construction-engineering/" class="vmr-color-white vmr_font14">Building Construction Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/construction-equipment-machinery/" class="vmr-color-white vmr_font14">Construction Equipment &amp; Machinery Research</a>
+                          <a href="<?=HOST?>rcategory/construction-equipment-machinery/" class="vmr-color-white vmr_font14">Construction Equipment &amp; Machinery Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/construction-materials/" class="vmr-color-white vmr_font14">Construction Materials Research</a>
+                          <a href="<?=HOST?>rcategory/construction-materials/" class="vmr-color-white vmr_font14">Construction Materials Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/engineering-services/" class="vmr-color-white vmr_font14">Engineering Services Research</a>
+                          <a href="<?=HOST?>rcategory/engineering-services/" class="vmr-color-white vmr_font14">Engineering Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/green-construction/" class="vmr-color-white vmr_font14">Green Construction Research</a>
+                          <a href="<?=HOST?>rcategory/green-construction/" class="vmr-color-white vmr_font14">Green Construction Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/infrastructure-construction/" class="vmr-color-white vmr_font14">Infrastructure Construction Research</a>
+                          <a href="<?=HOST?>rcategory/infrastructure-construction/" class="vmr-color-white vmr_font14">Infrastructure Construction Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/machinery-equipment-construction-engineering/" class="vmr-color-white vmr_font14">Machinery &amp; Equipment Research</a>
+                          <a href="<?=HOST?>rcategory/machinery-equipment-construction-engineering/" class="vmr-color-white vmr_font14">Machinery &amp; Equipment Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/safety-security-equipment-construction-engineering/" class="vmr-color-white vmr_font14">Safety &amp; Security Equipment Research</a>
+                          <a href="<?=HOST?>rcategory/safety-security-equipment-construction-engineering/" class="vmr-color-white vmr_font14">Safety &amp; Security Equipment Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/smart-infrastructure/" class="vmr-color-white vmr_font14">Smart Infrastructure Research</a>
+                          <a href="<?=HOST?>rcategory/smart-infrastructure/" class="vmr-color-white vmr_font14">Smart Infrastructure Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/specialty-construction/" class="vmr-color-white vmr_font14">Specialty Construction Research</a>
+                          <a href="<?=HOST?>rcategory/specialty-construction/" class="vmr-color-white vmr_font14">Specialty Construction Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/testing-inspection-certification-construction-engineering/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
+                          <a href="<?=HOST?>rcategory/testing-inspection-certification-construction-engineering/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -973,65 +790,43 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/beauty-personal-care/" class="vmr-color-white vmr_font14">Beauty &amp; Personal Care Research</a>
+                          <a href="<?=HOST?>rcategory/beauty-personal-care/" class="vmr-color-white vmr_font14">Beauty &amp; Personal Care Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/clothing-footwear-accessories/" class="vmr-color-white vmr_font14">Clothing, Footwear &amp; Accessories Research</a>
+                          <a href="<?=HOST?>rcategory/clothing-footwear-accessories/" class="vmr-color-white vmr_font14">Clothing, Footwear &amp; Accessories Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/consumer-electronic-devices-consumer-goods/" class="vmr-color-white vmr_font14">Consumer Electronic Devices Research</a>
+                          <a href="<?=HOST?>rcategory/consumer-electronic-devices-consumer-goods/" class="vmr-color-white vmr_font14">Consumer Electronic Devices Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/consumer-fb/" class="vmr-color-white vmr_font14">Consumer F&amp;B Research</a>
+                          <a href="<?=HOST?>rcategory/consumer-fb/" class="vmr-color-white vmr_font14">Consumer F&amp;B Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/electronic-electrical/" class="vmr-color-white vmr_font14">Electronic &amp; Electrical Research</a>
+                          <a href="<?=HOST?>rcategory/electronic-electrical/" class="vmr-color-white vmr_font14">Electronic &amp; Electrical Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/electronics-appliances-consumer-goods/" class="vmr-color-white vmr_font14">Electronics &amp; Appliances Research</a>
+                          <a href="<?=HOST?>rcategory/electronics-appliances-consumer-goods/" class="vmr-color-white vmr_font14">Electronics &amp; Appliances Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-beverage/" class="vmr-color-white vmr_font14">Food &amp; Beverage Research</a>
+                          <a href="<?=HOST?>rcategory/food-beverage/" class="vmr-color-white vmr_font14">Food &amp; Beverage Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-packaging-consumer-goods/" class="vmr-color-white vmr_font14">Food Packaging Research</a>
+                          <a href="<?=HOST?>rcategory/food-packaging-consumer-goods/" class="vmr-color-white vmr_font14">Food Packaging Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/homecare-decor/" class="vmr-color-white vmr_font14">Homecare &amp; Decor Research</a>
+                          <a href="<?=HOST?>rcategory/homecare-decor/" class="vmr-color-white vmr_font14">Homecare &amp; Decor Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/luxury-designer-consumer-goods/" class="vmr-color-white vmr_font14">Luxury &amp; Designer Research</a>
+                          <a href="<?=HOST?>rcategory/luxury-designer-consumer-goods/" class="vmr-color-white vmr_font14">Luxury &amp; Designer Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/sports-leisure/" class="vmr-color-white vmr_font14">Sports &amp; Leisure Research</a>
+                          <a href="<?=HOST?>rcategory/sports-leisure/" class="vmr-color-white vmr_font14">Sports &amp; Leisure Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/sustainable-consumer-goods/" class="vmr-color-white vmr_font14">Sustainable Consumer Goods Research</a>
+                          <a href="<?=HOST?>rcategory/sustainable-consumer-goods/" class="vmr-color-white vmr_font14">Sustainable Consumer Goods Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1047,18 +842,13 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/e-learning-online-education/" class="vmr-color-white vmr_font14">E-Learning &amp; Online Education Research</a>
+                          <a href="<?=HOST?>rcategory/e-learning-online-education/" class="vmr-color-white vmr_font14">E-Learning &amp; Online Education Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/higher-education/" class="vmr-color-white vmr_font14">Higher Education Research</a>
+                          <a href="<?=HOST?>rcategory/higher-education/" class="vmr-color-white vmr_font14">Higher Education Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/k-12-education/" class="vmr-color-white vmr_font14">K-12 Education Research</a>
+                          <a href="<?=HOST?>rcategory/k-12-education/" class="vmr-color-white vmr_font14">K-12 Education Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1074,154 +864,100 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/advanced-materials-electronics-semiconductor/" class="vmr-color-white vmr_font14">Advanced Materials Research</a>
+                          <a href="<?=HOST?>rcategory/advanced-materials-electronics-semiconductor/" class="vmr-color-white vmr_font14">Advanced Materials Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/augmented-virtual-reality/" class="vmr-color-white vmr_font14">Augmented/Virtual Reality Research</a>
+                          <a href="<?=HOST?>rcategory/augmented-virtual-reality/" class="vmr-color-white vmr_font14">Augmented/Virtual Reality Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/battery-wireless-charging/" class="vmr-color-white vmr_font14">Battery &amp; Wireless Charging Research</a>
+                          <a href="<?=HOST?>rcategory/battery-wireless-charging/" class="vmr-color-white vmr_font14">Battery &amp; Wireless Charging Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/camera-display-lighting/" class="vmr-color-white vmr_font14">Camera, Display &amp; Lighting Research</a>
+                          <a href="<?=HOST?>rcategory/camera-display-lighting/" class="vmr-color-white vmr_font14">Camera, Display &amp; Lighting Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/chipset-and-processors/" class="vmr-color-white vmr_font14">Chipset And Processors Research</a>
+                          <a href="<?=HOST?>rcategory/chipset-and-processors/" class="vmr-color-white vmr_font14">Chipset And Processors Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/communication-connectivity-technoology/" class="vmr-color-white vmr_font14">Communication &amp; Connectivity Technology Research</a>
+                          <a href="<?=HOST?>rcategory/communication-connectivity-technoology/" class="vmr-color-white vmr_font14">Communication &amp; Connectivity Technology Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/consumer-electronic-devices/" class="vmr-color-white vmr_font14">Consumer Electronic Devices Research</a>
+                          <a href="<?=HOST?>rcategory/consumer-electronic-devices/" class="vmr-color-white vmr_font14">Consumer Electronic Devices Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/data-center-networking/" class="vmr-color-white vmr_font14">Data Center &amp; Networking Research</a>
+                          <a href="<?=HOST?>rcategory/data-center-networking/" class="vmr-color-white vmr_font14">Data Center &amp; Networking Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/display-technology/" class="vmr-color-white vmr_font14">Display Technology Research</a>
+                          <a href="<?=HOST?>rcategory/display-technology/" class="vmr-color-white vmr_font14">Display Technology Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/drones-robotics/" class="vmr-color-white vmr_font14">Drones &amp; Robotics Research</a>
+                          <a href="<?=HOST?>rcategory/drones-robotics/" class="vmr-color-white vmr_font14">Drones &amp; Robotics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/electronic-electrical-electronics-semiconductor/" class="vmr-color-white vmr_font14">Electronic &amp; Electrical Research</a>
+                          <a href="<?=HOST?>rcategory/electronic-electrical-electronics-semiconductor/" class="vmr-color-white vmr_font14">Electronic &amp; Electrical Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/electronics-system-components/" class="vmr-color-white vmr_font14">Electronics System &amp; Components Research</a>
+                          <a href="<?=HOST?>rcategory/electronics-system-components/" class="vmr-color-white vmr_font14">Electronics System &amp; Components Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/energy-storage-electronics-semiconductor/" class="vmr-color-white vmr_font14">Energy Storage Research</a>
+                          <a href="<?=HOST?>rcategory/energy-storage-electronics-semiconductor/" class="vmr-color-white vmr_font14">Energy Storage Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/industrial-automation/" class="vmr-color-white vmr_font14">Industrial Automation Research</a>
+                          <a href="<?=HOST?>rcategory/industrial-automation/" class="vmr-color-white vmr_font14">Industrial Automation Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/information-system-analytics/" class="vmr-color-white vmr_font14">Information System &amp; Analytics Research</a>
+                          <a href="<?=HOST?>rcategory/information-system-analytics/" class="vmr-color-white vmr_font14">Information System &amp; Analytics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/internet-of-things-m2m/" class="vmr-color-white vmr_font14">Internet of Things &amp; M2M Research</a>
+                          <a href="<?=HOST?>rcategory/internet-of-things-m2m/" class="vmr-color-white vmr_font14">Internet of Things &amp; M2M Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/materials-components/" class="vmr-color-white vmr_font14">Materials &amp; Components Research</a>
+                          <a href="<?=HOST?>rcategory/materials-components/" class="vmr-color-white vmr_font14">Materials &amp; Components Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/nanotechnology/" class="vmr-color-white vmr_font14">Nanotechnology Research</a>
+                          <a href="<?=HOST?>rcategory/nanotechnology/" class="vmr-color-white vmr_font14">Nanotechnology Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/next-generation-technologies-electronics-semiconductor/" class="vmr-color-white vmr_font14">Next Generation Technologies Research</a>
+                          <a href="<?=HOST?>rcategory/next-generation-technologies-electronics-semiconductor/" class="vmr-color-white vmr_font14">Next Generation Technologies Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/power-energy/" class="vmr-color-white vmr_font14">Power &amp; Energy Research</a>
+                          <a href="<?=HOST?>rcategory/power-energy/" class="vmr-color-white vmr_font14">Power &amp; Energy Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/power-generation-transmission-distribution-electronics-semiconductor/" class="vmr-color-white vmr_font14">Power Generation, Transmission &amp; Distribution Research</a>
+                          <a href="<?=HOST?>rcategory/power-generation-transmission-distribution-electronics-semiconductor/" class="vmr-color-white vmr_font14">Power Generation, Transmission &amp; Distribution Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/security-access-control-and-robotics/" class="vmr-color-white vmr_font14">Security, Access Control And Robotics Research</a>
+                          <a href="<?=HOST?>rcategory/security-access-control-and-robotics/" class="vmr-color-white vmr_font14">Security, Access Control And Robotics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/semiconductor-materials-components/" class="vmr-color-white vmr_font14">Semiconductor Materials &amp; Components Research</a>
+                          <a href="<?=HOST?>rcategory/semiconductor-materials-components/" class="vmr-color-white vmr_font14">Semiconductor Materials &amp; Components Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/sensor-and-control/" class="vmr-color-white vmr_font14">Sensor And Control Research</a>
+                          <a href="<?=HOST?>rcategory/sensor-and-control/" class="vmr-color-white vmr_font14">Sensor And Control Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/silicon-wafer-fabrication/" class="vmr-color-white vmr_font14">Silicon, Wafer &amp; Fabrication Research</a>
+                          <a href="<?=HOST?>rcategory/silicon-wafer-fabrication/" class="vmr-color-white vmr_font14">Silicon, Wafer &amp; Fabrication Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/simulation-training-electronics-semiconductor/" class="vmr-color-white vmr_font14">Simulation &amp; Training Research</a>
+                          <a href="<?=HOST?>rcategory/simulation-training-electronics-semiconductor/" class="vmr-color-white vmr_font14">Simulation &amp; Training Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/specialty-chemicals-electronics-semiconductor/" class="vmr-color-white vmr_font14">Specialty Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/specialty-chemicals-electronics-semiconductor/" class="vmr-color-white vmr_font14">Specialty Chemicals Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/testing-inspection-certification/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
+                          <a href="<?=HOST?>rcategory/testing-inspection-certification/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/wearable-technology/" class="vmr-color-white vmr_font14">Wearable Technology Research</a>
+                          <a href="<?=HOST?>rcategory/wearable-technology/" class="vmr-color-white vmr_font14">Wearable Technology Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1237,43 +973,28 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/batteries/" class="vmr-color-white vmr_font14">Batteries Research</a>
+                          <a href="<?=HOST?>rcategory/batteries/" class="vmr-color-white vmr_font14">Batteries Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/drilling-intervention-completion/" class="vmr-color-white vmr_font14">Drilling, Intervention &amp; Completion Research</a>
+                          <a href="<?=HOST?>rcategory/drilling-intervention-completion/" class="vmr-color-white vmr_font14">Drilling, Intervention &amp; Completion Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/energy-storage/" class="vmr-color-white vmr_font14">Energy Storage Research</a>
+                          <a href="<?=HOST?>rcategory/energy-storage/" class="vmr-color-white vmr_font14">Energy Storage Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/industrial-motors-pumps-control-devices/" class="vmr-color-white vmr_font14">Industrial Motors, Pumps &amp; Control Devices Research</a>
+                          <a href="<?=HOST?>rcategory/industrial-motors-pumps-control-devices/" class="vmr-color-white vmr_font14">Industrial Motors, Pumps &amp; Control Devices Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/offshore-oil-gas/" class="vmr-color-white vmr_font14">Offshore Oil &amp; Gas Research</a>
+                          <a href="<?=HOST?>rcategory/offshore-oil-gas/" class="vmr-color-white vmr_font14">Offshore Oil &amp; Gas Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/power-generation-transmission-distribution/" class="vmr-color-white vmr_font14">Power Generation, Transmission &amp; Distribution Research</a>
+                          <a href="<?=HOST?>rcategory/power-generation-transmission-distribution/" class="vmr-color-white vmr_font14">Power Generation, Transmission &amp; Distribution Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/renewable-energy/" class="vmr-color-white vmr_font14">Renewable Energy Research</a>
+                          <a href="<?=HOST?>rcategory/renewable-energy/" class="vmr-color-white vmr_font14">Renewable Energy Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/smart-grid/" class="vmr-color-white vmr_font14">Smart Grid Research</a>
+                          <a href="<?=HOST?>rcategory/smart-grid/" class="vmr-color-white vmr_font14">Smart Grid Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1289,117 +1010,76 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/alternative-food-sources/" class="vmr-color-white vmr_font14">Alternative Food Sources Research</a>
+                          <a href="<?=HOST?>rcategory/alternative-food-sources/" class="vmr-color-white vmr_font14">Alternative Food Sources Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/animal-feed-feed-additives/" class="vmr-color-white vmr_font14">Animal Feed &amp; Feed Additives Research</a>
+                          <a href="<?=HOST?>rcategory/animal-feed-feed-additives/" class="vmr-color-white vmr_font14">Animal Feed &amp; Feed Additives Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/cold-chain-logistics/" class="vmr-color-white vmr_font14">Cold Chain Logistics Research</a>
+                          <a href="<?=HOST?>rcategory/cold-chain-logistics/" class="vmr-color-white vmr_font14">Cold Chain Logistics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/flavors-colors-fragrances/" class="vmr-color-white vmr_font14">Flavors, Colors &amp; Fragrances Research</a>
+                          <a href="<?=HOST?>rcategory/flavors-colors-fragrances/" class="vmr-color-white vmr_font14">Flavors, Colors &amp; Fragrances Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-additives-ingredients/" class="vmr-color-white vmr_font14">Food Additives &amp; Ingredients Research</a>
+                          <a href="<?=HOST?>rcategory/food-additives-ingredients/" class="vmr-color-white vmr_font14">Food Additives &amp; Ingredients Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-beverage-additives/" class="vmr-color-white vmr_font14">Food &amp; Beverage Additives Research</a>
+                          <a href="<?=HOST?>rcategory/food-beverage-additives/" class="vmr-color-white vmr_font14">Food &amp; Beverage Additives Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-beverage-ingredients/" class="vmr-color-white vmr_font14">Food &amp; Beverage Ingredients Research</a>
+                          <a href="<?=HOST?>rcategory/food-beverage-ingredients/" class="vmr-color-white vmr_font14">Food &amp; Beverage Ingredients Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-beverage-logistics/" class="vmr-color-white vmr_font14">Food &amp; Beverage Logistics Research</a>
+                          <a href="<?=HOST?>rcategory/food-beverage-logistics/" class="vmr-color-white vmr_font14">Food &amp; Beverage Logistics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-beverage-logistics-cold-chain-packaging/" class="vmr-color-white vmr_font14">Food &amp; Beverage Logistics, Cold Chain &amp; Packaging Research</a>
+                          <a href="<?=HOST?>rcategory/food-beverage-logistics-cold-chain-packaging/" class="vmr-color-white vmr_font14">Food &amp; Beverage Logistics, Cold Chain &amp; Packaging Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-beverage-processing-and-technology/" class="vmr-color-white vmr_font14">Food &amp; Beverage Processing and Technology Research</a>
+                          <a href="<?=HOST?>rcategory/food-beverage-processing-and-technology/" class="vmr-color-white vmr_font14">Food &amp; Beverage Processing and Technology Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-packaging/" class="vmr-color-white vmr_font14">Food Packaging Research</a>
+                          <a href="<?=HOST?>rcategory/food-packaging/" class="vmr-color-white vmr_font14">Food Packaging Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-processing-equipment-technology/" class="vmr-color-white vmr_font14">Food Processing Equipment &amp; Technology Research</a>
+                          <a href="<?=HOST?>rcategory/food-processing-equipment-technology/" class="vmr-color-white vmr_font14">Food Processing Equipment &amp; Technology Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-safety-processing/" class="vmr-color-white vmr_font14">Food Safety &amp; Processing Research</a>
+                          <a href="<?=HOST?>rcategory/food-safety-processing/" class="vmr-color-white vmr_font14">Food Safety &amp; Processing Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-safety-standards/" class="vmr-color-white vmr_font14">Food Safety &amp; Standards Research</a>
+                          <a href="<?=HOST?>rcategory/food-safety-standards/" class="vmr-color-white vmr_font14">Food Safety &amp; Standards Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/nutraceuticals-dietary-supplements/" class="vmr-color-white vmr_font14">Nutraceuticals &amp; Dietary Supplements Research</a>
+                          <a href="<?=HOST?>rcategory/nutraceuticals-dietary-supplements/" class="vmr-color-white vmr_font14">Nutraceuticals &amp; Dietary Supplements Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/nutraceuticals-functional-foods/" class="vmr-color-white vmr_font14">Nutraceuticals &amp; Functional Foods Research</a>
+                          <a href="<?=HOST?>rcategory/nutraceuticals-functional-foods/" class="vmr-color-white vmr_font14">Nutraceuticals &amp; Functional Foods Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/packaging-food-beverages/" class="vmr-color-white vmr_font14">Packaging Research</a>
+                          <a href="<?=HOST?>rcategory/packaging-food-beverages/" class="vmr-color-white vmr_font14">Packaging Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/plant-based-alternatives-ingredients/" class="vmr-color-white vmr_font14">Plant Based Alternatives/Ingredients Research</a>
+                          <a href="<?=HOST?>rcategory/plant-based-alternatives-ingredients/" class="vmr-color-white vmr_font14">Plant Based Alternatives/Ingredients Research</a>
                        </li>
                           </ul>
                        
-                                                 <ul class="col-lg-6 col-md-12 p-0">
-                                                <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/processed-frozen-foods/" class="vmr-color-white vmr_font14">Processed &amp; Frozen Foods Research</a>
-                       </li>
-                           
+                     <ul class="col-lg-6 col-md-12 p-0">
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/proteins-vitamins-and-minerals/" class="vmr-color-white vmr_font14">Proteins, Vitamins and Minerals Research</a>
+                          <a href="<?=HOST?>rcategory/processed-frozen-foods/" class="vmr-color-white vmr_font14">Processed &amp; Frozen Foods Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/seeds-others-food-beverages/" class="vmr-color-white vmr_font14">Seeds &amp; Others Research</a>
+                          <a href="<?=HOST?>rcategory/proteins-vitamins-and-minerals/" class="vmr-color-white vmr_font14">Proteins, Vitamins and Minerals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/software-services-food-beverages/" class="vmr-color-white vmr_font14">Software &amp; Services Research</a>
+                          <a href="<?=HOST?>rcategory/seeds-others-food-beverages/" class="vmr-color-white vmr_font14">Seeds &amp; Others Research</a>
+                       </li>
+                       <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
+                          <a href="<?=HOST?>rcategory/software-services-food-beverages/" class="vmr-color-white vmr_font14">Software &amp; Services Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1415,174 +1095,112 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/analytics-internet-communication-technology/" class="vmr-color-white vmr_font14">Analytics Research</a>
+                          <a href="<?=HOST?>rcategory/analytics-internet-communication-technology/" class="vmr-color-white vmr_font14">Analytics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/application-software-internet-communication-technology/" class="vmr-color-white vmr_font14">Application Software Research</a>
+                          <a href="<?=HOST?>rcategory/application-software-internet-communication-technology/" class="vmr-color-white vmr_font14">Application Software Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/artificial-intelligence-ai-internet-communication-technology/" class="vmr-color-white vmr_font14">Artificial Intelligence (AI) Research</a>
+                          <a href="<?=HOST?>rcategory/artificial-intelligence-ai-internet-communication-technology/" class="vmr-color-white vmr_font14">Artificial Intelligence (AI) Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/augmented-virtual-reality-internet-communication-technology/" class="vmr-color-white vmr_font14">Augmented/Virtual Reality Research</a>
+                          <a href="<?=HOST?>rcategory/augmented-virtual-reality-internet-communication-technology/" class="vmr-color-white vmr_font14">Augmented/Virtual Reality Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/banking/" class="vmr-color-white vmr_font14">Banking Research</a>
+                          <a href="<?=HOST?>rcategory/banking/" class="vmr-color-white vmr_font14">Banking Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/cloud-computing-internet-communication-technology/" class="vmr-color-white vmr_font14">Cloud Computing Research</a>
+                          <a href="<?=HOST?>rcategory/cloud-computing-internet-communication-technology/" class="vmr-color-white vmr_font14">Cloud Computing Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/communication-connectivity-technology/" class="vmr-color-white vmr_font14">Communication &amp; Connectivity Technology Research</a>
+                          <a href="<?=HOST?>rcategory/communication-connectivity-technology/" class="vmr-color-white vmr_font14">Communication &amp; Connectivity Technology Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/communication-services-internet-communication-technology/" class="vmr-color-white vmr_font14">Communication Services Research</a>
+                          <a href="<?=HOST?>rcategory/communication-services-internet-communication-technology/" class="vmr-color-white vmr_font14">Communication Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/cyber-security-internet-communication-technology/" class="vmr-color-white vmr_font14">Cyber Security Research</a>
+                          <a href="<?=HOST?>rcategory/cyber-security-internet-communication-technology/" class="vmr-color-white vmr_font14">Cyber Security Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/data-center-networking-internet-communication-technology/" class="vmr-color-white vmr_font14">Data Center &amp; Networking Research</a>
+                          <a href="<?=HOST?>rcategory/data-center-networking-internet-communication-technology/" class="vmr-color-white vmr_font14">Data Center &amp; Networking Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/digital-media-internet-communication-technology/" class="vmr-color-white vmr_font14">Digital Media Research</a>
+                          <a href="<?=HOST?>rcategory/digital-media-internet-communication-technology/" class="vmr-color-white vmr_font14">Digital Media Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/digitalization-iot-internet-communication-technology/" class="vmr-color-white vmr_font14">Digitalization &amp; IoT Research</a>
+                          <a href="<?=HOST?>rcategory/digitalization-iot-internet-communication-technology/" class="vmr-color-white vmr_font14">Digitalization &amp; IoT Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/e-commerce-internet-communication-technology/" class="vmr-color-white vmr_font14">E-commerce Research</a>
+                          <a href="<?=HOST?>rcategory/e-commerce-internet-communication-technology/" class="vmr-color-white vmr_font14">E-commerce Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/endpoint-security/" class="vmr-color-white vmr_font14">Endpoint Security Research</a>
+                          <a href="<?=HOST?>rcategory/endpoint-security/" class="vmr-color-white vmr_font14">Endpoint Security Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/healthcare-it-internet-communication-technology/" class="vmr-color-white vmr_font14">Healthcare IT Research</a>
+                          <a href="<?=HOST?>rcategory/healthcare-it-internet-communication-technology/" class="vmr-color-white vmr_font14">Healthcare IT Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/healthcare-services-internet-communication-technology/" class="vmr-color-white vmr_font14">Healthcare Services Research</a>
+                          <a href="<?=HOST?>rcategory/healthcare-services-internet-communication-technology/" class="vmr-color-white vmr_font14">Healthcare Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/industrial-automation-internet-communication-technology/" class="vmr-color-white vmr_font14">Industrial Automation Research</a>
+                          <a href="<?=HOST?>rcategory/industrial-automation-internet-communication-technology/" class="vmr-color-white vmr_font14">Industrial Automation Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/information-system-analytics-internet-communication-technology/" class="vmr-color-white vmr_font14">Information System &amp; Analytics Research</a>
+                          <a href="<?=HOST?>rcategory/information-system-analytics-internet-communication-technology/" class="vmr-color-white vmr_font14">Information System &amp; Analytics Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/internet-of-things-m2m-internet-communication-technology/" class="vmr-color-white vmr_font14">Internet of Things &amp; M2M Research</a>
+                          <a href="<?=HOST?>rcategory/internet-of-things-m2m-internet-communication-technology/" class="vmr-color-white vmr_font14">Internet of Things &amp; M2M Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/maintenance-and-repair-services/" class="vmr-color-white vmr_font14">Maintenance and Repair Services Research</a>
+                          <a href="<?=HOST?>rcategory/maintenance-and-repair-services/" class="vmr-color-white vmr_font14">Maintenance and Repair Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/materials-internet-communication-technology/" class="vmr-color-white vmr_font14">Materials Research</a>
+                          <a href="<?=HOST?>rcategory/materials-internet-communication-technology/" class="vmr-color-white vmr_font14">Materials Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/medical-devices-internet-communication-technology/" class="vmr-color-white vmr_font14">Medical Devices Research</a>
+                          <a href="<?=HOST?>rcategory/medical-devices-internet-communication-technology/" class="vmr-color-white vmr_font14">Medical Devices Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/mobility-telecom-internet-communication-technology/" class="vmr-color-white vmr_font14">Mobility &amp; Telecom Research</a>
+                          <a href="<?=HOST?>rcategory/mobility-telecom-internet-communication-technology/" class="vmr-color-white vmr_font14">Mobility &amp; Telecom Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/network-security-internet-communication-technology/" class="vmr-color-white vmr_font14">Network Security Research</a>
+                          <a href="<?=HOST?>rcategory/network-security-internet-communication-technology/" class="vmr-color-white vmr_font14">Network Security Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/next-generation-technologies-internet-communication-technology/" class="vmr-color-white vmr_font14">Next Generation Technologies Research</a>
+                          <a href="<?=HOST?>rcategory/next-generation-technologies-internet-communication-technology/" class="vmr-color-white vmr_font14">Next Generation Technologies Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/organic-chemicals-internet-communication-technology/" class="vmr-color-white vmr_font14">Organic Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/organic-chemicals-internet-communication-technology/" class="vmr-color-white vmr_font14">Organic Chemicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/pharmaceutical-internet-communication-technology/" class="vmr-color-white vmr_font14">Pharmaceutical Research</a>
+                          <a href="<?=HOST?>rcategory/pharmaceutical-internet-communication-technology/" class="vmr-color-white vmr_font14">Pharmaceutical Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/professional-services/" class="vmr-color-white vmr_font14">Professional Services Research</a>
+                          <a href="<?=HOST?>rcategory/professional-services/" class="vmr-color-white vmr_font14">Professional Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/public-safety-internet-communication-technology/" class="vmr-color-white vmr_font14">Public Safety Research</a>
+                          <a href="<?=HOST?>rcategory/public-safety-internet-communication-technology/" class="vmr-color-white vmr_font14">Public Safety Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/security-access-control-and-robotics-internet-communication-technology/" class="vmr-color-white vmr_font14">Security, Access Control And Robotics Research</a>
+                          <a href="<?=HOST?>rcategory/security-access-control-and-robotics-internet-communication-technology/" class="vmr-color-white vmr_font14">Security, Access Control And Robotics Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/security-internet-communication-technology/" class="vmr-color-white vmr_font14">Security Research</a>
+                          <a href="<?=HOST?>rcategory/security-internet-communication-technology/" class="vmr-color-white vmr_font14">Security Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/software-services-internet-communication-technology/" class="vmr-color-white vmr_font14">Software &amp; Services Research</a>
+                          <a href="<?=HOST?>rcategory/software-services-internet-communication-technology/" class="vmr-color-white vmr_font14">Software &amp; Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/wearable-technology-internet-communication-technology/" class="vmr-color-white vmr_font14">Wearable Technology Research</a>
+                          <a href="<?=HOST?>rcategory/wearable-technology-internet-communication-technology/" class="vmr-color-white vmr_font14">Wearable Technology Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1598,159 +1216,103 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/advanced-materials-manufacturing/" class="vmr-color-white vmr_font14">Advanced Materials Research</a>
+                          <a href="<?=HOST?>rcategory/advanced-materials-manufacturing/" class="vmr-color-white vmr_font14">Advanced Materials Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/automotive-components-manufacturing/" class="vmr-color-white vmr_font14">Automotive Components Research</a>
+                          <a href="<?=HOST?>rcategory/automotive-components-manufacturing/" class="vmr-color-white vmr_font14">Automotive Components Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/building-construction-manufacturing/" class="vmr-color-white vmr_font14">Building Construction Research</a>
+                          <a href="<?=HOST?>rcategory/building-construction-manufacturing/" class="vmr-color-white vmr_font14">Building Construction Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/chemicals-pharmaceuticals/" class="vmr-color-white vmr_font14">Chemicals &amp; Pharmaceuticals Research</a>
+                          <a href="<?=HOST?>rcategory/chemicals-pharmaceuticals/" class="vmr-color-white vmr_font14">Chemicals &amp; Pharmaceuticals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/construction-materials-manufacturing/" class="vmr-color-white vmr_font14">Construction Materials Research</a>
+                          <a href="<?=HOST?>rcategory/construction-materials-manufacturing/" class="vmr-color-white vmr_font14">Construction Materials Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/consumer-goods-manufacturing/" class="vmr-color-white vmr_font14">Consumer Goods Research</a>
+                          <a href="<?=HOST?>rcategory/consumer-goods-manufacturing/" class="vmr-color-white vmr_font14">Consumer Goods Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/data-center-networking-manufacturing/" class="vmr-color-white vmr_font14">Data Center &amp; Networking Research</a>
+                          <a href="<?=HOST?>rcategory/data-center-networking-manufacturing/" class="vmr-color-white vmr_font14">Data Center &amp; Networking Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/electronics-semiconductor-manufacturing/" class="vmr-color-white vmr_font14">Electronics &amp; Semiconductor Research</a>
+                          <a href="<?=HOST?>rcategory/electronics-semiconductor-manufacturing/" class="vmr-color-white vmr_font14">Electronics &amp; Semiconductor Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/environmental-management/" class="vmr-color-white vmr_font14">Environmental Management Research</a>
+                          <a href="<?=HOST?>rcategory/environmental-management/" class="vmr-color-white vmr_font14">Environmental Management Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/environmental-safety-manufacturing/" class="vmr-color-white vmr_font14">Environmental &amp; Safety Research</a>
+                          <a href="<?=HOST?>rcategory/environmental-safety-manufacturing/" class="vmr-color-white vmr_font14">Environmental &amp; Safety Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-beverage-manufacturing/" class="vmr-color-white vmr_font14">Food &amp; Beverage Research</a>
+                          <a href="<?=HOST?>rcategory/food-beverage-manufacturing/" class="vmr-color-white vmr_font14">Food &amp; Beverage Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/healthcare-services-manufacturing/" class="vmr-color-white vmr_font14">Healthcare Services Research</a>
+                          <a href="<?=HOST?>rcategory/healthcare-services-manufacturing/" class="vmr-color-white vmr_font14">Healthcare Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/heavy-industry/" class="vmr-color-white vmr_font14">Heavy Industry Research</a>
+                          <a href="<?=HOST?>rcategory/heavy-industry/" class="vmr-color-white vmr_font14">Heavy Industry Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/industrial-automation-manufacturing/" class="vmr-color-white vmr_font14">Industrial Automation Research</a>
+                          <a href="<?=HOST?>rcategory/industrial-automation-manufacturing/" class="vmr-color-white vmr_font14">Industrial Automation Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/machinery-equipment/" class="vmr-color-white vmr_font14">Machinery &amp; Equipment Research</a>
+                          <a href="<?=HOST?>rcategory/machinery-equipment/" class="vmr-color-white vmr_font14">Machinery &amp; Equipment Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/materials/" class="vmr-color-white vmr_font14">Materials Research</a>
+                          <a href="<?=HOST?>rcategory/materials/" class="vmr-color-white vmr_font14">Materials Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/metals-alloys-manufacturing/" class="vmr-color-white vmr_font14">Metals &amp; Alloys Research</a>
+                          <a href="<?=HOST?>rcategory/metals-alloys-manufacturing/" class="vmr-color-white vmr_font14">Metals &amp; Alloys Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/packaging-manufacturing/" class="vmr-color-white vmr_font14">Packaging Research</a>
+                          <a href="<?=HOST?>rcategory/packaging-manufacturing/" class="vmr-color-white vmr_font14">Packaging Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/pharmaceutical-manufacturing/" class="vmr-color-white vmr_font14">Pharmaceutical Research</a>
+                          <a href="<?=HOST?>rcategory/pharmaceutical-manufacturing/" class="vmr-color-white vmr_font14">Pharmaceutical Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/plastics-polymers-resins-manufacturing/" class="vmr-color-white vmr_font14">Plastics, Polymers &amp; Resins Research</a>
+                          <a href="<?=HOST?>rcategory/plastics-polymers-resins-manufacturing/" class="vmr-color-white vmr_font14">Plastics, Polymers &amp; Resins Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/recycling/" class="vmr-color-white vmr_font14">Recycling Research</a>
+                          <a href="<?=HOST?>rcategory/recycling/" class="vmr-color-white vmr_font14">Recycling Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/recycling-waste-management/" class="vmr-color-white vmr_font14">Recycling &amp; Waste Management Research</a>
+                          <a href="<?=HOST?>rcategory/recycling-waste-management/" class="vmr-color-white vmr_font14">Recycling &amp; Waste Management Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/safety-equipment/" class="vmr-color-white vmr_font14">Safety Equipment Research</a>
+                          <a href="<?=HOST?>rcategory/safety-equipment/" class="vmr-color-white vmr_font14">Safety Equipment Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/safety-security-equipment/" class="vmr-color-white vmr_font14">Safety &amp; Security Equipment Research</a>
+                          <a href="<?=HOST?>rcategory/safety-security-equipment/" class="vmr-color-white vmr_font14">Safety &amp; Security Equipment Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/sensor-and-control-manufacturing/" class="vmr-color-white vmr_font14">Sensor And Control Research</a>
+                          <a href="<?=HOST?>rcategory/sensor-and-control-manufacturing/" class="vmr-color-white vmr_font14">Sensor And Control Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/software-services-manufacturing/" class="vmr-color-white vmr_font14">Software &amp; Services Research</a>
+                          <a href="<?=HOST?>rcategory/software-services-manufacturing/" class="vmr-color-white vmr_font14">Software &amp; Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/specialty-chemicals-manufacturing/" class="vmr-color-white vmr_font14">Specialty Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/specialty-chemicals-manufacturing/" class="vmr-color-white vmr_font14">Specialty Chemicals Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/testing-inspection-certification-manufacturing/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
+                          <a href="<?=HOST?>rcategory/testing-inspection-certification-manufacturing/" class="vmr-color-white vmr_font14">Testing, Inspection &amp; Certification Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/textiles-apparel/" class="vmr-color-white vmr_font14">Textiles &amp; Apparel Research</a>
+                          <a href="<?=HOST?>rcategory/textiles-apparel/" class="vmr-color-white vmr_font14">Textiles &amp; Apparel Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/valves-actuators/" class="vmr-color-white vmr_font14">Valves &amp; Actuators Research</a>
+                          <a href="<?=HOST?>rcategory/valves-actuators/" class="vmr-color-white vmr_font14">Valves &amp; Actuators Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1766,48 +1328,31 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/advanced-materials-mining-minerals-and-metals/" class="vmr-color-white vmr_font14">Advanced Materials Research</a>
+                          <a href="<?=HOST?>rcategory/advanced-materials-mining-minerals-and-metals/" class="vmr-color-white vmr_font14">Advanced Materials Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/basic-chemicals-mining-minerals-and-metals/" class="vmr-color-white vmr_font14">Basic Chemicals Research</a>
+                          <a href="<?=HOST?>rcategory/basic-chemicals-mining-minerals-and-metals/" class="vmr-color-white vmr_font14">Basic Chemicals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/environmental-safety/" class="vmr-color-white vmr_font14">Environmental &amp; Safety Research</a>
+                          <a href="<?=HOST?>rcategory/environmental-safety/" class="vmr-color-white vmr_font14">Environmental &amp; Safety Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/metallic-minerals/" class="vmr-color-white vmr_font14">Metallic Minerals Research</a>
+                          <a href="<?=HOST?>rcategory/metallic-minerals/" class="vmr-color-white vmr_font14">Metallic Minerals Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/metals/" class="vmr-color-white vmr_font14">Metals Research Analysis</a>
+                          <a href="<?=HOST?>rcategory/metals/" class="vmr-color-white vmr_font14">Metals Research Analysis</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/metals-alloys-mining-minerals-and-metals/" class="vmr-color-white vmr_font14">Metals &amp; Alloys Research</a>
+                          <a href="<?=HOST?>rcategory/metals-alloys-mining-minerals-and-metals/" class="vmr-color-white vmr_font14">Metals &amp; Alloys Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/mining-equipment-technology/" class="vmr-color-white vmr_font14">Mining Equipment &amp; Technology Research</a>
+                          <a href="<?=HOST?>rcategory/mining-equipment-technology/" class="vmr-color-white vmr_font14">Mining Equipment &amp; Technology Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/mining-services/" class="vmr-color-white vmr_font14">Mining Services Research</a>
+                          <a href="<?=HOST?>rcategory/mining-services/" class="vmr-color-white vmr_font14">Mining Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/non-metallic-minerals/" class="vmr-color-white vmr_font14">Non-Metallic Minerals Research</a>
+                          <a href="<?=HOST?>rcategory/non-metallic-minerals/" class="vmr-color-white vmr_font14">Non-Metallic Minerals Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1823,70 +1368,46 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/biotechnology/" class="vmr-color-white vmr_font14">Biotechnology Research</a>
+                          <a href="<?=HOST?>rcategory/biotechnology/" class="vmr-color-white vmr_font14">Biotechnology Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/cell-biology/" class="vmr-color-white vmr_font14">Cell Biology Research</a>
+                          <a href="<?=HOST?>rcategory/cell-biology/" class="vmr-color-white vmr_font14">Cell Biology Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/consumer-goods-pharma-healthcare/" class="vmr-color-white vmr_font14">Consumer Goods Research</a>
+                          <a href="<?=HOST?>rcategory/consumer-goods-pharma-healthcare/" class="vmr-color-white vmr_font14">Consumer Goods Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/healthcare/" class="vmr-color-white vmr_font14">healthcare</a>
+                          <a href="<?=HOST?>rcategory/healthcare/" class="vmr-color-white vmr_font14">healthcare</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/healthcare-it/" class="vmr-color-white vmr_font14">Healthcare IT Research</a>
+                          <a href="<?=HOST?>rcategory/healthcare-it/" class="vmr-color-white vmr_font14">Healthcare IT Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/healthcare-services/" class="vmr-color-white vmr_font14">Healthcare Services Research</a>
+                          <a href="<?=HOST?>rcategory/healthcare-services/" class="vmr-color-white vmr_font14">Healthcare Services Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/life-sciences/" class="vmr-color-white vmr_font14">Life Sciences Research</a>
+                          <a href="<?=HOST?>rcategory/life-sciences/" class="vmr-color-white vmr_font14">Life Sciences Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/machinery-equipment-pharma-healthcare/" class="vmr-color-white vmr_font14">Machinery &amp; Equipment Research</a>
+                          <a href="<?=HOST?>rcategory/machinery-equipment-pharma-healthcare/" class="vmr-color-white vmr_font14">Machinery &amp; Equipment Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/medical-device/" class="vmr-color-white vmr_font14">Medical Device Research</a>
+                          <a href="<?=HOST?>rcategory/medical-device/" class="vmr-color-white vmr_font14">Medical Device Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/medical-devices/" class="vmr-color-white vmr_font14">Medical Devices Research</a>
+                          <a href="<?=HOST?>rcategory/medical-devices/" class="vmr-color-white vmr_font14">Medical Devices Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/nutraceuticals-dietary-supplements-pharma-healthcare/" class="vmr-color-white vmr_font14">Nutraceuticals &amp; Dietary Supplements Research</a>
+                          <a href="<?=HOST?>rcategory/nutraceuticals-dietary-supplements-pharma-healthcare/" class="vmr-color-white vmr_font14">Nutraceuticals &amp; Dietary Supplements Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/pharmaceutical/" class="vmr-color-white vmr_font14">Pharmaceutical Research</a>
+                          <a href="<?=HOST?>rcategory/pharmaceutical/" class="vmr-color-white vmr_font14">Pharmaceutical Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/testing-services-pharma-healthcare/" class="vmr-color-white vmr_font14">Testing &amp; Services Research</a>
+                          <a href="<?=HOST?>rcategory/testing-services-pharma-healthcare/" class="vmr-color-white vmr_font14">Testing &amp; Services Research</a>
                        </li>
                           </ul>
                                           </div>
@@ -1902,55 +1423,37 @@
                          
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/apparel-footwear/" class="vmr-color-white vmr_font14">Apparel &amp; Footwear Research</a>
+                          <a href="<?=HOST?>rcategory/apparel-footwear/" class="vmr-color-white vmr_font14">Apparel &amp; Footwear Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/brick-and-mortar/" class="vmr-color-white vmr_font14">Brick And Mortar Research</a>
+                          <a href="<?=HOST?>rcategory/brick-and-mortar/" class="vmr-color-white vmr_font14">Brick And Mortar Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/e-commerce/" class="vmr-color-white vmr_font14">E-Commerce Research</a>
+                          <a href="<?=HOST?>rcategory/e-commerce/" class="vmr-color-white vmr_font14">E-Commerce Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/electronics-appliances/" class="vmr-color-white vmr_font14">Electronics &amp; Appliances Research</a>
+                          <a href="<?=HOST?>rcategory/electronics-appliances/" class="vmr-color-white vmr_font14">Electronics &amp; Appliances Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/food-beverage-retail/" class="vmr-color-white vmr_font14">Food &amp; Beverage Research</a>
+                          <a href="<?=HOST?>rcategory/food-beverage-retail/" class="vmr-color-white vmr_font14">Food &amp; Beverage Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/home-furniture/" class="vmr-color-white vmr_font14">Home &amp; Furniture Research</a>
+                          <a href="<?=HOST?>rcategory/home-furniture/" class="vmr-color-white vmr_font14">Home &amp; Furniture Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/luxury-designer/" class="vmr-color-white vmr_font14">Luxury &amp; Designer Research</a>
+                          <a href="<?=HOST?>rcategory/luxury-designer/" class="vmr-color-white vmr_font14">Luxury &amp; Designer Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/medical-devices-retail/" class="vmr-color-white vmr_font14">Medical Devices Research</a>
+                          <a href="<?=HOST?>rcategory/medical-devices-retail/" class="vmr-color-white vmr_font14">Medical Devices Research</a>
                        </li>
-                           
                        <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/specialty-retail/" class="vmr-color-white vmr_font14">Specialty Retail Research</a>
+                          <a href="<?=HOST?>rcategory/specialty-retail/" class="vmr-color-white vmr_font14">Specialty Retail Research</a>
                        </li>
                           </ul>
                        
                                                  <ul class="col-lg-6 col-md-12 p-0">
                                                 <li class="mb-3"> <i class="fa fa-angle-double-right"></i>
-                          <!-- temporary commnet -->
-                         <a href="<?=HOST?>rcategory/sports-leisure-retail/" class="vmr-color-white vmr_font14">Sports &amp; Leisure Research</a>
+                          <a href="<?=HOST?>rcategory/sports-leisure-retail/" class="vmr-color-white vmr_font14">Sports &amp; Leisure Research</a>
                        </li>
                           </ul>
                                           </div>

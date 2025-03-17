@@ -1,7 +1,9 @@
 <?php include'header.php';?>
 <div id="content" class="site-content">
     <style>
-        
+        div#rev_slider_10_1_wrapper {
+    overflow: hidden;
+}
     </style>
 
     <div id="rev_slider_10_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-source="gallery"
